@@ -1,4 +1,4 @@
-<img src="https://media.forgecdn.net/avatars/847/320/638246677762754714.png" width="60" height="60"> <font size="200"><b>Optimum<font color="#ff6600">Fuse</font></b></font>
+<img src="[https://media.forgecdn.net/avatars/847/320/638246677762754714.png](https://media.forgecdn.net/avatars/847/320/638246677762754714.png)" width="60" height="60"> <font size="200"><b>Optimum<font color="#ff6600">Fuse</font></b></font>
  
 
 <h3>An optimization and QoL modpack for Quilt, NeoForge, Fabric and Forge! Get all the features that OptiFine provides but with the modern technologies and more FPS!</h3><br>
