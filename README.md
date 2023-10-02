@@ -28,6 +28,9 @@ This modpack is aimed to provide immense performance to Minecraft. This is an al
 **4) Graphics:** Fast \[In Additive and Adrenaline\]  
 **4) Leaves Quality:** Fancy \[In SimplyOptimized, Additive and Adrenaline\]  
 
+**\*These tests were held in Minecraft - 1.20.1.  
+\*No resource-pack files are changed/turned off. This may affect the results since, Better Grass produces an FPS boost. This was done, since these features were considered as a part of increasing the performance and boosting the FPS. There may be other disputable configurations to be turned on/off or to be changed.**
+
 * * *
 
 Every **OptiFine** feature is available: <br>
@@ -46,3 +49,15 @@ C\-Zoom
 ConnectedTextures</b><br>
 <img src="https://lh3.googleusercontent.com/fife/AKsag4Ol5X1Jc0keWkbkueZhu2m73qTgiZhDLmbGdSYZukK88iJM_j1F2UfpkW35iUr7dK6KgvhW91wYHa-6WIU4_ETacWAkR-GyCsnRSIz7rm193ba-SGw1ux3JXqhl5yRWR18mWvmWFFeOlbHbHhMqgZxmDPJJPFbuNhW_8Pw2b8EXS1GHNPQRHfG4YMaYeL4spbzxBCzRp0a7xnRHl2Pvg8BSSjFT9V7Qgl6AGr06iz2FdHH15V_2_OcG0kDhAa9NUoO8vTBatBCJBWRi0KYc1oa7hKtdmPAMS_QLGi81bDUzrYutMyFYSwpX742PEBxzWE7CvNJrey6s-ynEunc9tL8STDHRnQg0j5z0_vQVBEOE8QuTU3wOZ32ZJ0GxR1phWNzciN28_qjOFjsAIIhbUCSEKDOi0tI54yUilMzqj1c4qQFgvyjbGwAVsTD0MyQvvad_msNsVBj4ca8X6Eva-V35aartrhLvr6nhPaEMzDQ88ODUeThhc9fmQ-b4TlcwzSA9kV1ve1ExR7jTNjdiLya6A8WYItmrwWveXFRw7ExFjHZboTXqcntw58GNxxrPkOb_gxlZnd227tIep-Sxt_rSX55EIxgNOeCfUG2f69HRHjBLi-tqPgGl0IL3cbC41TIRQX6fY2zcI6ftm4j-JM4kOOJBb2-KiJz0AYn8WJg0J416SCm4zgA7Sb5ANOANI9LvNRie6pM-0Kle2_vWSZugu4RS9sOfDs4ro5-AkjWTC7prtH76hpKd0Ko9jLPP9Rz6dTmYGWHLt_MT5nYnHM7ol08bAfgKkeeaMT-KNhruucgkjPxPcAvG-j6ePwalA6euC6T0x7rLus7_cMx9ZgTK-zpj2AFIiV912FNV23Ak3nw56hO-OInDAcLVaIjIbQzH3TlO66ln9GmB08PcSMPL1y7EfY1HfmOiCQ7iES8RKZNunX5QuOC4cerMZ0tafr3omft3x9y_-iPDT1ElLtaFu3hO01VCaCPsY5YggWoNe_edMyV1lvRs4UwGoT6jrFNGyuZKA5U_NX8PXNEU8aQzV7BEatBnOw1JCrDGW5fqChdPUCch3t_Y0RLuPSYX4uMat5rFPfFQpvsSuXzfnLmuAtkyD-o5oWoXdnPgsOuU7zR-zuPT_d7fGS8ZiUW6KyAA-MzGQBWskgtC-FBcqiAC4TVAdwELEGgj6Emr2U-zHCJ1JtudyJ4bWk2S2r2-uCKEVrLEJs34jsiaVKy1kiQvW3pzIEBVv8Rg7YJbhcFlQQngc345aP9woEJf-sEkocAWAYW3bP1y3Z_b9cTRx0lS8ifJXx7ZhC-FgNJQvTtaSuOapkfyMyEpGOEUU7vlCO43W7b3nYXlUOj01YoCFkEIWYQu392dszY38a28RaZDoLrS2gq5smZoOpNq0ACFNZE5uMYpFW7f_i2irwfLfHA52LylwVKn4f45cPPx-3vMD7QaTXUo5ujEVSUN0hCT3YMCBUk4dzR_SR269tOv4i3H1mMpttNdbAwo1XSH73QykwoKemjKVVlDUur-4TY=w1087-h913" width="625"><br>
 and much more...!
+* * *
+
+### A Special Thanks to:
+
+**1) [HyperSoop](https://modrinth.com/user/HyperSoop)** for allowing to use a part (important configs for additional optimization) of their modpack: **[Simply Optimized](https://modrinth.com/modpack/sop)**, under the _[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)_!  
+  
+  
+**2) For the Forge and Neoforge versions:** 
+  
+**[Does Potato Tick](https://www.curseforge.com/minecraft/mc-mods/doespotatotick)** \[The newer versions of the mod are not being uploaded on Modrinth\] : _[GNU LESSER GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/lgpl-3.0.en.html#license-text)_  
+  
+**[Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)** \[Fork of LambDynamicLights\] : _[The MIT License](https://mit-license.org/)_ **[Ok Zoomer Forge](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge)** \[Fork of Ok Zoomer\] : _[The MIT License](https://mit-license.org/)_
