@@ -2,13 +2,14 @@
 
   
 
-<center>By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a></center>
+<center>By<b> <a href="https://github.com/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a></center>
 
 * * *
+### An optimization and QoL modpack for Quilt, NeoForge, Fabric and Forge, based on Simply Optimized!
 
-### An optimization and QoL modpack for Quilt, NeoForge, Fabric and Forge! Get all the features that OptiFine provides but with the modern technologies and more FPS!
-
-This modpack is aimed to provide immense performance to Minecraft. This is an alternative to the great **OptiFine** mod. The aim of this modpack is to provide all the features that **OptiFine** features, with greater performance and newer technologies.
+This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.  
+  
+If you find any issue/bug or want to suggest any feature, you can issue a [Bug Report 🐞](https://github.com/UltimatChamp/optimum-fuse/issues/new) and/or a [Pull Request⛑️](https://github.com/UltimatChamp/optimum-fuse/pulls)!
 
 * * *
 
@@ -17,19 +18,24 @@ This modpack is aimed to provide immense performance to Minecraft. This is an al
 
 * * *
 
-![](https://cdn.modrinth.com/data/nQYjpo27/images/7cd0b62ef58038059687ff08f4e26220cdf29613.png)
+![](https://cdn.modrinth.com/data/nQYjpo27/images/2929d0313ea0a0dfd69cde71bc1267d7031bbf87.png)
 
-### Default configurations except these for all these modpacks to have a fair chance against each other:
+### Default configurations except these to have a fair competition:
 
 **1) Render and Simulation Distance:** 12  
 **2) Added mod:** FPS Display \[In Simply Optimized and Adrenaline\]  
 **3) Disabled:** VSync \[In Additive and Adrenaline\]  
 **4) Max Framerate:** Unlimited(260) \[In Additive and Adrenaline\]  
-**4) Graphics:** Fast \[In Additive and Adrenaline\]  
-**4) Leaves Quality:** Fancy \[In SimplyOptimized, Additive and Adrenaline\]  
+**5) Graphics:** Fast \[In Additive and Adrenaline\]  
+**6) Leaves Quality:** Fancy \[In SimplyOptimized, Additive and Adrenaline\]  
+**\*No resource-pack files are changed/turned off.**  
 
-**\*These tests were held in Minecraft - 1.20.1.  
-\*No resource-pack files are changed/turned off. This may affect the results since, Better Grass produces an FPS boost. This was done, since these features were considered as a part of increasing the performance and boosting the FPS. There may be other disputable configurations to be turned on/off or to be changed.**
+#### Modpack Versions
+
+*   **OptimumFuse:** v1.2.0-FABRIC-MC1.20.2
+*   **SimplyOptimized:** 1.20.2-2.0.1
+*   **Adrenaline:** 1.17.1+1.20.2.fabric
+*   **Additive:** 1.21.0+1.20.2.fabric
 
 * * *
 
@@ -51,13 +57,4 @@ ConnectedTextures</b><br>
 and much more...!
 * * *
 
-### A Special Thanks to:
-
-**1) [HyperSoop](https://modrinth.com/user/HyperSoop)** for allowing to use a part (important configs for additional optimization) of their modpack: **[Simply Optimized](https://modrinth.com/modpack/sop)**, under the _[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)_!  
-  
-  
-**2) For the Forge and Neoforge versions:** 
-  
-**[Does Potato Tick](https://www.curseforge.com/minecraft/mc-mods/doespotatotick)** \[The newer versions of the mod are not being uploaded on Modrinth\] : _[GNU LESSER GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/lgpl-3.0.en.html#license-text)_  
-  
-**[Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)** \[Fork of LambDynamicLights\] : _[The MIT License](https://mit-license.org/)_ **[Ok Zoomer Forge](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge)** \[Fork of Ok Zoomer\] : _[The MIT License](https://mit-license.org/)_
+### A special thanks to **[HyperSoop](https://modrinth.com/user/HyperSoop)** for allowing to use a part (important configs for additional optimization) of their modpack: **[Simply Optimized](https://modrinth.com/modpack/sop)**, under the _[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)_!
