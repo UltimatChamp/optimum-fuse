@@ -9,7 +9,7 @@
 
 This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.  
   
-If you find any issue/bug or want to suggest any feature, you can issue a [Bug Report 🐞](https://github.com/UltimatChamp/optimum-fuse/issues/new) and/or a [Pull Request⛑️](https://github.com/UltimatChamp/optimum-fuse/pulls)!
+If you find any issue/bug or want to suggest any feature, you can issue a [Bug Report 🐞/ Request🙏](https://github.com/UltimatChamp/optimum-fuse/issues/new),  with the tag `[SUGGESTION]` or `[BUG]`!
 
 * * *
 
