@@ -6,7 +6,7 @@
 
 * * *
 
-[<img alt="Available on: Modrinth" src="https://img.shields.io/badge/Available%20On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth">](https://modrinth.com/modpack/optimum-fuse) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app)
+[<img alt="Available on: Modrinth" src="https://img.shields.io/badge/Available%20On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth">](https://modrinth.com/modpack/optimum-fuse) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation)
 
 * * *
 <h3>An optimization and QoL modpack for Quilt, NeoForge, Fabric and Forge, based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>!</h3>
