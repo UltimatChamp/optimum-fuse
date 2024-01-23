@@ -17,7 +17,7 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
 <summary>Fabric🧵/Quilt🧩 Versions</summary>
 
 <h3>⬆️Higher is Better!</h3>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/53d614372b7e911e623a60cd089a737bed770986.png">
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/930cced6429060bd70da0d6c2d7ca8aaad104c6d.png">
 
 <h2>⚙️Settings Changed:</h2>
 
