@@ -30,10 +30,11 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
             <h4>🎖️Positions</h4>
             <ul>
                 <font color="green"><li><b>OptimumFuse:</b> 🏆First</li>
-                <li><b>Adrenaline:</b> 🥈Second</li>
+                <li><b>Wing:</b> 🥈Second</li>
                 <li><b>Simply Optimized:</b> 🥉Third</li></font>
-                <font  color="red"><li><b>Additive:</b> Fourth</li>
-                <li><b>Fabulously Optimized:</b> Fifth</li></font>
+                <font color="red"><li><b>Fabulously Optimized:</b> Fourth</li>
+                <li><b>Additive:</b> Fifth</li>
+                <li><b>Adrenaline:</b> Sixth</li></font>
             </ul>
         </td>
     </tr>
