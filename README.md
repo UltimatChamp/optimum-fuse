@@ -1,5 +1,5 @@
-<h1>OptimumFuse</h1><br>
-By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a>
+<h1>OptimumFuse</h1>
+By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a></center>
 
 <br>
 
@@ -7,16 +7,20 @@ By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw
 
 This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.<br><br>If you find any issue/bug or want to suggest any feature, you can issue a <a href="https://github.com/UltimatChamp/optimum-fuse/issues">Bug Report 🐞/ Suggestion 🤝</a>, with the tag `[SUGGESTION]` or `[BUG]`!<hr>
 
-[<img alt="Available on: Modrinth" src="https://img.shields.io/badge/Available%20On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth">](https://modrinth.com/modpack/optimum-fuse) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation)
+<center>
 
- <hr>
+[<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation)
+
+</center>
+
+<hr>
 
 <h2>⚖️FPS Comparisons</h2>
 
 <details>
 <summary>Fabric🧵/Quilt🧩 Versions</summary>
 
-<h3>⬆️Higher is Better!</h3>
+<center><h3>⬆️Higher is Better!</h3></center>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/930cced6429060bd70da0d6c2d7ca8aaad104c6d.png">
 
 <h2>⚙️Settings Changed:</h2>
@@ -29,12 +33,12 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
         <td>
             <h4>🎖️Positions</h4>
             <ul>
-                <font color="green"><li><b>OptimumFuse:</b> 🏆First</li>
+                <li><b>OptimumFuse:</b> 🏆First</li>
                 <li><b>Wing:</b> 🥈Second</li>
-                <li><b>Simply Optimized:</b> 🥉Third</li></font>
-                <font color="red"><li><b>Fabulously Optimized:</b> Fourth</li>
+                <li><b>Simply Optimized:</b> 🥉Third</li>
+                <li><b>Fabulously Optimized:</b> Fourth</li>
                 <li><b>Additive:</b> Fifth</li>
-                <li><b>Adrenaline:</b> Sixth</li></font>
+                <li><b>Adrenaline:</b> Sixth</li>
             </ul>
         </td>
     </tr>
@@ -53,7 +57,7 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
 <b>3) Leaves Quality:</b> Fancy [In Wing]<br>
 <small><b>\*No resource-pack files are changed/turned off.</b></small><br>
 
-<table frame="box">
+<table>
     <tr>
         <td>
             <h4>🧪Modpack Versions</h4>
@@ -110,13 +114,24 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 
 </details>
 
-<font><h2>📱Awesome Features:</h2>
+<hr>
 
-<h3>🍀Better<font color="green">Grass</font><br>
+<h2>🎲Mods Used</h2>
+This is an official collection for <b>OptimumFuse</b>, which contains all the mods from the latest <b>Fabric</b> version of the project. This list will be modified for every additions and removals to the project!<br><br>
+
+<center><table><td><h3><a href="https://modrinth.com/collection/2SeKOGfw">📃OptimumFuse Mods for Fabric</a></h3></td></table></center>
+
+<h2>📱Awesome Features:</h2>
+
+<center><!--4 images in a grid <b>BetterUI<br>
+<img src="top-left" width="325"> <img src="top-right" width="325"><br>
+<img src="bottom-left" width="325"> <img src="bottom-right" width="325">-->
+
+<h3>🍀BetterGrass<br>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/31bd83bbec4ebc32b93c5df44bef5a3120712350.png" width="625">
 <br><br><br>
 
-💡Dynamic<font color="orangered">Lights</font><br>
+💡DynamicLights<br>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg" width="625">
 
 <br>
@@ -126,23 +141,24 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 
  <br>
 
-🔎C<font color="yellow">-Zoom</font><br>
+🔎C-Zoom<br>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="625">
 
 <br>
 
-🖇️Connected<font color="magenta">Textures</font><br>
+🖇️ConnectedTextures<br>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="625"></h3>
 
+</center>
 <br>
 
-and much more...!</font></b>
+and much more...!</b>
 
 <h2>💎Credits!</h2>
 
-<h3>A special thanks to <b><a href="https://modrinth.com/user/HyperSoop">HyperSoop</a></b> for allowing to use a part (important configs for additional optimization) of their modpack: <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>, under the <i><a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache License 2.0</a></i>!</h3>
+<h3>This project is based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>, under the <i><a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache License 2.0</a></i>!</h3>
 
 Also, make sure to check `CREDITS/CREDITS.md` provided with all the versions, for all the **Credits**!
 
 <h2>📜License</h2>
-<h3>Check the complete license here: <a href="https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE">Apache License 2.0</a>!</h3>
+<h3>Check the complete license here: <a href="https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE"><b>Apache License 2.0</b></a>!</h3>
