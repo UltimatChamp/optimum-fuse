@@ -1,5 +1,5 @@
 <h1>OptimumFuse</h1>
-By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a></center>
+By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a>
 
 <br>
 
@@ -7,11 +7,7 @@ By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw
 
 This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.<br><br>If you find any issue/bug or want to suggest any feature, you can issue a <a href="https://github.com/UltimatChamp/optimum-fuse/issues">Bug Report 🐞/ Suggestion 🤝</a>, with the tag `[SUGGESTION]` or `[BUG]`!<hr>
 
-<center>
-
 [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation)
-
-</center>
 
 <hr>
 
@@ -20,7 +16,7 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
 <details>
 <summary>Fabric🧵/Quilt🧩 Versions</summary>
 
-<center><h3>⬆️Higher is Better!</h3></center>
+<h3>⬆️Higher is Better!</h3>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/930cced6429060bd70da0d6c2d7ca8aaad104c6d.png">
 
 <h2>⚙️Settings Changed:</h2>
@@ -77,7 +73,7 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
   
 This project uses **semantic versioning**.
 
-**Format:** <center>`X`.`Y`.`Z`+`<loader>`.`<mc-version>`</center>
+**Format:** `X`.`Y`.`Z`+`<loader>`.`<mc-version>`
 
 **Definitions:**
 (a) _Project Version_
@@ -93,7 +89,7 @@ This project uses **semantic versioning**.
 
 <hr>
 
-**Pre-release Versions' Format:** <center>`X`.`Y`.`Z`-`<pre-release>`+`<loader>`.`<mc-version>`</center>
+**Pre-release Versions' Format:** `X`.`Y`.`Z`-`<pre-release>`+`<loader>`.`<mc-version>`
 
 **`<pre-release>`:** _<small>(For untested/breaking changes/not ready for use versions)</small>_<br>
 **Values:**<br>
@@ -119,11 +115,11 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 <h2>🎲Mods Used</h2>
 This is an official collection for <b>OptimumFuse</b>, which contains all the mods from the latest <b>Fabric</b> version of the project. This list will be modified for every additions and removals to the project!<br><br>
 
-<center><table><td><h3><a href="https://modrinth.com/collection/2SeKOGfw">📃OptimumFuse Mods for Fabric</a></h3></td></table></center>
+<table><td><h3><a href="https://modrinth.com/collection/2SeKOGfw">📃OptimumFuse Mods for Fabric</a></h3></td></table>
 
 <h2>📱Awesome Features:</h2>
 
-<center><!--4 images in a grid <b>BetterUI<br>
+<!--4 images in a grid <b>BetterUI<br>
 <img src="top-left" width="325"> <img src="top-right" width="325"><br>
 <img src="bottom-left" width="325"> <img src="bottom-right" width="325">-->
 
@@ -149,7 +145,6 @@ This is an official collection for <b>OptimumFuse</b>, which contains all the mo
 🖇️ConnectedTextures<br>
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="625"></h3>
 
-</center>
 <br>
 
 and much more...!</b>
