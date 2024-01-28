@@ -7,7 +7,7 @@ By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw
 
 This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.<br><br>If you find any issue/bug or want to suggest any feature, you can issue a <a href="https://github.com/UltimatChamp/optimum-fuse/issues">Bug Report 🐞/ Suggestion 🤝</a>, with the tag `[SUGGESTION]` or `[BUG]`!<hr>
 
-[<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation)
+[<img alt="Available on Modrinth" src="https://img.shields.io/badge/AVAILABLE ON-MODRINTH-%2300AF5C?style=for-the-badge&logo=modrinth">](https://modrinth.com/modpack/optimum-fuse) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth">](https://modrinth.com/app)
 
 <hr>
 
