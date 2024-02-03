@@ -9,13 +9,13 @@ assignees: ''
 
 **Modrinth Link:**
 
-**Why should this mod be in this modpack?**
+**Why should this mod be included in this modpack?**
 A clear and concise description of the mod.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative mods you've considered.
 
-**Why this mod should not be included?**
+**Why this should mod not be included?**
 Cons of the mod!
 
 **Additional context**
