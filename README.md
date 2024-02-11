@@ -3,7 +3,7 @@ By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw
 
 <br>
 
-<h2>An optimization and QoL modpack for Quilt🧩, Neoforge🦊, Fabric🧵 and Forge⚒️, based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>!</h2>
+<h2>An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>!</h2>
 
 This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.<br><br>If you find any issue/bug or want to suggest any feature, you can issue a <a href="https://github.com/UltimatChamp/optimum-fuse/issues">Bug Report 🐞/ Suggestion 🤝</a>, with the tag `[SUGGESTION]` or `[BUG]`!<hr>
 
