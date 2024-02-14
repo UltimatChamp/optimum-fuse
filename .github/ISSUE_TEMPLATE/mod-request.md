@@ -8,8 +8,9 @@ assignees: ''
 ---
 
 **Modrinth Link:**
+**Source Link:**
 
-**Why should this mod be included in this modpack?**
+**Why should this mod be included in the modpack?**
 A clear and concise description of the mod.
 
 **Describe alternatives you've considered**
