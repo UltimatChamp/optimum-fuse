@@ -44,26 +44,12 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
 
 <details>
 <summary>Neoforge🦊/Forge⚒️ Versions</summary>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/870f63782dec2e9274a2a69390da592aee33d0ba.png">
+    
+**NOT PLANNED**, for now, waiting for **Sinytra Connector** to update to **`1.20.4`**, first! 
 
-<h2>⚙️Settings Changed:</h2>
+The `1.20.1` _**(Neo/Forge)**_ versions of the modpack aren't supposed to compete in an FPS Comparison, since I'm not able to focus much on the performance part of these versions, because of maintaining  two different Minecraft versions. I'm focusing on developing **Fabric** versions of the modpack as a _well-made_ product!
 
-<b>1) Render and Simulation Distance:</b> 12 [In Wing]<br>
-<b>2) Graphics:</b> Fast [In Wing]<br>
-<b>3) Leaves Quality:</b> Fancy [In Wing]<br>
-<small><b>\*No resource-pack files are changed/turned off.</b></small><br>
-
-<table>
-    <tr>
-        <td>
-            <h4>🧪Modpack Versions</h4>
-            <ul>
-                <li><b>OptimumFuse [Curseforge Edition]:</b> v3.0.0-FORGE-MC1.20.2</li>
-                <li><b>Wing:</b> Embeddium-1.20.1-5.17</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+The main focus for **Neo/Forge versions** for now, is to _improve parity_ between both the versions.
 </details>
 
 <hr>
