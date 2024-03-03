@@ -368,17 +368,17 @@
     {
       "path": "resourcepacks/SodiumTranslations.zip",
       "hashes": {
-        "sha512": "acf15455f80b32688057b745dfb7cba1a7022a2810f167c067f557c37a7a925c0c8a2014762b986460ba757e8363642e453a50ee6ee1441ea243465c00b79eeb",
-        "sha1": "f7dd6d3b33cf1abae15d9c22cc4225e0fadeb4e4"
+        "sha1": "51bcb7e37d07fe84560952c2bae3df5f02369023",
+        "sha512": "a7379e330294c5b2bac4adc34e2c67568c68638337fd5000f08795b429a66c96e145de32788551870ed6693fd2ef25c438b4a620e13f19a254f3127de1b10017"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/3dVpBxxu/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/CkbLHtym/SodiumTranslations.zip"
       ],
-      "fileSize": 165533
+      "fileSize": 170171
     },
     {
       "path": "mods/raised-fabric-1.20.4-3.1.2.jar",
@@ -546,19 +546,19 @@
       "fileSize": 85890
     },
     {
-      "path": "mods/show-me-your-skin-1.7.1+1.20.4.jar",
+      "path": "mods/show-me-your-skin-1.7.2+1.20.4.jar",
       "hashes": {
-        "sha512": "82c68110d4da177875431f7ebf19f260a5a43dffd588f201805010c91457e9403a1f668bf6011cbd5dc2a0c1fc854ad2c716d9e5b66654cf140325bf29d390d6",
-        "sha1": "44fb3080f48667ad4935226a00fd06bc9eb61fa5"
+        "sha1": "6beee74b5f9aa9558c5eb8ce64766f97cf8d89e4",
+        "sha512": "02accada7f12651c1f0cf17ebced52eea89779ddab645c3de7906bba6e9c5a450915a60d97a55824d437664b446da75c01760b515209cbc3071f101b8648f929"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/bD7YqcA3/versions/4yfHAKLc/show-me-your-skin-1.7.1%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/bD7YqcA3/versions/Qs2mNgOw/show-me-your-skin-1.7.2%2B1.20.4.jar"
       ],
-      "fileSize": 457381
+      "fileSize": 340036
     },
     {
       "path": "mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
@@ -681,34 +681,19 @@
       "fileSize": 492605
     },
     {
-      "path": "mods/packrule-menus-1.2.0+1.20.1.jar",
+      "path": "mods/packrule-menus-1.2.1+1.20.1.jar",
       "hashes": {
-        "sha512": "89d3a71ad414c736f1daff255a2a9f9e060e5b558b869e93e1a4e883bb52c0efd86eeb14e82cb14c8639001cf9298f0727739679c54e3f013e0d1d11e7cca2a9",
-        "sha1": "40b64e69e9d0285ddeb47bee360ba250aba6166f"
+        "sha512": "6a78775f90837dd6d3b21a1b684f578a3efaad2b88bc9e168c899a3c9fb3882030f1ed074818357427213b0471420f0648a6f55da27b01934d05055447b998fb",
+        "sha1": "ce7f78b4af325d20bf7f9d2f4b407b67252f0e5f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TR0G6vEd/versions/1ylRaweM/packrule-menus-1.2.0%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/TR0G6vEd/versions/EquYKltg/packrule-menus-1.2.1%2B1.20.1.jar"
       ],
-      "fileSize": 26823
-    },
-    {
-      "path": "mods/brb-1.10.0+1.20.4.jar",
-      "hashes": {
-        "sha512": "86608aeec32a8d934dc4778fd3efee4bdd8a099f477fa6ec67f2c90eb89bae14a2c89ca9ff0f9a5ca2c7633e2da0bb85a8a40070fe571c319abc9ae2394c843b",
-        "sha1": "fc81a1eb3adc73509437bf14c9cf9826ea4308be"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/vWIaVOTE/versions/SKmqitkx/brb-1.10.0%2B1.20.4.jar"
-      ],
-      "fileSize": 1214222
+      "fileSize": 27206
     },
     {
       "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.58.jar",
@@ -861,19 +846,19 @@
       "fileSize": 51871
     },
     {
-      "path": "mods/Searchables-fabric-1.20.4-1.0.3.jar",
+      "path": "mods/Searchables-fabric-1.20.4-1.0.6.jar",
       "hashes": {
-        "sha1": "66095ad2d07d56c4d96439b5743479c6af4712f8",
-        "sha512": "db8c34ced21637323a4e5bd3816a9e85bc39b0a9307e3c11565b3b0924c6eb4136c89948486e3a8beb0516856f00273cf6905789f85df1556572e33e889ce1c3"
+        "sha1": "cd1169ca3f95308adcb6d41caa14a6f48a2f0302",
+        "sha512": "e1ce0c4146102f366c58be233887c58c28791a861d98c2bc27b576f4ad7b2223a94b508bda95f886a403acfc263875606ac2392cfaba36d69e42706961f27758"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/fuuu3xnx/versions/siSgbXcb/Searchables-fabric-1.20.4-1.0.3.jar"
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/CESw4Xj5/Searchables-fabric-1.20.4-1.0.6.jar"
       ],
-      "fileSize": 78327
+      "fileSize": 78369
     },
     {
       "path": "mods/modmenu-9.0.0.jar",
@@ -1969,6 +1954,36 @@
         "https://cdn.modrinth.com/data/8zYE8DiW/versions/dDoUIFvR/titlefixer-1.0%2B1.20.4.jar"
       ],
       "fileSize": 32681
+    },
+    {
+      "path": "resourcepacks/DarkMode.zip",
+      "hashes": {
+        "sha512": "6b05a8d4f7dbd6885392b8e8b70a6b7b8e631b783145c312b61475921c92ab81b8142147f780b634a7591f392215ab863340f763dcf5a3f72963e3700ea2db52",
+        "sha1": "bb8a69998bd653060fbce40aba3f4dcb93d95086"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/npx9y1KS/versions/JdnkTk9p/GUI-SimpleStylized_4.3-1.21.zip"
+      ],
+      "fileSize": 1464630
+    },
+    {
+      "path": "mods/DeleteWorldsToTrash-v20.4.0-1.20.4-Fabric.jar",
+      "hashes": {
+        "sha1": "86a37dd6b1d7342e430600152307ceb7422d363f",
+        "sha512": "e4c35f946a064b2e287b969d19464182cb90140b16f3a7204313efe268eff97ad24c8cf34629762f8c6b336f5090c1ab7b4bd11926ff64c582dfb90da2f01b13"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7diJQfvM/versions/riZJAMwY/DeleteWorldsToTrash-v20.4.0-1.20.4-Fabric.jar"
+      ],
+      "fileSize": 58298
     }
   ],
   "dependencies": {
