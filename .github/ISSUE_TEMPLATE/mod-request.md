@@ -16,7 +16,7 @@ A clear and concise description of the mod.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative mods you've considered.
 
-**Why this should mod not be included?**
+**Why should this mod not be included?**
 Cons of the mod!
 
 **Additional context**
