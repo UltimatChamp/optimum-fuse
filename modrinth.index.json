@@ -1013,17 +1013,17 @@
     {
       "path": "mods/bettercommandblockui-0.5.0-1.20.3.jar",
       "hashes": {
-        "sha512": "75b9cacc7e1f56636172101376afd7b53d7f8f53684f73a028ccd4998e3ba02a4aaf860069ad44452a148d945f0d78aa854d0b9bb278b015b2fb9aab38f1b8a0",
-        "sha1": "0d4967d16fd7220ac0c3b23116b9387af63e287a"
+        "sha512": "bc140d83a8128b7fba3613a107f0509e416338a5eb40626da7f28cda67f1931bef290c578d96c3ddfa89888fa481c86ebef65b36436da4b4f3077c142d02abf5",
+        "sha1": "9a912f34117345835b9b47318adb15f381004fb4"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/PRUNtRh4/bettercommandblockui-0.5.0-1.20.3.jar"
+        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/fy8jY8ey/bettercommandblockui-0.5.0-1.20.3.jar"
       ],
-      "fileSize": 130204
+      "fileSize": 133817
     },
     {
       "path": "mods/ModDetectionPreventer+1.20.4-1.1.0.jar",
@@ -1266,19 +1266,19 @@
       "fileSize": 517903
     },
     {
-      "path": "mods/modernfix-fabric-5.13.0+mc1.20.4.jar",
+      "path": "mods/modernfix-fabric-5.14.0+mc1.20.4.jar",
       "hashes": {
-        "sha1": "6857109a44a3207543257fa5436d20650bfb2e86",
-        "sha512": "5b24a42e10894d439befd54990197312153d2dd8ab3ada98d00cf0cee06d970fe11ff755e0696b954149ad49b4e2f953ffd9bfa331d887b40c1a800a5772a3ba"
+        "sha1": "3e01e37697c90971cf36f25dc281ba0f96ccae18",
+        "sha512": "d00a879ccbb5f2ed34157baa59845e84fad6e2acbdff2530e9cb80eee5e45279a28debb6f0bde9a7e8c5b85f9f9cf7ef255a08b2e8010f1989b1631afe16c4f9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/Btq1HFzk/modernfix-fabric-5.13.0%2Bmc1.20.4.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/o6bFEv8x/modernfix-fabric-5.14.0%2Bmc1.20.4.jar"
       ],
-      "fileSize": 454785
+      "fileSize": 434857
     },
     {
       "path": "mods/keybind_fix-1.0.0.jar",
@@ -1311,19 +1311,19 @@
       "fileSize": 84945
     },
     {
-      "path": "mods/entity_model_features_fabric_1.20.4-1.2.3.jar",
+      "path": "mods/entity_model_features_fabric_1.20.4-1.3.jar",
       "hashes": {
-        "sha512": "7e3737520f629d9b68d3dfc8aa673174fdf13b6dc4b22bf1bcda645b7d9a369d2c1c85a92b9bbfc47dd7e156ead54396e5b81d646294d8630499e070d57ac9b7",
-        "sha1": "704dde67582cc41196974948513a1af25fe8fad5"
+        "sha512": "48c4faf9786d064ef11f16eff98ca157463fc3badf6efb16479d7cf394b356d0436a27576a2026f9a06009190d71b0571158c54742e0d3dfc5f5875aeaf055a1",
+        "sha1": "fa2a10cafa469d6eb0bfd9e7107b717007a83c62"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/S9HtDtJv/entity_model_features_fabric_1.20.4-1.2.3.jar"
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/bwjbN1G7/entity_model_features_fabric_1.20.4-1.3.jar"
       ],
-      "fileSize": 301010
+      "fileSize": 347117
     },
     {
       "path": "mods/fastquit-3.0.0+1.20.4.jar",
@@ -1461,19 +1461,19 @@
       "fileSize": 36039
     },
     {
-      "path": "mods/cherishedworlds-fabric-8.0.0+1.20.4.jar",
+      "path": "mods/cherishedworlds-fabric-8.0.1+1.20.4.jar",
       "hashes": {
-        "sha1": "399b0005c1316bc29f196f8f5a735b48e3d340bc",
-        "sha512": "6735898f4013eda3e67dba8cfb5845db75704b574d61ffd250fbeee4bb2e69ca2927f29f1e9c8601ca221aa87e4bf8e1bafd9f1f79fa13f75777db831bce9554"
+        "sha1": "c0b62b532831ad793dcb519520c75701486d135e",
+        "sha512": "bf5b9409f5e26294e7d991abf4593c52cca25151b3e997afe1532305e061fe3067e09666f04f13f77e502b0bb8ff5ae61dea90e47d6eea2e26c8914f60ce7966"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3azQ6p0W/versions/zTMYTZJx/cherishedworlds-fabric-8.0.0%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/3azQ6p0W/versions/LhYvfIUr/cherishedworlds-fabric-8.0.1%2B1.20.4.jar"
       ],
-      "fileSize": 63077
+      "fileSize": 59846
     },
     {
       "path": "mods/yosbr-0.1.2.jar",
@@ -1791,19 +1791,19 @@
       "fileSize": 424479
     },
     {
-      "path": "mods/PuzzlesLib-v20.4.31-1.20.4-Fabric.jar",
+      "path": "mods/PuzzlesLib-v20.4.36-1.20.4-Fabric.jar",
       "hashes": {
-        "sha512": "16622efc832fba07296621cafb9d73c1c4351846ad43a49ea09715e455cc72f3b23e7343f8175800bc2c912b0328d36dd10aee6ed5aba68eee8fcc7aadd80161",
-        "sha1": "4a6d1f9c3ef7cac709d7bcf5197403295f202b29"
+        "sha512": "44b4e36d980b176a3888313b65a1a4b874c1f6ec45e2bdd93da259e11c197506b4db2ea77bb208343efe0a20fc2424ac171fc6f5c9ac64563a0041854128c0e7",
+        "sha1": "5cde7215c2bb21d6458f67d25e3c36eab0cea2f1"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QAGBst4M/versions/GHuvKmu8/PuzzlesLib-v20.4.31-1.20.4-Fabric.jar"
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/9SKeDQfZ/PuzzlesLib-v20.4.36-1.20.4-Fabric.jar"
       ],
-      "fileSize": 993329
+      "fileSize": 1006686
     },
     {
       "path": "mods/Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
