@@ -6,6 +6,81 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/autotools-1.20.4-fabric-2.0.jar",
+      "hashes": {
+        "sha512": "0f9e510b309eb80fc554fc4cdcf81d605572fb792f8907d3adf3bb16607aa22572febe56cd471e863b7c20f7df672d8917981f8863fcb47727efe1f8a055ef7a",
+        "sha1": "75601d8b15bba6d2ddc3e78db49269a1e068e372"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zgVJyCgK/versions/pgbAIBkf/autotools-1.20.4-fabric-2.0.jar"
+      ],
+      "fileSize": 421581
+    },
+    {
+      "path": "mods/auto-elytra-2.1.3.jar",
+      "hashes": {
+        "sha1": "2d87797a97c36a696fae6a287ea18719852a65f7",
+        "sha512": "a124c103cf36836f53c98c3c78459427f207482e569fb364d0cb965abf99c720990f5068231401aab68233b5416166f31c9b1784b52be2f2ec71a9d9b6082556"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3Azf2GPw/versions/5EOOj8MF/auto-elytra-2.1.3.jar"
+      ],
+      "fileSize": 44617
+    },
+    {
+      "path": "mods/mru-0.4.0+1.20.4.jar",
+      "hashes": {
+        "sha1": "c049d60c2d6a6d0faa3bd9b8d796b8c3f9cf98fb",
+        "sha512": "a2f3fc25ea0548f3a3058ea61f9eb3b90794949f8752ac2975fb57b0fb7ee25ddd1f1eae33fc08ff3cdeb0ed38b6d72edb8287e6c60a8ba8960c2c6a0c3a08a2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SNVQ2c0g/versions/Qjx3vUgd/mru-0.4.0%2B1.20.4.jar"
+      ],
+      "fileSize": 171531
+    },
+    {
+      "path": "mods/Sounds-0.5.0+1.20.4.jar",
+      "hashes": {
+        "sha1": "b4136721899ba0c491f398563a1fefee1c0f9b14",
+        "sha512": "cbced7539e750fc6025ac86fe1f7d94e4960c2443a994d30a11c520759fb79c9039bd19bf76bb436df1dd7d8b9c61d15c00ba1332fec6ae927edb394e96d10a9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZouiUX7t/versions/a3ovc6SR/Sounds-0.5.0%2B1.20.4.jar"
+      ],
+      "fileSize": 6150634
+    },
+    {
+      "path": "mods/AutoElytraPanic-1.0.5+mc1.20.jar",
+      "hashes": {
+        "sha1": "4b7583d45c30a35333f9f5e4a444ca0cc23c8698",
+        "sha512": "456c2d393c4624af60ee50f86f5621b5e9cd7fc308a7be7029d105b4ec7b353acadf37e50adae5f76bae91da47e52fb4da325caed9309e331c0433520d0cf1e4"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HzrkyaKO/versions/4qk0Fj6F/AutoElytraPanic-1.0.5%2Bmc1.20.jar"
+      ],
+      "fileSize": 143162
+    },
+    {
       "path": "mods/wakes-0.2.3.jar",
       "hashes": {
         "sha512": "6ea5f00922c6f5301d6fbee5a0c8a2e92354ddb556035297dbebe6b7642486bdc9f573c0c223cdf87c8ecc0c48f3735a4e1b05cfda291d1b023eb6a45f358762",
@@ -79,21 +154,6 @@
         "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar"
       ],
       "fileSize": 59359
-    },
-    {
-      "path": "mods/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
-      "hashes": {
-        "sha1": "4108d959727fde432620693c2e271b4be81e5591",
-        "sha512": "123501578045a30e7730530deeedebd7aae611c10d69359ba6d90aa53651455e8d08e86c4ef84242b18147eaa54775b4d06e57c1eae43a9f357bceb15a65a5ed"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar"
-      ],
-      "fileSize": 721079
     },
     {
       "path": "mods/architectury-11.1.13-fabric.jar",
@@ -229,21 +289,6 @@
         "https://cdn.modrinth.com/data/xv94TkTM/versions/jM1vTyg9/Controlling-fabric-1.20.4-15.0.2.jar"
       ],
       "fileSize": 82165
-    },
-    {
-      "path": "mods/breakfree-1.2.0.jar",
-      "hashes": {
-        "sha1": "1fafa493e91cc7d006f2e6c71049edcf5adb058c",
-        "sha512": "724cb0e5147c69900742f405be1ceb83aeb463cfe7452dfba03dc830601ae98a2cba47b77bbaf4344de94d4bc6d4109834ec8a551f45da74e1b5c8dc7c7f13b8"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Xlr5lMDF/versions/n2FrxATJ/breakfree-1.2.0.jar"
-      ],
-      "fileSize": 178255
     },
     {
       "path": "mods/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
@@ -484,21 +529,6 @@
         "https://cdn.modrinth.com/data/XoHTb2Ap/versions/BDwPfWKe/calcmod-fabric-1.20.2-1.3.1.jar"
       ],
       "fileSize": 599531
-    },
-    {
-      "path": "mods/JJElytraSwap-1.8.1.jar",
-      "hashes": {
-        "sha1": "71911b65d21db41cb570b0ce1c4058ccecb383be",
-        "sha512": "2c53c76e80069a14d3a11b5f2ae9adcef1cad0a1b7660b12c3786801022bfc5d8a1526627baf23d5680940e5132b3f379b1247b378139196a30d93d33dd456d0"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/CanU29Ke/versions/2XBy88VZ/JJElytraSwap-1.8.1.jar"
-      ],
-      "fileSize": 13494
     },
     {
       "path": "mods/EasyNavigator-1.1.2.jar",
@@ -1579,21 +1609,6 @@
         "https://cdn.modrinth.com/data/rI0hvYcd/versions/OR2HyGHb/visuality-0.7.3%2B1.20.4.jar"
       ],
       "fileSize": 67736
-    },
-    {
-      "path": "mods/switcheroo-1.0.11+1.20.jar",
-      "hashes": {
-        "sha512": "d5310b6ce382d023172728d37ce50451462db65840f41a7ad5e0aea2e82e405640c2b312482afb6ac84dd9dd3e5f68aa49e8a603077acc812dbf2ebfe6671ca4",
-        "sha1": "1a9a31b71c9574c8fb43ec9bc1ebdaac0520fc7d"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/wq6HaMZG/versions/i0Gs1VVx/switcheroo-1.0.11%2B1.20.jar"
-      ],
-      "fileSize": 54996
     },
     {
       "path": "mods/nohotbarlooping-1.1.1-1.20.4.jar",
