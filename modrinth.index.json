@@ -6,19 +6,34 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/armortip-1.0.0-1.21.4.jar",
+      "hashes": {
+        "sha1": "f6b378ca4013acfcc5dd9a2bbfb28599dbcdf574",
+        "sha512": "1b508c187065a12b063805a730a4a83b7a3e21f333dd545a6b4e4117b58ba4b73ff98f16aaee0470139db887f17e5ece058d7f6c1793eb0748b4b389a32f0ebe"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5stdM2Ky/versions/qHaoT0rN/armortip-1.0.0-1.21.4.jar"
+      ],
+      "fileSize": 23973
+    },
+    {
       "path": "mods/autotools-1.20.4-fabric-2.0.jar",
       "hashes": {
-        "sha512": "0f9e510b309eb80fc554fc4cdcf81d605572fb792f8907d3adf3bb16607aa22572febe56cd471e863b7c20f7df672d8917981f8863fcb47727efe1f8a055ef7a",
-        "sha1": "75601d8b15bba6d2ddc3e78db49269a1e068e372"
+        "sha1": "8917139ebde896045ade242e9c28f8b1dd9e41eb",
+        "sha512": "846ec7269b9b6a7119baa7677b1cfd0ced765ebf645daa56a28596500f1ed69c92ec42940e7416d2a3b18362c97fd4507f9d9a24b2826cc13a8fd992781d87a3"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/zgVJyCgK/versions/pgbAIBkf/autotools-1.20.4-fabric-2.0.jar"
+        "https://cdn.modrinth.com/data/zgVJyCgK/versions/AK4eHWgJ/autotools-1.20.4-fabric-2.0.jar"
       ],
-      "fileSize": 421581
+      "fileSize": 422936
     },
     {
       "path": "mods/auto-elytra-2.1.3.jar",
@@ -276,19 +291,19 @@
       "fileSize": 51321
     },
     {
-      "path": "mods/Controlling-fabric-1.20.4-15.0.2.jar",
+      "path": "mods/Controlling-fabric-1.20.4-15.0.3.jar",
       "hashes": {
-        "sha512": "56db671550cd73477f8ed0f35c0ee5bbb581932684e2fe0c1a05783ca7aeaa904e898fc32e7eaa71b08c4808b903c83e425a25f0e6499e166cb00ffd9bd4df79",
-        "sha1": "2fa6415e27852685654e3314e9d9f7bdf83d9955"
+        "sha1": "a249a44ffef6e5da51704ceb4c2be8bf26493c8b",
+        "sha512": "8dc178dc7e4c7eab28e6a31587849e3ce438d7269d891d395a01160c404cf0eb2c1f84b621e1bd6707197bd049598945ef83f1fe390ac5ad79f0005c5404484a"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/xv94TkTM/versions/jM1vTyg9/Controlling-fabric-1.20.4-15.0.2.jar"
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/KFbkZFLx/Controlling-fabric-1.20.4-15.0.3.jar"
       ],
-      "fileSize": 82165
+      "fileSize": 82609
     },
     {
       "path": "mods/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
@@ -396,34 +411,34 @@
       "fileSize": 16345637
     },
     {
-      "path": "mods/Tips-Fabric-1.20.4-15.0.3.jar",
+      "path": "mods/Tips-Fabric-1.20.4-15.0.4.jar",
       "hashes": {
-        "sha1": "62c45e15a46bf979c1d95e574c6fd38f4e759bbc",
-        "sha512": "6e69837e548a50e07f34f3673c7be10142d8866a8edfa19322fcd9b994ceddfaa68eebb477e74ee3352393d76201a59b3e266b0cc53f32cc9c9297919a6f2d39"
+        "sha512": "9b1616992bd7e424078796ccafe1facc420c5ecdc703539add6985ad4ddaf51fc8badba6069e1cf569201fd1acc1cf4eb43e37cd36cd7e0e0a4afe4532154d96",
+        "sha1": "a60c40cf462b022c042c31982b3f34da9f3445b2"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/AMCbgyVw/versions/VFCj2hRE/Tips-Fabric-1.20.4-15.0.3.jar"
+        "https://cdn.modrinth.com/data/AMCbgyVw/versions/VBUXsjxq/Tips-Fabric-1.20.4-15.0.4.jar"
       ],
-      "fileSize": 104589
+      "fileSize": 104999
     },
     {
       "path": "resourcepacks/SodiumTranslations.zip",
       "hashes": {
-        "sha1": "51bcb7e37d07fe84560952c2bae3df5f02369023",
-        "sha512": "a7379e330294c5b2bac4adc34e2c67568c68638337fd5000f08795b429a66c96e145de32788551870ed6693fd2ef25c438b4a620e13f19a254f3127de1b10017"
+        "sha1": "8d13534f6163ac6feb0ab78f66fe7ab307fe996d",
+        "sha512": "86ed1aba39c66d5d85582654f20d86374acd897e801f94b5f79c46b9ae4673656af1df970b8aa2b3ef9e1f7ded794cf19d0c932ea3360e0c3fc0e08af2721053"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/CkbLHtym/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/o3jcoTn4/SodiumTranslations.zip"
       ],
-      "fileSize": 170171
+      "fileSize": 172719
     },
     {
       "path": "mods/raised-fabric-1.20.4-3.1.2.jar",
@@ -576,19 +591,19 @@
       "fileSize": 85890
     },
     {
-      "path": "mods/show-me-your-skin-1.7.2+1.20.4.jar",
+      "path": "mods/show-me-your-skin-1.8.0+1.20.4.jar",
       "hashes": {
-        "sha1": "6beee74b5f9aa9558c5eb8ce64766f97cf8d89e4",
-        "sha512": "02accada7f12651c1f0cf17ebced52eea89779ddab645c3de7906bba6e9c5a450915a60d97a55824d437664b446da75c01760b515209cbc3071f101b8648f929"
+        "sha512": "3f8de6517c66e6e7f8c6492e22d1cc2405a1f7f341cba3996379ae7dfe8b95653e67634af4b4f8a180a135f080d45e6a3a932716b198f44c742870abfb8c26ad",
+        "sha1": "7fd408586a7096147bb906eef26ae89557bdb8c3"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/bD7YqcA3/versions/Qs2mNgOw/show-me-your-skin-1.7.2%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/bD7YqcA3/versions/8GXzpAi6/show-me-your-skin-1.8.0%2B1.20.4.jar"
       ],
-      "fileSize": 340036
+      "fileSize": 344064
     },
     {
       "path": "mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
@@ -966,19 +981,19 @@
       "fileSize": 77481
     },
     {
-      "path": "mods/Bookshelf-Fabric-1.20.4-23.0.5.jar",
+      "path": "mods/Bookshelf-Fabric-1.20.4-23.0.6.jar",
       "hashes": {
-        "sha512": "ba7016b61ba4d03518607593c3fd3dcd0fcdf8fa1027f8873444259867075c7b1473a6ff5a6bf9266b84a5b446e89f713f737ea0c96d9b19937dcbaaae489572",
-        "sha1": "a1c36e59383a763d4ac7eea5787cb508b77dc222"
+        "sha1": "0b6a308b164b25a6e4434d8bd97901aacaace601",
+        "sha512": "fe790b41964b4918e7788713ab1ce426354ebd8d6ffad6e41ec2fa3b4c11080cddc1699ffa6e5ac1eb78dd64aa37569775b71adce7a4a3795b8dbe0ce0852afa"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uy4Cnpcm/versions/LUTchFvc/Bookshelf-Fabric-1.20.4-23.0.5.jar"
+        "https://cdn.modrinth.com/data/uy4Cnpcm/versions/Veo82xGo/Bookshelf-Fabric-1.20.4-23.0.6.jar"
       ],
-      "fileSize": 298309
+      "fileSize": 298301
     },
     {
       "path": "mods/chatpatches-204.6.2.jar",
@@ -1251,19 +1266,19 @@
       "fileSize": 222051
     },
     {
-      "path": "mods/cloth-gamerules-1.0.0+1.19.4.jar",
+      "path": "mods/cloth-gamerules-1.1.0+1.19.4.jar",
       "hashes": {
-        "sha1": "bef90c9584706e547730c798bf3494f80864df62",
-        "sha512": "9766cac9c8237b5bb749c2b7545b5f3505d8b313871411ee8dab5310d8d4cc4f44067b17edd6bf51dc989418f575369947f56f93d77ee58096c08cf73ea02389"
+        "sha1": "d2c55ffe632ed291dbe46209263468d2a45172c8",
+        "sha512": "ac41741920da01b8d2b47886e7f92d17751b2c857f998fd0fe61583c55dafd8099a98c6dd190ed149fb9f10bc9305580a386886d7e0088ed23a500355ca0b9fd"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/f8QTxwTe/versions/gRJGWd5b/cloth-gamerules-1.0.0%2B1.19.4.jar"
+        "https://cdn.modrinth.com/data/f8QTxwTe/versions/g3aWPk8s/cloth-gamerules-1.1.0%2B1.19.4.jar"
       ],
-      "fileSize": 37998
+      "fileSize": 38623
     },
     {
       "path": "mods/EnchantmentDescriptions-Fabric-1.20.4-20.0.2.jar",
@@ -1731,19 +1746,19 @@
       "fileSize": 122235
     },
     {
-      "path": "mods/fabric-language-kotlin-1.10.18+kotlin.1.9.22.jar",
+      "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
       "hashes": {
-        "sha1": "d7ab57b7e96bd5181efddea60452be0350bc49e6",
-        "sha512": "d7a9989f9e47c1c10e3c33551478cd9422250bf4f61e7f8ff3b6ee16c87e7dc458fed998c963a2e1c3bc39b7d338e9e334ce70ecdb0e66011d71e8948216e21c"
+        "sha1": "d8a8a5a4f1289e9b4d65f9551c32fbdf56b4f162",
+        "sha512": "0c31443b5061d85787de452d1dc0196a0e3391146aa5f030ef5fa95558b0f2b2bb9a0613fc0e5621e9d796d06e717fef0d0c98046f4ead04d150e0eb2d19abdc"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/vlhvI5Li/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar"
       ],
-      "fileSize": 6727951
+      "fileSize": 6734779
     },
     {
       "path": "mods/entity_texture_features_fabric_1.20.4-5.2.3.jar",
