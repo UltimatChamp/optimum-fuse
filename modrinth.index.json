@@ -66,19 +66,19 @@
       "fileSize": 171531
     },
     {
-      "path": "mods/Sounds-0.5.0+1.20.4.jar",
+      "path": "mods/Sounds-0.6.0+1.20.4.jar",
       "hashes": {
-        "sha1": "b4136721899ba0c491f398563a1fefee1c0f9b14",
-        "sha512": "cbced7539e750fc6025ac86fe1f7d94e4960c2443a994d30a11c520759fb79c9039bd19bf76bb436df1dd7d8b9c61d15c00ba1332fec6ae927edb394e96d10a9"
+        "sha1": "f5592c6b82b4143be6e7a4b9f01dcc5a8e39a2fb",
+        "sha512": "4bbb5283f21795280f9ecbec6dd55e753ad05d12d4c6015c8c5713440ac2501b89306530b2cdcf9635c8d03f1cd68e9cdce37ffbff577c2246bd27ff414a916a"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "unsupported",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ZouiUX7t/versions/a3ovc6SR/Sounds-0.5.0%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/ZouiUX7t/versions/OYVXEqrK/Sounds-0.6.0%2B1.20.4.jar"
       ],
-      "fileSize": 6150634
+      "fileSize": 1579011
     },
     {
       "path": "mods/AutoElytraPanic-1.0.5+mc1.20.jar",
@@ -171,19 +171,19 @@
       "fileSize": 59359
     },
     {
-      "path": "mods/architectury-11.1.13-fabric.jar",
+      "path": "mods/architectury-11.1.17-fabric.jar",
       "hashes": {
-        "sha1": "570a9ae5fcdde618e13e1b7c3fbb6fbb7d6dddfd",
-        "sha512": "6cfdf01ca74e5bcb7c294c75127e039c88a563a423d77eb7e5edf82fa8c847b8734a241e24554e6f6209ed3bcbdc866e1565f24d98c81687bb911bd0cbea4475"
+        "sha1": "578b95d1c3631e614739fa4ac1ca773836950540",
+        "sha512": "294112b2db8b5cef2051fede57dfacfb00cc7fce737cbf7db3c2de8b81f0cd17bd29a3e2849c3e05bd9e801fbfa3d14e5a83b6531b3d37e5d7c650cff4714362"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5ofORDt8/architectury-11.1.13-fabric.jar"
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar"
       ],
-      "fileSize": 587419
+      "fileSize": 587429
     },
     {
       "path": "mods/servercountryflags-1.9.4-1.20.2-FABRIC.jar",
@@ -441,19 +441,19 @@
       "fileSize": 172719
     },
     {
-      "path": "mods/raised-fabric-1.20.4-3.1.2.jar",
+      "path": "mods/raised-fabric-1.20.4-3.1.3.jar",
       "hashes": {
-        "sha512": "721af09f0939b815b5bf2d427319da4b9ed5aef6e265ac5d5822753a8de5cad0ec8b5ebdac0430734e437a26a88a0b9f295bbaea86985c9b9a3224af2527fe3e",
-        "sha1": "3e22db9a270d222f9afb0f9c40d853c1073a7241"
+        "sha1": "c0a9b20ec845aec3520c631f401848b5549d4b00",
+        "sha512": "e4dccd397e64f218c8c0ed16e6e27c7f9a2f146626d17373285f892fec17736cb9d75a6efd35f83c604a96d1918ee50736229d3805946d0b22fa1058cbac9cb2"
       },
       "env": {
-        "server": "required",
+        "server": "unsupported",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nCQRBEiR/versions/X5OadXgy/raised-fabric-1.20.4-3.1.2.jar"
+        "https://cdn.modrinth.com/data/nCQRBEiR/versions/WVWOylk7/raised-fabric-1.20.4-3.1.3.jar"
       ],
-      "fileSize": 36771
+      "fileSize": 38434
     },
     {
       "path": "mods/Resourcify (1.20.2+-fabric)-1.3.1.jar",
@@ -951,19 +951,19 @@
       "fileSize": 11467
     },
     {
-      "path": "mods/waveycapes-fabric-1.4.3-mc1.20.4.jar",
+      "path": "mods/waveycapes-fabric-1.4.4-mc1.20.4.jar",
       "hashes": {
-        "sha1": "aaf9dc909008dcaa2d3163758d6b1adeee794ea8",
-        "sha512": "b2c3ecec2ed8dbdcec46f8eb9be56b11c5ee46ad3a49f7c50462465b94e7ce71eea2f054db9ffff8ba21505a28ed9d58e0f3112fb4e805b8f741250985d6e699"
+        "sha1": "d113b55c480279f2acb6837591d0fd3ffc22c5c8",
+        "sha512": "e9069b05f27d78c1fb696cbd5d625536900e6dfb2c9a70089f3ad6bf47f6ea42be3cea57323aaf4d8f7e69b0090263ecd04036da1cd60caf0b3739b5989d0b58"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "unsupported",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/kYuIpRLv/versions/BV8TWLcn/waveycapes-fabric-1.4.3-mc1.20.4.jar"
+        "https://cdn.modrinth.com/data/kYuIpRLv/versions/3Ky3FTbO/waveycapes-fabric-1.4.4-mc1.20.4.jar"
       ],
-      "fileSize": 355470
+      "fileSize": 355443
     },
     {
       "path": "mods/HeldItemTooltips-v20.4.1-1.20.4-Fabric.jar",
@@ -1131,19 +1131,19 @@
       "fileSize": 51396
     },
     {
-      "path": "mods/embeddium-fabric-0.3.7+mc1.20.4.jar",
+      "path": "mods/embeddium-fabric-0.3.9+mc1.20.4.jar",
       "hashes": {
-        "sha1": "45511340fc00a4688227a60c13672f43aa07478a",
-        "sha512": "ab4f7e6459a86e09112cebacad668427537a0f588cb0a225b7691f9893f3dd47b3a4b70d7ccd4b1fdfe731154a570826236dbf5c153606c833c5cd3954dee49d"
+        "sha1": "73b5c71c98faa39af19486bfe785408ca791e95d",
+        "sha512": "b7d68d8ae5ae76878a7d10707b1c23522fe423c78181cdccb140957f6fc551104043517f1a28da7bd7b925c5086c0ea842313f24ded93db663ebb1cd09aa568e"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "unsupported",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/g7dGXilm/embeddium-fabric-0.3.7%2Bmc1.20.4.jar"
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/NMfFonVs/embeddium-fabric-0.3.9%2Bmc1.20.4.jar"
       ],
-      "fileSize": 1271923
+      "fileSize": 1276386
     },
     {
       "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
