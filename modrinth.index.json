@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/particle_core-0.1.2+1.20.jar",
+      "hashes": {
+        "sha1": "938f95d8ae7b9da3d20d2ac0977c83dd26928ea3",
+        "sha512": "954a68cc61eef097afb04795e0a6588937873e9e057b17d55c78943b4056450c24d80c1c05d5b7e06fb8e569581c4dccd25df9393cb9ac2e3899f71650fb78e1"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RSeLon5O/versions/UztNGcmd/particle_core-0.1.2%2B1.20.jar"
+      ],
+      "fileSize": 278345
+    },
+    {
       "path": "mods/armortip-1.0.0-1.21.4.jar",
       "hashes": {
         "sha1": "f6b378ca4013acfcc5dd9a2bbfb28599dbcdf574",
