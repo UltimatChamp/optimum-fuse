@@ -1,5 +1,0 @@
-{
-  "main_menu": {
-    "bottom_right": [{"text":"Check for Updates→","color":"green","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/optimum-fuse/versions"}},{"text":"v1.9.8+fabric.1.20.4","color":"#FF00FF","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/optimum-fuse/version/1.9.8+fabric.1.20.4"}},{"text":"OptimumFuse","color":"#FF6600","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/optimum-fuse"}}]
-  }
-}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoptimum_fuse=self.webpackChunkoptimum_fuse||[]).push([[850],{9032:e=>{e.exports=JSON.parse('[{"label":"hello","permalink":"/optimum-fuse/blog/tags/hello","count":1}]')}}]);
