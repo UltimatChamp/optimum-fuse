@@ -1,13 +1,12 @@
 # OptimumFuse by UltimatChamp
 
 ## Credits 
-_(All these projects are included in this pack without being included in the `manifest.json`, i.e. via overrides, due to some constrains)_
+_All these projects are included in this pack via overrides, due to some constrains_
 
 ### --SimplyOptimized--
 The pack is based on Simply Optimized for most of the game-optimizations.
 
 ### --Mods--
-1) **CITResewn** _<small>[<a href="https://github.com/dicedpixels/CITResewn/releases/tag/1.20.4-1.1.4-dicedpixels">An unofficial build for 1.20.4</a> by <a href="https://github.com/dicedpixels">**@dicedpixels | Github**</a>]</small>_
-2) [**Player Animation Rework**](https://github.com/Steveplays28/player-animation-rework) _<small>[Modified | Removed sprint-stop Sound]</small>_
-
-**Also, an equivalent thanks to all the other projects included in the pack too; which have been properly credited in `manifest.json`!**
+1) [**CITResewn** fork](https://github.com/dicedpixels/CITResewn/releases/tag/1.20.4-1.1.4-dicedpixels) by [_**@dicedpixels**_](https://github.com/dicedpixels) _[1.20.4 port]_
+2) [**Player Animation Rework**](https://github.com/Steveplays28/player-animation-rework) _[Modified - Removed sprint-stop Sound | Not on Modrinth]_
+3) [**Borderless Mining**](https://github.com/comp500/BorderlessMinin) _[1.20.4 Config fix]_
