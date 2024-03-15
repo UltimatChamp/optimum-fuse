@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/no-telemetry-1.8.0.jar",
+      "hashes": {
+        "sha1": "238b8ebc95100368951e0ff5ef2b16a1406e32f2",
+        "sha512": "38b6d7939e3eb64d121d284ea7d7b04ab1863cb4dedaef2e85b11cee3f13f3e160839822402b94dc8da49ffaa10e2b901395300efc1f95bcf4dbf3024aeefa9a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar"
+      ],
+      "fileSize": 89096
+    },
+    {
       "path": "mods/particle_core-0.1.2+1.20.jar",
       "hashes": {
         "sha1": "938f95d8ae7b9da3d20d2ac0977c83dd26928ea3",
