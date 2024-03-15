@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoptimum_fuse=self.webpackChunkoptimum_fuse||[]).push([[77],{7964:e=>{e.exports=JSON.parse('{"permalink":"/optimum-fuse/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

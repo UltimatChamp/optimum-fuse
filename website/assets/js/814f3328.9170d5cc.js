@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoptimum_fuse=self.webpackChunkoptimum_fuse||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/optimum-fuse/blog/welcome","unlisted":false}]}')}}]);
