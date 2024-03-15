@@ -1011,19 +1011,19 @@
       "fileSize": 298301
     },
     {
-      "path": "mods/chatpatches-204.6.2.jar",
+      "path": "mods/chatpatches-204.6.4.jar",
       "hashes": {
-        "sha512": "768643f4c5a492a9b3ed28b34dfeb73f86df1c08ddcb62097e4d44c0de1c38f69bc43f734dd902ae5640523c80ef5f5e61c0324ddc44a6a5cc7a8b0757a5f7de",
-        "sha1": "94b1f058f0dd1a68c9bc9dab05e498046a594d7e"
+        "sha1": "e4e378b8e5c37af5da2f60db51c887fb6a59efe5",
+        "sha512": "2f4bae5b951bff149ddd9474fb33ffc74fa539c2720c01792024755f10f8e4c4fbd5584849be635e631da85c871fbdd2ccff491082c29fcc10048ab6e1c78de6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/MOqt4Z5n/versions/TC2Pejkl/chatpatches-204.6.2.jar"
+        "https://cdn.modrinth.com/data/MOqt4Z5n/versions/DFrrKCKP/chatpatches-204.6.4.jar"
       ],
-      "fileSize": 1841161
+      "fileSize": 1886772
     },
     {
       "path": "mods/rrls-4.0.2+mc1.20.4-fabric.jar",
@@ -1073,17 +1073,17 @@
     {
       "path": "mods/bettercommandblockui-0.5.0-1.20.3.jar",
       "hashes": {
-        "sha512": "bc140d83a8128b7fba3613a107f0509e416338a5eb40626da7f28cda67f1931bef290c578d96c3ddfa89888fa481c86ebef65b36436da4b4f3077c142d02abf5",
-        "sha1": "9a912f34117345835b9b47318adb15f381004fb4"
+        "sha512": "322168932bc48221ce74f48700b2a8693151ace114bb0f76428cdbf1a0d3f87c735e0a487eaf0bfadb12084413cd85f523fd6a1904d0fc34b960824ace411956",
+        "sha1": "0567c80bf79faddba8302c9a5e7881e61094be73"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/fy8jY8ey/bettercommandblockui-0.5.0-1.20.3.jar"
+        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/zDfdl4s6/bettercommandblockui-0.5.0-1.20.3.jar"
       ],
-      "fileSize": 133817
+      "fileSize": 135738
     },
     {
       "path": "mods/ModDetectionPreventer+1.20.4-1.1.0.jar",
@@ -1881,19 +1881,19 @@
       "fileSize": 18199
     },
     {
-      "path": "mods/ridehud-1.2.4+1.20.jar",
+      "path": "mods/ridehud-1.3.0+1.20.jar",
       "hashes": {
-        "sha1": "98d7076d3b61226cfd6e2a677fabaefb84eb09ef",
-        "sha512": "060f46fea2143ed6de0784d45d34a36735f6fa728032982be569847deaa371eeb6eeca9a6ac758c91155a452fe285bf22a86aa3e7c086bcf1da950c25a0d79ef"
+        "sha1": "61a16da1f5c935dbf8ba3fabbc157bdc8099c934",
+        "sha512": "e22141205ffbaa8e6838a9f986ca1342609524159b8ed22e62d2f9f60d0d0d46daa8ecc2ebcfbd7e194b91f141b5abb8733153dad16dde915545fa6f943dc76a"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Fws3jl2f/versions/DSHFWDyQ/ridehud-1.2.4%2B1.20.jar"
+        "https://cdn.modrinth.com/data/Fws3jl2f/versions/RYTbc2Wo/ridehud-1.3.0%2B1.20.jar"
       ],
-      "fileSize": 98570
+      "fileSize": 86806
     },
     {
       "path": "mods/main-menu-credits-1.1.2.jar",
