@@ -1,0 +1,8 @@
+{
+  "label": "Post Installation",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Make OptimumFuse your own! Here are some useful guides:"
+  }
+}
