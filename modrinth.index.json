@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/flow-1.4.0+1.20.4.jar",
+      "hashes": {
+        "sha1": "ff955d883f36dcec607b46a38243161eaa33d4f0",
+        "sha512": "31c2513adc9bd67cbc18c99f3eabdd1d3c5dfb2d7ff88ee34d4fb6ec261d8160ef7dc37654c3daca507df43ddf1e73cff0f23d983f900b64559898c73a5bddb5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Eoxi2LJd/versions/MtFhjqI1/flow-1.4.0%2B1.20.4.jar"
+      ],
+      "fileSize": 2602791
+    },
+    {
       "path": "mods/dynamiclights-v1.7.1-mc1.17x-1.20x-mod.jar",
       "hashes": {
         "sha1": "e29ef3c4f7f1907e98a8d8bd9486fde16df118b1",
