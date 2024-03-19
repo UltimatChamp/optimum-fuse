@@ -1161,19 +1161,19 @@
       "fileSize": 1234726
     },
     {
-      "path": "mods/chat_heads-0.10.31-fabric-1.20.3.jar",
+      "path": "mods/chat_heads-0.10.32-fabric-1.20.3.jar",
       "hashes": {
-        "sha1": "2dcf509b934c3e37bcf9834fd6f9b1f85279d922",
-        "sha512": "99ceb3b8235a10e6e3da3dc0f3d7b031481ef342225cb487c3f09a7bb0576849c9408c68ed7d393161e8d6a6947af4b09de832d9169e05390280ff3334d7e334"
+        "sha512": "97140120b694487b12ae8647e39b4f8be18f512755a01a829b4f874e43fa345ad267e39049824989fd2cef95c1009dfe2b690ba9a036b7ed07cdd6f4e9e6295a",
+        "sha1": "9ce615a8ee483dc0cf8be32061ff100c6f94df7e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/gqvNiLkw/chat_heads-0.10.31-fabric-1.20.3.jar"
+        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Hl6rexqr/chat_heads-0.10.32-fabric-1.20.3.jar"
       ],
-      "fileSize": 51396
+      "fileSize": 51736
     },
     {
       "path": "mods/embeddium-fabric-0.3.9+mc1.20.4.jar",
@@ -1221,19 +1221,19 @@
       "fileSize": 23063
     },
     {
-      "path": "mods/optigui-2.1.7.jar",
+      "path": "mods/optigui-2.3.0-alpha.2.jar",
       "hashes": {
-        "sha512": "d4b32aafbb4a1939476636906bd9fefaae23f7bd83ca39a94071a58fad3603d2efb3656c811291f68017f053b0f8aaf471d470fe4b9d5de21f256dfbbede76fa",
-        "sha1": "47040b4c65b6381ca61bc3af61fee4df279b5eec"
+        "sha1": "1fa0e3492b3630ee353b46578585571c87802460",
+        "sha512": "08542de7bf0cfd25f39124060db48787d27d1ba136667a8b870887d3e26fae17c9b3f5c7d67a309d1229374fdf6caf29eb6a10e8bed32a7bfc385c0373ccd000"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/JuksLGBQ/versions/xpfegZsE/optigui-2.1.7.jar"
+        "https://cdn.modrinth.com/data/JuksLGBQ/versions/cGrREnKA/optigui-2.3.0-alpha.2.jar"
       ],
-      "fileSize": 780572
+      "fileSize": 613589
     },
     {
       "path": "mods/explosive-enhancement-1.2.2-1.20.x.jar",
@@ -1581,19 +1581,19 @@
       "fileSize": 56531
     },
     {
-      "path": "mods/fabric-api-0.96.4+1.20.4.jar",
+      "path": "mods/fabric-api-0.96.11+1.20.4.jar",
       "hashes": {
-        "sha512": "00f729e336b30b27d2d539c82338659df9cacaa0db59907b08660c7f078877a3efbada6bbf5a2f3e88b9d0f2941006a4782d5d108c48033868a5a3f5dab9b3ff",
-        "sha1": "60e9dbbf526882175fa86a719791878f631ab415"
+        "sha512": "3a46d5f67d2863f4d7a28e2e7588d08a26318dea1fef6d968816d6134bce91f2b21c7012ed5988a72e45a16db57a90dcfec5f021b2004ce9a75cb9f953f30c64",
+        "sha1": "5537a4592773739e7279f3685445a84af49fde56"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/9p2sguD7/fabric-api-0.96.4%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/htRy7kbI/fabric-api-0.96.11%2B1.20.4.jar"
       ],
-      "fileSize": 2160893
+      "fileSize": 2160959
     },
     {
       "path": "mods/Controlify-1.8.1+1.20.4.jar",
@@ -1851,19 +1851,19 @@
       "fileSize": 424479
     },
     {
-      "path": "mods/PuzzlesLib-v20.4.36-1.20.4-Fabric.jar",
+      "path": "mods/PuzzlesLib-v20.4.40-1.20.4-Fabric.jar",
       "hashes": {
-        "sha512": "44b4e36d980b176a3888313b65a1a4b874c1f6ec45e2bdd93da259e11c197506b4db2ea77bb208343efe0a20fc2424ac171fc6f5c9ac64563a0041854128c0e7",
-        "sha1": "5cde7215c2bb21d6458f67d25e3c36eab0cea2f1"
+        "sha512": "81eea3f11772e9529e69211e1f661e576078e6dab876e72a3cbcff9dd382756d38ca2abb60963fcbe6afa524ce5f9bd9530afccdea8045e83e40ff4cc69f2270",
+        "sha1": "9c31374de2ea248673c0f4bc7ed9df8e11584a05"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QAGBst4M/versions/9SKeDQfZ/PuzzlesLib-v20.4.36-1.20.4-Fabric.jar"
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/8ENMTJuS/PuzzlesLib-v20.4.40-1.20.4-Fabric.jar"
       ],
-      "fileSize": 1006686
+      "fileSize": 1010937
     },
     {
       "path": "mods/Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
@@ -1941,19 +1941,19 @@
       "fileSize": 29830
     },
     {
-      "path": "mods/BetterF3-9.0.0-Fabric-1.20.4.jar",
+      "path": "mods/BetterF3-9.0.1-Fabric-1.20.4.jar",
       "hashes": {
-        "sha512": "9a717ac45863b5406e4a9a8cba068465223d1aa0f0d0b3c2400c62b20145e7bdf57e10cea7ed11086c0754fbb29c6673baa6a984339ee99bfb7440a82b8dd821",
-        "sha1": "38d1588b91104c7375bf81e455902a5b7b61c479"
+        "sha512": "154ea67663412c2226aeee101c44d58cf610a9c802bea8c51c3b92f3939ebc9442945d9f708501cf803ff7281bd1d02da1f11081fd1c9104ccdcf12285b02e8c",
+        "sha1": "c654c40f7d41acb1a3ff2efd3a6765d8aa58cdbe"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8shC1gFX/versions/zlYOLCve/BetterF3-9.0.0-Fabric-1.20.4.jar"
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/euCaAaXx/BetterF3-9.0.1-Fabric-1.20.4.jar"
       ],
-      "fileSize": 1772502
+      "fileSize": 1773999
     },
     {
       "path": "mods/vmp-fabric-mc1.20.4-0.2.0+beta.7.138-all.jar",
