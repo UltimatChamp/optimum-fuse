@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/dynamiclights-v1.7.1-mc1.17x-1.20x-mod.jar",
+      "hashes": {
+        "sha1": "e29ef3c4f7f1907e98a8d8bd9486fde16df118b1",
+        "sha512": "89c400f11290f645345a8896f3ffbfcfcc08fc90295a6ac583fe3de6a503b93029a932859e1665bc282786fcfcc77c6920050dd96df1ab1b204631af4c97ba0d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7YjclEGc/versions/Y1UP7YoY/dynamiclights-v1.7.1-mc1.17x-1.20x-mod.jar"
+      ],
+      "fileSize": 103814
+    },
+    {
       "path": "resourcepacks/ToolTips-Stylized.zip",
       "hashes": {
         "sha1": "7fe6196923f80c98410efd91a62c05beb35cd680",
