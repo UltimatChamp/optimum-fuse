@@ -11,49 +11,6 @@ This modpack is aimed to provide immense performance to Minecraft, with must-hav
 
 <hr>
 
-<h2>⚖️FPS Comparisons</h2>
-
-<details>
-<summary>Fabric🧵/Quilt🧩 Versions</summary>
-
-<h3>⬆️Higher is Better!</h3>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/930cced6429060bd70da0d6c2d7ca8aaad104c6d.png">
-
-<h2>⚙️Settings Changed:</h2>
-
-<b>1) VSync:</b> Disabled [In Fabulously Optimized, Additive and Adrenaline]<br>
-<b>2) Max Framerate:</b> Unlimited(260) [In Fabulously Optimized, Additive and Adrenaline]<br>
-
-<table frame="box">
-    <tr>
-        <td>
-            <h4>🎖️Positions</h4>
-            <ul>
-                <li><b>OptimumFuse:</b> 🏆First</li>
-                <li><b>Wing:</b> 🥈Second</li>
-                <li><b>Simply Optimized:</b> 🥉Third</li>
-                <li><b>Fabulously Optimized:</b> Fourth</li>
-                <li><b>Additive:</b> Fifth</li>
-                <li><b>Adrenaline:</b> Sixth</li>
-            </ul>
-        </td>
-    </tr>
-</table>
-<small><b>Note:</b> <b>Non-Nvidia users</b>' mileage may vary! Nonetheless, the FPS should be <b>>= Simply Optimized</b>.</small>
-</details>
-
-<details>
-<summary>Neoforge🦊/Forge⚒️ Versions</summary>
-    
-**NOT PLANNED**, for now, waiting for **Sinytra Connector** to update to **`1.20.4`**, first! 
-
-The `1.20.1` _**(Neo/Forge)**_ versions of the modpack aren't supposed to compete in an FPS Comparison, since I'm not able to focus much on the performance part of these versions, because of maintaining  two different Minecraft versions. I'm focusing on developing **Fabric** versions of the modpack as a _well-made_ product!
-
-The main focus for **Neo/Forge versions** for now, is to _improve parity_ between both the versions.
-</details>
-
-<hr>
-
 <details id="versioning">
 <summary>🧪Versioning</summary>
   
