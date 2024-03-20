@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/cit-1.0.0+1.20.4.jar",
+      "hashes": {
+        "sha1": "a1fcebee28c2153233068799b7f8cda623b77724",
+        "sha512": "ecf348562f0e8d6691e0d5e108476879468075421902cd9a5c9220c7a2c9978a33bb16228fd7c18759bc0b470ce09ac72628275026992753ffe250193f32674a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/G2Ib5c56/versions/TpqaM4ju/cit-1.0.0%2B1.20.4.jar"
+      ],
+      "fileSize": 397171
+    },
+    {
       "path": "mods/flow-1.4.0+1.20.4.jar",
       "hashes": {
         "sha1": "ff955d883f36dcec607b46a38243161eaa33d4f0",
