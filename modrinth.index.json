@@ -1146,19 +1146,19 @@
       "fileSize": 135738
     },
     {
-      "path": "mods/ModDetectionPreventer+1.20.4-1.1.0.jar",
+      "path": "mods/ModDetectionPreventer+1.20.4-1.2.0.jar",
       "hashes": {
-        "sha512": "5d86c1bce1bb73490ef3ce39f06b414d8c7b2be6cd40493e8a878dc9244936db5249ae0d6e1d09bebe8aa518bd50ea70ccb3693b272d71c1d52dff0dc1e37647",
-        "sha1": "e5f8b13d0632df9dea85c8d98fd4845d857a9730"
+        "sha512": "1eafdd0d86f5e597110b01f8539d2786a7f6e5a821e3f0abb9bd7c42abb8c1a65c52562e0b4f5b072a41e854e36da191fb241850d930ea379b0876c0fc111013",
+        "sha1": "155dfba649bb6fedf15c706aced78eb0ced5b097"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/lnxQbnYZ/versions/r2Smj2SL/ModDetectionPreventer%2B1.20.4-1.1.0.jar"
+        "https://cdn.modrinth.com/data/lnxQbnYZ/versions/F2xrsB2S/ModDetectionPreventer%2B1.20.4-1.2.0.jar"
       ],
-      "fileSize": 50427
+      "fileSize": 52814
     },
     {
       "path": "resourcepacks/blinking_totem.zip",
