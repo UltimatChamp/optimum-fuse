@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.9.9+fabric.1.20.4",
+  "versionId": "1.9.10+fabric.1.20.4",
   "name": "OptimumFuse - Fabric",
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
@@ -1266,19 +1266,19 @@
       "fileSize": 23063
     },
     {
-      "path": "mods/optigui-2.3.0-alpha.2.jar",
+      "path": "mods/optigui-2.1.7.jar",
       "hashes": {
-        "sha1": "1fa0e3492b3630ee353b46578585571c87802460",
-        "sha512": "08542de7bf0cfd25f39124060db48787d27d1ba136667a8b870887d3e26fae17c9b3f5c7d67a309d1229374fdf6caf29eb6a10e8bed32a7bfc385c0373ccd000"
+        "sha1": "47040b4c65b6381ca61bc3af61fee4df279b5eec",
+        "sha512": "d4b32aafbb4a1939476636906bd9fefaae23f7bd83ca39a94071a58fad3603d2efb3656c811291f68017f053b0f8aaf471d470fe4b9d5de21f256dfbbede76fa"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/JuksLGBQ/versions/cGrREnKA/optigui-2.3.0-alpha.2.jar"
+        "https://cdn.modrinth.com/data/JuksLGBQ/versions/xpfegZsE/optigui-2.1.7.jar"
       ],
-      "fileSize": 613589
+      "fileSize": 780572
     },
     {
       "path": "mods/explosive-enhancement-1.2.2-1.20.x.jar",
