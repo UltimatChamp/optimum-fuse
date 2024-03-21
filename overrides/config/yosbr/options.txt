@@ -5,8 +5,8 @@ simulationDistance:5
 guiScale:4
 maxFps:260
 graphicsMode:0
-resourcePacks:["vanilla","fabric","file/blinking_totem.zip","file/Fast Better Grass.zip","file/FreshAnimations.zip","minecraft:supporteatinganimation_resourcepacks/supporteatinganimation","continuity:default_resourcepacks/default","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
-incompatibleResourcePacks:["minecraft:supporteatinganimation_resourcepacks/supporteatinganimation","continuity:default_resourcepacks/default","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","file/blinking_totem.zip","file/Fast Better Grass.zip","file/FreshAnimations.zip","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
+incompatibleResourcePacks:["minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix"]
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
