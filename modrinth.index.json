@@ -1896,19 +1896,19 @@
       "fileSize": 424479
     },
     {
-      "path": "mods/PuzzlesLib-v20.4.40-1.20.4-Fabric.jar",
+      "path": "mods/PuzzlesLib-v20.4.41-1.20.4-Fabric.jar",
       "hashes": {
-        "sha512": "81eea3f11772e9529e69211e1f661e576078e6dab876e72a3cbcff9dd382756d38ca2abb60963fcbe6afa524ce5f9bd9530afccdea8045e83e40ff4cc69f2270",
-        "sha1": "9c31374de2ea248673c0f4bc7ed9df8e11584a05"
+        "sha512": "b87b6f5879640b2835704e815241a6d42e224dd13e4a80d93079716f90b81730176c99dca53cbc014ec4fe7559a523a8d57e98def67259d0c6dc1607439489a3",
+        "sha1": "57cb7287bd10358f6d1ed9a28f0d8aff037e10f5"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QAGBst4M/versions/8ENMTJuS/PuzzlesLib-v20.4.40-1.20.4-Fabric.jar"
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/5AajzfKh/PuzzlesLib-v20.4.41-1.20.4-Fabric.jar"
       ],
-      "fileSize": 1010937
+      "fileSize": 1013397
     },
     {
       "path": "mods/Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
@@ -1986,19 +1986,19 @@
       "fileSize": 29830
     },
     {
-      "path": "mods/BetterF3-9.0.1-Fabric-1.20.4.jar",
+      "path": "mods/BetterF3-9.0.2-Fabric-1.20.4.jar",
       "hashes": {
-        "sha512": "154ea67663412c2226aeee101c44d58cf610a9c802bea8c51c3b92f3939ebc9442945d9f708501cf803ff7281bd1d02da1f11081fd1c9104ccdcf12285b02e8c",
-        "sha1": "c654c40f7d41acb1a3ff2efd3a6765d8aa58cdbe"
+        "sha1": "780ae4f29fb249c3f6be75724b3084a075ec36cb",
+        "sha512": "f45b717acd5a6f1d71c59259dea4a62a3ea85731a0e8736eb050140a3d7fc6a3f3907b299b129d8f8b80da16a84bc9996d291f14e6fcb6034c3734ec855107dd"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8shC1gFX/versions/euCaAaXx/BetterF3-9.0.1-Fabric-1.20.4.jar"
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/AkivIlyi/BetterF3-9.0.2-Fabric-1.20.4.jar"
       ],
-      "fileSize": 1773999
+      "fileSize": 1776259
     },
     {
       "path": "mods/vmp-fabric-mc1.20.4-0.2.0+beta.7.138-all.jar",
