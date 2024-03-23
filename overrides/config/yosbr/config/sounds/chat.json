@@ -1,8 +1,16 @@
 {
 	"typingSoundEffect": {
-		"volume": 0.1
+		"shouldPlay": true,
+		"pitch": 1.6,
+		"volume": 0.1,
+		"id": "typing",
+		"soundEvent": "minecraft:block.note_block.hat"
 	},
 	"messageSoundEffect": {
-		"volume": 0.1
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.1,
+		"id": "message",
+		"soundEvent": "minecraft:block.note_block.hat"
 	}
 }
