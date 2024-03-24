@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/seamless-loading-screen-2.1.1+1.20.4-fabric.jar",
+      "hashes": {
+        "sha512": "44e2a130df05062b06fcf7e6881322818186011227295b796979781e0d67c226209bc29ce9b8228c27cc94d7fe28a5627a62deee056ba97e29e449343f7746cc",
+        "sha1": "0519008135d3c5aa1f3694f04edb4b18dff56cec"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TyTPFOiF/versions/cvbG5DGo/seamless-loading-screen-2.1.1%2B1.20.4-fabric.jar"
+      ],
+      "fileSize": 253631
+    },
+    {
       "path": "mods/cit-1.0.0+1.20.4.jar",
       "hashes": {
         "sha1": "a1fcebee28c2153233068799b7f8cda623b77724",
