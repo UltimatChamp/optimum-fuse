@@ -1716,21 +1716,6 @@
       "fileSize": 415153
     },
     {
-      "path": "mods/Clumps-fabric-1.20.4-15.0.0.2.jar",
-      "hashes": {
-        "sha512": "549ad34deaf06a90313725a2cea5af9157354b82b43941655ff8f915eebee0b81533eaaf5016b808471537870f8c16e5c36dab7c4e64ad166943774c6388579f",
-        "sha1": "87fe810f25cba498da0055ccb4fd7812a6f23ddd"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Wnxd13zP/versions/jdeTwq6v/Clumps-fabric-1.20.4-15.0.0.2.jar"
-      ],
-      "fileSize": 20966
-    },
-    {
       "path": "mods/Zoomify-2.13.0.jar",
       "hashes": {
         "sha512": "c169d65a99a54cfbdf8cb13edad8f11f1dffbae0f407c4d41058fa317052f52686429d51dbc17a9f572ca4e40f6bee2001b68713cfe45915fb65b9bf96a917b0",
