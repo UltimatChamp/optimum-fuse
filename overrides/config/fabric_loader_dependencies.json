@@ -12,6 +12,9 @@
     },
     "dynamic_fps": {
       "recommends": {}
+    },
+    "dynamiclights": {
+      "recommends": {}
     }
   }
 }
