@@ -53,17 +53,17 @@
     {
       "path": "resourcepacks/SodiumTranslations.zip",
       "hashes": {
-        "sha512": "54b3baa5c9bf3719859ce8886251ef718f56ea9c6a6f21cdcfc7176acce0cce0ddf1adfd79bcfbdd209173680e682b9f31ccce0c66a0033e3d545d971806ee2d",
-        "sha1": "5ec49380f9350d9c4a77fb1676ac637ab1981530"
+        "sha1": "27d4a3045584740b03ee511bebd84ac991258fdf",
+        "sha512": "64a6f0079075f5ed9dc94572afaeeb8d0827e8b3b16f0c09bf634682923365d11ee294e91208c33b9deed8a7c4b5aed02f3fe9f281bdb7cc79074b42c83089a2"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/StuHF5aC/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/Pi0LOPWP/SodiumTranslations.zip"
       ],
-      "fileSize": 173336
+      "fileSize": 176517
     },
     {
       "path": "mods/no-telemetry-1.8.0.jar",
@@ -816,19 +816,19 @@
       "fileSize": 27206
     },
     {
-      "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.58.jar",
+      "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.60.jar",
       "hashes": {
-        "sha512": "c8af767d59db1fcf9837aa17a58c46b3452ff33d1f005ac28c016776a3dadb05e24168111e4993ea734fc0c764a25d1d9362f85a8b3c245fd3efb10310a8a657",
-        "sha1": "86087b6d79db1fc461645c1d44d51c575b7510db"
+        "sha512": "174903a52c8642e073c82085a27615b32f9a0ec61a3d3ca8d568e972a083b94b391403b3f0f72ad34ca86c3c7355776c98b1cb55d2b17a07d9717168be9b9b31",
+        "sha1": "9fd13133d1e35e09a938fe8783ba66f9d6b43df9"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/Zarj7hYR/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.58.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/1mrrqqh8/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.60.jar"
       ],
-      "fileSize": 1282900
+      "fileSize": 1283884
     },
     {
       "path": "mods/modelfix-1.14-fabric.jar",
@@ -1386,19 +1386,19 @@
       "fileSize": 517903
     },
     {
-      "path": "mods/modernfix-fabric-5.14.0+mc1.20.4.jar",
+      "path": "mods/modernfix-fabric-5.15.0+mc1.20.4.jar",
       "hashes": {
-        "sha1": "3e01e37697c90971cf36f25dc281ba0f96ccae18",
-        "sha512": "d00a879ccbb5f2ed34157baa59845e84fad6e2acbdff2530e9cb80eee5e45279a28debb6f0bde9a7e8c5b85f9f9cf7ef255a08b2e8010f1989b1631afe16c4f9"
+        "sha512": "fa163194316f7129d275064bc4ac4e29395673f046c45625f7ce5933318d411c08a2538675a61a19db147324ba76fec44fe6dbd7279be34c62b3f7adeceb072c",
+        "sha1": "dbbb4d797bb89ac02eb6fd7fb310872ef37c23d1"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/o6bFEv8x/modernfix-fabric-5.14.0%2Bmc1.20.4.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0%2Bmc1.20.4.jar"
       ],
-      "fileSize": 434857
+      "fileSize": 440683
     },
     {
       "path": "mods/keybind_fix-1.0.0.jar",
@@ -2033,17 +2033,17 @@
     {
       "path": "resourcepacks/DarkMode.zip",
       "hashes": {
-        "sha512": "6b05a8d4f7dbd6885392b8e8b70a6b7b8e631b783145c312b61475921c92ab81b8142147f780b634a7591f392215ab863340f763dcf5a3f72963e3700ea2db52",
-        "sha1": "bb8a69998bd653060fbce40aba3f4dcb93d95086"
+        "sha512": "92b58f0c37545044119e31b868363b769efb8dcfe2c1dfc870b788cfe829b8875643a42a51ddd78139095c64566ddaeac144cbdfca4388e5b8ec073e37114feb",
+        "sha1": "07956f2a4bf6489146286ac0b1b06122616e7c43"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/npx9y1KS/versions/JdnkTk9p/GUI-SimpleStylized_4.3-1.21.zip"
+        "https://cdn.modrinth.com/data/npx9y1KS/versions/Jhhxmcnb/GUI-SimpleStylized_4.4-1.21.zip"
       ],
-      "fileSize": 1464630
+      "fileSize": 1476080
     },
     {
       "path": "mods/DeleteWorldsToTrash-v20.4.0-1.20.4-Fabric.jar",
