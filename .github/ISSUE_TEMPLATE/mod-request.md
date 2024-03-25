@@ -2,7 +2,7 @@
 name: Mod request
 about: Suggest a mod to add to this project
 title: ''
-labels: mod request
+labels: 📱mod request
 assignees: ''
 
 ---
