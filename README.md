@@ -55,10 +55,10 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 
 <hr>
 
-<h2>🎲Mods Used</h2>
-This is an official collection for <b>OptimumFuse</b>, which contains all the mods from the latest <b>Fabric</b> version of the project. This list will be modified for every additions and removals to the project!<br><br>
+## 🎲Mods Used
 
-<table><td><h3><a href="https://modrinth.com/collection/2SeKOGfw">📃OptimumFuse Mods for Fabric</a></h3></td></table>
+- You can find all the mods included in this modpack under the `Dependencies` section, on the **Modrinth Versions** page.
+- You can also find these mods,  in `modrinth.index.json` on the **GitHub** page.
 
 <h2>📱Awesome Features:</h2>
 
