@@ -1,5 +1,6 @@
 {
 	"preview": {
-		"alwaysOn": true
+		"alwaysOn": true,
+                "swapModes": true
 	}
 }
