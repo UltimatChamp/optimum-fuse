@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
+      "hashes": {
+        "sha1": "4108d959727fde432620693c2e271b4be81e5591",
+        "sha512": "123501578045a30e7730530deeedebd7aae611c10d69359ba6d90aa53651455e8d08e86c4ef84242b18147eaa54775b4d06e57c1eae43a9f357bceb15a65a5ed"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar"
+      ],
+      "fileSize": 721079
+    },
+    {
       "path": "mods/seamless-loading-screen-2.1.1+1.20.4-fabric.jar",
       "hashes": {
         "sha512": "44e2a130df05062b06fcf7e6881322818186011227295b796979781e0d67c226209bc29ce9b8228c27cc94d7fe28a5627a62deee056ba97e29e449343f7746cc",
@@ -79,21 +94,6 @@
         "https://cdn.modrinth.com/data/yfDziwn1/versions/Pi0LOPWP/SodiumTranslations.zip"
       ],
       "fileSize": 176517
-    },
-    {
-      "path": "mods/no-telemetry-1.8.0.jar",
-      "hashes": {
-        "sha1": "238b8ebc95100368951e0ff5ef2b16a1406e32f2",
-        "sha512": "38b6d7939e3eb64d121d284ea7d7b04ab1863cb4dedaef2e85b11cee3f13f3e160839822402b94dc8da49ffaa10e2b901395300efc1f95bcf4dbf3024aeefa9a"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar"
-      ],
-      "fileSize": 89096
     },
     {
       "path": "mods/armortip-1.0.0-1.21.4.jar",
