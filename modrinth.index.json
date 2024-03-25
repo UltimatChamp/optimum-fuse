@@ -246,19 +246,19 @@
       "fileSize": 18455
     },
     {
-      "path": "mods/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
+      "path": "mods/entityculling-fabric-1.6.4-mc1.20.4.jar",
       "hashes": {
-        "sha512": "39cead9d742acbf031375323a0418d82fd6d5957f69e29a1ddfa493b9d932e2d824b13c46c8882417249d3407f145909ef4923514335d7e89af15c73946c7c20",
-        "sha1": "898794f5fe7051ce2c58c3c32e34d785fec7761d"
+        "sha512": "2506bfffb1c6335889d7f33ea8018d7100fbaf5f983b95747894d58d7ef7ed0b4b77ef4f74824b5d798a87cc6acfbc6538dd5fef265625302e159056644b5a00",
+        "sha1": "ee3804cc07063cc5f67a3c9ed79bd8f2fbefab44"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar"
       ],
-      "fileSize": 59359
+      "fileSize": 59582
     },
     {
       "path": "mods/architectury-11.1.17-fabric.jar",
@@ -816,19 +816,19 @@
       "fileSize": 27206
     },
     {
-      "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.60.jar",
+      "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.61.jar",
       "hashes": {
-        "sha512": "174903a52c8642e073c82085a27615b32f9a0ec61a3d3ca8d568e972a083b94b391403b3f0f72ad34ca86c3c7355776c98b1cb55d2b17a07d9717168be9b9b31",
-        "sha1": "9fd13133d1e35e09a938fe8783ba66f9d6b43df9"
+        "sha512": "6ea691b18433653c9e190c57bc40ef933252f98a1fc8221297c6d5c38b3d5e4f53272023463935442a129a0cdce2dffd3dfcbb1900cac61fab662290b86ef3f1",
+        "sha1": "c2547b9f5c63e4922c0b6ffd14fd9ccd29e78a55"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/1mrrqqh8/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.60.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/2wBbjBss/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.61.jar"
       ],
-      "fileSize": 1283884
+      "fileSize": 1287101
     },
     {
       "path": "mods/modelfix-1.14-fabric.jar",
@@ -996,19 +996,19 @@
       "fileSize": 724484
     },
     {
-      "path": "mods/clientsidenoteblocks-2.6.jar",
+      "path": "mods/clientsidenoteblocks-2.7+1.20.jar",
       "hashes": {
-        "sha512": "3401e5c246790a22aced362a19abd96a840c9642894104433f4caa85eaf977088d853cfd75ada7c6b7c49d7da5e9ca81237491fd8445917b6d00833b54b727d5",
-        "sha1": "de4f1ec46d6a8a57cd8da7aeba6687bf3fd63f46"
+        "sha1": "c3355bdfb7ee79d3392ed68c6ace334c7f929cd6",
+        "sha512": "7f6db4cf16559062f38aac9f58f41ccd8d8a8cde557f440c7b585856f09dfdbe4bf830045a9e43499a61786371ac57cd3fafe71f8c4d3c8a60842b48beb23e27"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/flmhXQgb/versions/5Gaaacbx/clientsidenoteblocks-2.6.jar"
+        "https://cdn.modrinth.com/data/flmhXQgb/versions/C5sCt96K/clientsidenoteblocks-2.7%2B1.20.jar"
       ],
-      "fileSize": 1385971
+      "fileSize": 1388924
     },
     {
       "path": "mods/MapTooltip-fabric-1.20-3.0.0.jar",
@@ -1116,19 +1116,19 @@
       "fileSize": 125100
     },
     {
-      "path": "mods/polytone-1.20.4-1.14.6-fabric.jar",
+      "path": "mods/polytone-1.20.4-1.16.4-fabric.jar",
       "hashes": {
-        "sha1": "6a514cdd6763ef77f4895300feb1fbd2ad704309",
-        "sha512": "252aa52a34a36c256ae4bfd381a0ead487f1daf2a83505b29c4b65601961b289f0ee0de02918e3e5ea266d719620ac69ee44578b042896943150cfcd06368159"
+        "sha512": "f5b431e64316c84488a242690a2a9ba8344068326ac2d6da77486cb495f1e92330edd9ea6748f8f290433e0d69f20657725e82cf15f06471b933d94e33f27cee",
+        "sha1": "42815a44c7a7145fb9663fa205f940ef9514badc"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/p4Tx9dRW/polytone-1.20.4-1.14.6-fabric.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/qYg3IRhY/polytone-1.20.4-1.16.4-fabric.jar"
       ],
-      "fileSize": 480467
+      "fileSize": 377655
     },
     {
       "path": "mods/bettercommandblockui-0.5.0-1.20.3.jar",
@@ -1236,19 +1236,19 @@
       "fileSize": 207267
     },
     {
-      "path": "mods/clean_tooltips-1.0-fabric-1.20.1.jar",
+      "path": "mods/clean_tooltips-1.0-fabric-1.20.4.jar",
       "hashes": {
-        "sha1": "4658cdf42077ef8627199f66f2c59e70c85531e1",
-        "sha512": "464e710226bd064451c8465b5cf908757517b33b8037e746e4c9f01d7aa2ccfb1d9b2cc56feee893b1f67165a408cc1596041ff6c53f652746eec68a7eb78048"
+        "sha1": "9c7f6fae1df0f2d9e915362a59dd3d8908034ba4",
+        "sha512": "f06541a16b386a4dc6904cf428fc227eee2d8237adcc2857210e7aa66e61cbb0da33948dc66bc3b7f8ba8b2b66f6e15cb51a765b50521789b3a0b5a1b079b85d"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/vMoHe8uI/versions/7jTuPvl5/clean_tooltips-1.0-fabric-1.20.1.jar"
+        "https://cdn.modrinth.com/data/vMoHe8uI/versions/9X3924Py/clean_tooltips-1.0-fabric-1.20.4.jar"
       ],
-      "fileSize": 23063
+      "fileSize": 21145
     },
     {
       "path": "mods/optigui-2.1.7.jar",
@@ -1476,19 +1476,19 @@
       "fileSize": 2421865
     },
     {
-      "path": "mods/eating-animation-1.20+1.9.5.jar",
+      "path": "mods/eating-animation-1.20+1.9.6.jar",
       "hashes": {
-        "sha512": "6a23ce2a19f2d17ddc9b29a82abf7ff25bf7de333eca84c7761ce0a857502fc55a98ea75c6df3b4cdd64aa9b4ad592e7e771cc0d273dd3cec93191c59ee0db65",
-        "sha1": "1a5129a1dc83dca6a6c90506fb7db363850d3011"
+        "sha1": "56d62484629961b73008bfd8edd527cc9048243a",
+        "sha512": "0b94b70eceb8f41cbb8820e15368c7c96047ff55d90cae394cdd1d3d308c1687ada1b0ac4eb6802648ece2501cacb36fe8ac653c557ca59a142e2f688b96ebf3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/rUgZvGzi/versions/OeBVALjb/eating-animation-1.20%2B1.9.5.jar"
+        "https://cdn.modrinth.com/data/rUgZvGzi/versions/rF9P7BWp/eating-animation-1.20%2B1.9.6.jar"
       ],
-      "fileSize": 1037772
+      "fileSize": 1218709
     },
     {
       "path": "mods/clickthrough-1.20.4-fabric0.91.2-0.4.1.jar",
