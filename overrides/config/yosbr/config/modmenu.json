@@ -1,4 +1,5 @@
 {
   "mods_button_style": "shrink",
+  "hidden_mods": ["indium","sodium"],
   "update_checker": false
 }
