@@ -7,5 +7,4 @@ _All these projects are included in this pack via overrides, due to some constra
 The pack is based on Simply Optimized for most of the game-optimizations.
 
 ### --Mods--
-1) [**Player Animation Rework**](https://github.com/Steveplays28/player-animation-rework) _[Modified - Removed sprint-stop Sound | Not on Modrinth]_
-2) [**Borderless Mining**](https://github.com/comp500/BorderlessMinin) _[1.20.4 Config fix]_
+1) [**Borderless Mining**](https://github.com/comp500/BorderlessMinin) _[1.20.4 Config fix]_
