@@ -1611,19 +1611,19 @@
       "fileSize": 2160959
     },
     {
-      "path": "mods/Controlify-2.0.0-beta.1+1.20.4.jar",
+      "path": "mods/Controlify-1.8.1+1.20.4.jar",
       "hashes": {
-        "sha512": "f1cf77c4ffd83d245d8f5e2341dac481574cf573c0461018dd3525703a9b0f1e68008d9f4bbd8856f36176218eec602150f9a725f0d5bd434aea584384a32f8f",
-        "sha1": "1b65dd8b907beac334905bea7547d9c72a9e4718"
+        "sha512": "60c773bb981eb94c41db0b6bec5e45dc74c7194f4e33e905b512fdc5dea8439c35fb62bfd831e14f2272fbffdb2cdc0a7bbb509ad2c56348f3d535572000b44a",
+        "sha1": "25c740455648bccae00008ae677f11d1c0a08a2c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/10SuJx9U/Controlify-2.0.0-beta.1%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar"
       ],
-      "fileSize": 2084827
+      "fileSize": 2127904
     },
     {
       "path": "mods/DarkTitleBar-1.2.jar",
