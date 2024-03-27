@@ -891,21 +891,6 @@
       "fileSize": 15241
     },
     {
-      "path": "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.4.jar",
-      "hashes": {
-        "sha512": "b1436fb8ba77074555978a10970f0f7df64df2f22293900199cd7cb937f8a2194e6d1e3374868250586c910eec8018c87dc9899508a90a0931f7c366f9960b8c",
-        "sha1": "c371cee1617dad5aa8109432f8ff04ab6b632af9"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gedNE4y2/versions/pimBqcCZ/player-animation-lib-fabric-1.0.2-rc1%2B1.20.4.jar"
-      ],
-      "fileSize": 178220
-    },
-    {
       "path": "mods/animatica-0.6+1.20.jar",
       "hashes": {
         "sha512": "7d50f3f34479f8b052bfb9e2482603b4906b8984039777dc2513ecf18e9af2b599c9d094e88cec774f8525345859e721a394c8cd7c14a789c9538d2533c71d65",
