@@ -13,9 +13,6 @@
     "dynamic_fps": {
       "recommends": {}
     },
-    "dynamiclights": {
-      "recommends": {}
-    },
     "polytone": {
       "-conflicts": {
         "sodium": "*"

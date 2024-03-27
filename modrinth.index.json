@@ -51,21 +51,6 @@
       "fileSize": 397171
     },
     {
-      "path": "mods/dynamiclights-v1.7.1-mc1.17x-1.20x-mod.jar",
-      "hashes": {
-        "sha1": "e29ef3c4f7f1907e98a8d8bd9486fde16df118b1",
-        "sha512": "89c400f11290f645345a8896f3ffbfcfcc08fc90295a6ac583fe3de6a503b93029a932859e1665bc282786fcfcc77c6920050dd96df1ab1b204631af4c97ba0d"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/7YjclEGc/versions/Y1UP7YoY/dynamiclights-v1.7.1-mc1.17x-1.20x-mod.jar"
-      ],
-      "fileSize": 103814
-    },
-    {
       "path": "resourcepacks/ToolTips-Stylized.zip",
       "hashes": {
         "sha1": "7fe6196923f80c98410efd91a62c05beb35cd680",
@@ -1118,8 +1103,8 @@
     {
       "path": "mods/polytone-1.20.4-1.16.6-fabric.jar",
       "hashes": {
-        "sha512": "bdecda157d324a437ef2e6a70b57941d2fd398aa1212920e8d7a88d894284378533f5598e698ece69e50ba768fbe63a519a3849451eb5c104c3fe89690aca3df",
-        "sha1": "773359b351fa2d45d62027f167245d9a67c3b5da"
+        "sha1": "773359b351fa2d45d62027f167245d9a67c3b5da",
+        "sha512": "bdecda157d324a437ef2e6a70b57941d2fd398aa1212920e8d7a88d894284378533f5598e698ece69e50ba768fbe63a519a3849451eb5c104c3fe89690aca3df"
       },
       "env": {
         "client": "required",
@@ -1206,19 +1191,19 @@
       "fileSize": 51736
     },
     {
-      "path": "mods/embeddium-fabric-0.3.9+mc1.20.4.jar",
+      "path": "mods/embeddium-fabric-0.3.11+mc1.20.4.jar",
       "hashes": {
-        "sha1": "73b5c71c98faa39af19486bfe785408ca791e95d",
-        "sha512": "b7d68d8ae5ae76878a7d10707b1c23522fe423c78181cdccb140957f6fc551104043517f1a28da7bd7b925c5086c0ea842313f24ded93db663ebb1cd09aa568e"
+        "sha1": "5432532d66abfb7d0f161f15e87cb05eaaa1ec78",
+        "sha512": "cafd3f836eaf22c69f476f051aba8b120218f58df1a7e5178d97268891c672ea65fa55ed90d62be7436d75e7695e191d8eb400ca6bba0f72701418a0ee024f43"
       },
       "env": {
-        "server": "unsupported",
+        "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/NMfFonVs/embeddium-fabric-0.3.9%2Bmc1.20.4.jar"
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/On5whdbn/embeddium-fabric-0.3.11%2Bmc1.20.4.jar"
       ],
-      "fileSize": 1276386
+      "fileSize": 1280472
     },
     {
       "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -1476,19 +1461,19 @@
       "fileSize": 2421865
     },
     {
-      "path": "mods/eating-animation-1.20+1.9.6.jar",
+      "path": "mods/eating-animation-1.20+1.9.61.jar",
       "hashes": {
-        "sha1": "56d62484629961b73008bfd8edd527cc9048243a",
-        "sha512": "0b94b70eceb8f41cbb8820e15368c7c96047ff55d90cae394cdd1d3d308c1687ada1b0ac4eb6802648ece2501cacb36fe8ac653c557ca59a142e2f688b96ebf3"
+        "sha1": "d5a8909b0b864eb1a7a2d62368932d264eb60317",
+        "sha512": "7470cd63b49cd797a21b30fefe11bd53e419ca8ed0eb01f498b801e83222685bbe853e7323f2e310874a3619628fece48ec69ea53cd391dd97a139c64225d077"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/rUgZvGzi/versions/rF9P7BWp/eating-animation-1.20%2B1.9.6.jar"
+        "https://cdn.modrinth.com/data/rUgZvGzi/versions/AqXSvu6M/eating-animation-1.20%2B1.9.61.jar"
       ],
-      "fileSize": 1218709
+      "fileSize": 1218710
     },
     {
       "path": "mods/clickthrough-1.20.4-fabric0.91.2-0.4.1.jar",
@@ -1626,19 +1611,19 @@
       "fileSize": 2160959
     },
     {
-      "path": "mods/Controlify-1.8.1+1.20.4.jar",
+      "path": "mods/Controlify-2.0.0-beta.1+1.20.4.jar",
       "hashes": {
-        "sha1": "25c740455648bccae00008ae677f11d1c0a08a2c",
-        "sha512": "60c773bb981eb94c41db0b6bec5e45dc74c7194f4e33e905b512fdc5dea8439c35fb62bfd831e14f2272fbffdb2cdc0a7bbb509ad2c56348f3d535572000b44a"
+        "sha512": "f1cf77c4ffd83d245d8f5e2341dac481574cf573c0461018dd3525703a9b0f1e68008d9f4bbd8856f36176218eec602150f9a725f0d5bd434aea584384a32f8f",
+        "sha1": "1b65dd8b907beac334905bea7547d9c72a9e4718"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/10SuJx9U/Controlify-2.0.0-beta.1%2B1.20.4.jar"
       ],
-      "fileSize": 2127904
+      "fileSize": 2084827
     },
     {
       "path": "mods/DarkTitleBar-1.2.jar",
@@ -1716,19 +1701,19 @@
       "fileSize": 415153
     },
     {
-      "path": "mods/Zoomify-2.13.0.jar",
+      "path": "mods/Zoomify-2.13.1.jar",
       "hashes": {
-        "sha512": "c169d65a99a54cfbdf8cb13edad8f11f1dffbae0f407c4d41058fa317052f52686429d51dbc17a9f572ca4e40f6bee2001b68713cfe45915fb65b9bf96a917b0",
-        "sha1": "a734d9ac796eb19775cd6fd9304d838050a90272"
+        "sha512": "3eb57059d6adbeff3cb3f3eba53cf24151b2a09bb4ceaf3c9abc0320ab6fdff0b97336e2444e7b0082f75c199e64d5793cd7eadb2df69d9dd5a43ac5348a54c0",
+        "sha1": "0efb8ec4535a89a4e33e3d07c3d9cbd0bed38a6d"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/w7ThoJFB/versions/JiEpJuon/Zoomify-2.13.0.jar"
+        "https://cdn.modrinth.com/data/w7ThoJFB/versions/8cY8HQIg/Zoomify-2.13.1.jar"
       ],
-      "fileSize": 1055608
+      "fileSize": 1059621
     },
     {
       "path": "mods/serverpingerfixer-1.0.4.jar",
