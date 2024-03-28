@@ -1,6 +1,6 @@
 enable_lightmap_caching: true
 lightmap_time_change_needed_for_update: 80
-enable_sky_color_caching: true
+enable_sky_color_caching: false
 skycolor_time_change_needed_for_update: 20
 enable_debug_renderer_disable_if_not_needed: true
 enable_fps_string_optimization: true
