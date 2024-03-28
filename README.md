@@ -60,7 +60,7 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 - You can find all the mods included in this modpack under the `Dependencies` section, on the **Modrinth Versions** page.
 - You can also find these mods,  in `modrinth.index.json` on the **GitHub** page.
 
-##📱Awesome Features:
+## 📱Awesome Features:
 
 <!--4 images in a grid <b>BetterUI<br>
 <img src="top-left" width="325"> <img src="top-right" width="325"><br>
