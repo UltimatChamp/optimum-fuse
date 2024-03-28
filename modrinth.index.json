@@ -1296,19 +1296,19 @@
       "fileSize": 1050675
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.2.10+1.20.4.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar",
       "hashes": {
-        "sha1": "54b50a6231bbeb3bd58caaa7ea25510e5db205bc",
-        "sha512": "66294c0df08cd499271f1b41674b582af2d16b9a8c17187aa54e65a36e617c719bd7cda73ad4a9cb5ef51daec851da32c9f15930ab64d234bbb6b5f898e46aea"
+        "sha1": "71cff4c39487def96292cd8f5bef37795fbfbc31",
+        "sha512": "8b8f4cbe163341b88023479ecf5e4c7388939e8bdd6c74760bf0b804e9ea6a0b799f2a0b5a9b7216dca7a3dc68f5d416ee78c4db1c885a80f6ec6b59ca5fc4b4"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/59UuNTrz/ImmediatelyFast-Fabric-1.2.10%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/FEOsWs1E/ImmediatelyFast-Fabric-1.2.11%2B1.20.4.jar"
       ],
-      "fileSize": 222051
+      "fileSize": 222646
     },
     {
       "path": "mods/cloth-gamerules-1.1.0+1.19.4.jar",
