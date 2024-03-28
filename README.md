@@ -1,9 +1,6 @@
 <h1>OptimumFuse</h1>
-By<b> <a href="https://modrinth.com/user/UltimatChamp"><img src="https://cdn-raw.modrinth.com/user/JRIVBRCT/4a1d0a6d70192b113d173d67a1a28b805a6a87ec.jpeg" width="20">UltimatChamp</b></a>
 
-<br>
-
-<h2>An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>!</h2>
+<b>An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on <i><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></i>!</b>
 
 This modpack is aimed to provide immense performance to Minecraft, with must-have features! It is based on newer technologies and improves your game's experience. This is not wholly a performance-focused modpack, but still outperforms all the leading-optimization solutions.<br><br>If you find any issue/bug or want to suggest any feature, you can issue a <a href="https://github.com/UltimatChamp/optimum-fuse/issues">Bug Report 🐞/ Suggestion 🤝</a>, with the tag `[SUGGESTION]` or `[BUG]`!<hr>
 
@@ -94,9 +91,9 @@ and much more...!</b>
 
 ## 💎Credits!
 
-<h3>This project is based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>, under the <i><a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache License 2.0</a></i>!</h3>
+<b>This project is based on <i><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></i>, under the <i><a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache License 2.0</a></i>!</b>
 
 Also, make sure to check `CREDITS/CREDITS.md` provided with all the versions, for all the **Credits**!
 
 ## 📜License
-<h3>Check the complete license here: <a href="https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE"><b>Apache License 2.0</b></a>!</h3>
+<b>Check the complete license here: <a href="https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE"><i>Apache License 2.0</i></a>!</b>
