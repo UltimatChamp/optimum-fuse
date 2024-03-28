@@ -60,43 +60,43 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 - You can find all the mods included in this modpack under the `Dependencies` section, on the **Modrinth Versions** page.
 - You can also find these mods,  in `modrinth.index.json` on the **GitHub** page.
 
-<h2>📱Awesome Features:</h2>
+##📱Awesome Features:
 
 <!--4 images in a grid <b>BetterUI<br>
 <img src="top-left" width="325"> <img src="top-right" width="325"><br>
 <img src="bottom-left" width="325"> <img src="bottom-right" width="325">-->
 
-<h3>🍀BetterGrass<br>
+### 🍀BetterGrass
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/31bd83bbec4ebc32b93c5df44bef5a3120712350.png" width="625">
 <br><br><br>
 
-💡DynamicLights<br>
+### 💡DynamicLights
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg" width="625">
 
 <br>
 
-📐CEM<br>
+### 📐CEM
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" width="625">
 
  <br>
 
-🔎C-Zoom<br>
+### 🔎C-Zoom
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="625">
 
 <br>
 
-🖇️ConnectedTextures<br>
+### 🖇️ConnectedTextures
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="625"></h3>
 
 <br>
 
 and much more...!</b>
 
-<h2>💎Credits!</h2>
+## 💎Credits!
 
 <h3>This project is based on <b><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></b>, under the <i><a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache License 2.0</a></i>!</h3>
 
 Also, make sure to check `CREDITS/CREDITS.md` provided with all the versions, for all the **Credits**!
 
-<h2>📜License</h2>
+## 📜License
 <h3>Check the complete license here: <a href="https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE"><b>Apache License 2.0</b></a>!</h3>
