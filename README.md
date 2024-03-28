@@ -1,4 +1,4 @@
-<h1>OptimumFuse</h1>
+# OptimumFuse By UltimatChamp
 
 <b>An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on <i><a href="https://modrinth.com/modpack/sop">Simply Optimized</a></i>!</b>
 
