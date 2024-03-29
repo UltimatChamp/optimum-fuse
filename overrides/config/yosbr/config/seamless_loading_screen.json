@@ -1,9 +1,0 @@
-{
-	"time": 1,
-	"enableScreenshotBlur": true,
-	"screenshotBlurStrength": 16.0,
-	"screenshotBlurQuality": 16.0,
-	"playSoundEffect": true,
-	"resolution": "Native",
-	"updateWorldIcon": true
-}
