@@ -606,19 +606,19 @@
       "fileSize": 599531
     },
     {
-      "path": "mods/EasyNavigator-1.1.2.jar",
+      "path": "mods/EasyNavigator-1.2.0.jar",
       "hashes": {
-        "sha1": "674de065e417b84b74197b23bca2be113d6fa6a3",
-        "sha512": "32ced5747dded4982c2deb3c1eca0aa933c3e09441ed011a34d6f9953a7b2cc54405bdd5144eb7fce953bb6b0e3acf7cd23554adfef5718b0fff506f288600a5"
+        "sha512": "db0a451e012f286ce9e46aaa7aa49ab8c218deba419a830d2ffce0138cc1d2f8f164ae067e327fde97514da764664b8d9366236de35bbfdf7071a54e2062047a",
+        "sha1": "daf0e61ed1da019a62a996fea0cb0be46bfb6988"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/mYoteRb0/versions/OM5g1A5u/EasyNavigator-1.1.2.jar"
+        "https://cdn.modrinth.com/data/mYoteRb0/versions/QcJvVApj/EasyNavigator-1.2.0.jar"
       ],
-      "fileSize": 38116
+      "fileSize": 36178
     },
     {
       "path": "mods/language-reload-1.5.10+1.20.3.jar",
@@ -1596,19 +1596,19 @@
       "fileSize": 2160959
     },
     {
-      "path": "mods/Controlify-1.8.1+1.20.4.jar",
+      "path": "mods/Controlify-2.0.0-beta.1+1.20.4.jar",
       "hashes": {
-        "sha512": "60c773bb981eb94c41db0b6bec5e45dc74c7194f4e33e905b512fdc5dea8439c35fb62bfd831e14f2272fbffdb2cdc0a7bbb509ad2c56348f3d535572000b44a",
-        "sha1": "25c740455648bccae00008ae677f11d1c0a08a2c"
+        "sha512": "f1cf77c4ffd83d245d8f5e2341dac481574cf573c0461018dd3525703a9b0f1e68008d9f4bbd8856f36176218eec602150f9a725f0d5bd434aea584384a32f8f",
+        "sha1": "1b65dd8b907beac334905bea7547d9c72a9e4718"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/10SuJx9U/Controlify-2.0.0-beta.1%2B1.20.4.jar"
       ],
-      "fileSize": 2127904
+      "fileSize": 2084827
     },
     {
       "path": "mods/DarkTitleBar-1.2.jar",
@@ -1686,19 +1686,19 @@
       "fileSize": 415153
     },
     {
-      "path": "mods/Zoomify-2.13.1.jar",
+      "path": "mods/Zoomify-2.13.2.jar",
       "hashes": {
-        "sha512": "3eb57059d6adbeff3cb3f3eba53cf24151b2a09bb4ceaf3c9abc0320ab6fdff0b97336e2444e7b0082f75c199e64d5793cd7eadb2df69d9dd5a43ac5348a54c0",
-        "sha1": "0efb8ec4535a89a4e33e3d07c3d9cbd0bed38a6d"
+        "sha512": "05cd470d578cd05c11faeac44d4f2934856651792fe6a4d4aa919cd422835e0d27659cdc81335499d3df0eb61965a535da925a1c2d606faf46cdaa2c6285c5d9",
+        "sha1": "a3a76fcd4628ab6a2b329c80af15c7367409c806"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/w7ThoJFB/versions/8cY8HQIg/Zoomify-2.13.1.jar"
+        "https://cdn.modrinth.com/data/w7ThoJFB/versions/BalILUb7/Zoomify-2.13.2.jar"
       ],
-      "fileSize": 1059621
+      "fileSize": 1059619
     },
     {
       "path": "mods/serverpingerfixer-1.0.4.jar",
