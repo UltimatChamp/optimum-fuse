@@ -606,19 +606,19 @@
       "fileSize": 599531
     },
     {
-      "path": "mods/EasyNavigator-1.2.0.jar",
+      "path": "mods/EasyNavigator-1.2.1.jar",
       "hashes": {
-        "sha512": "db0a451e012f286ce9e46aaa7aa49ab8c218deba419a830d2ffce0138cc1d2f8f164ae067e327fde97514da764664b8d9366236de35bbfdf7071a54e2062047a",
-        "sha1": "daf0e61ed1da019a62a996fea0cb0be46bfb6988"
+        "sha512": "e57bb78e4defa3a7a8b763ab5d0d6d3bd4e7620f3057b1a7a124441f4f41b6a030a6107b8d7c961d3b44fa45a9ac4ce24be0ed05a040ba7587f1179e9f756c46",
+        "sha1": "414429cf94391aeae84ff4f1fae631decce25ca5"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/mYoteRb0/versions/QcJvVApj/EasyNavigator-1.2.0.jar"
+        "https://cdn.modrinth.com/data/mYoteRb0/versions/NXhGpKpM/EasyNavigator-1.2.1.jar"
       ],
-      "fileSize": 36178
+      "fileSize": 36177
     },
     {
       "path": "mods/language-reload-1.5.10+1.20.3.jar",
