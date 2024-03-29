@@ -36,19 +36,19 @@
       "fileSize": 253631
     },
     {
-      "path": "mods/cit-1.0.0+1.20.4.jar",
+      "path": "mods/citresewn-1.1.3+1.20.4.jar",
       "hashes": {
-        "sha1": "a1fcebee28c2153233068799b7f8cda623b77724",
-        "sha512": "ecf348562f0e8d6691e0d5e108476879468075421902cd9a5c9220c7a2c9978a33bb16228fd7c18759bc0b470ce09ac72628275026992753ffe250193f32674a"
+        "sha512": "336cc099b23579759b0a0001a88edd4ca54adcfdb43aea92a58ed6f6ec1aa9cc5f15508b80b9433ac043b2425477d5c1c8d6b1ef0c381d7f10f1392d5393cf95",
+        "sha1": "15ab79e8ab338f23590a70bb40b16296f5b9bf2a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/G2Ib5c56/versions/TpqaM4ju/cit-1.0.0%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/otVJckYQ/versions/Hvp3zWWg/citresewn-1.1.3%2B1.20.4.jar"
       ],
-      "fileSize": 397171
+      "fileSize": 387424
     },
     {
       "path": "resourcepacks/ToolTips-Stylized.zip",
