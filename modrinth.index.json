@@ -36,19 +36,19 @@
       "fileSize": 253631
     },
     {
-      "path": "mods/citresewn-1.1.3+1.20.4.jar",
+      "path": "mods/citresewn-1.1.4+1.20.4.jar",
       "hashes": {
-        "sha512": "336cc099b23579759b0a0001a88edd4ca54adcfdb43aea92a58ed6f6ec1aa9cc5f15508b80b9433ac043b2425477d5c1c8d6b1ef0c381d7f10f1392d5393cf95",
-        "sha1": "15ab79e8ab338f23590a70bb40b16296f5b9bf2a"
+        "sha512": "84f66e4e284e27fa67577f452af0f04cc8b9379e94e2818b3965513e05d6ac7c68c1c528ec092007a445dfbc3aa2744b842fd39d52c2843e22917338acfd7bc3",
+        "sha1": "76c79dd0deafb2189a6bf963c76cd554ab647c2b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/otVJckYQ/versions/Hvp3zWWg/citresewn-1.1.3%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/otVJckYQ/versions/VxeA5kfK/citresewn-1.1.4%2B1.20.4.jar"
       ],
-      "fileSize": 387424
+      "fileSize": 391809
     },
     {
       "path": "resourcepacks/ToolTips-Stylized.zip",
@@ -68,17 +68,17 @@
     {
       "path": "resourcepacks/SodiumTranslations.zip",
       "hashes": {
-        "sha1": "27d4a3045584740b03ee511bebd84ac991258fdf",
-        "sha512": "64a6f0079075f5ed9dc94572afaeeb8d0827e8b3b16f0c09bf634682923365d11ee294e91208c33b9deed8a7c4b5aed02f3fe9f281bdb7cc79074b42c83089a2"
+        "sha512": "35812c629a3e2cc56fc28d8f6e3b7d2e3b189f20facc9fcbf122bfd0d5da24a14c903b1d7dacc82e11c32165b07bee70dbbc723e5ede781896d4acf2c1a90705",
+        "sha1": "49a461e53577e6b7b92ef4c45303b219afeae817"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/Pi0LOPWP/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/d5haRKSg/SodiumTranslations.zip"
       ],
-      "fileSize": 176517
+      "fileSize": 177489
     },
     {
       "path": "mods/armortip-1.0.0-1.21.4.jar",
@@ -1086,19 +1086,19 @@
       "fileSize": 125100
     },
     {
-      "path": "mods/polytone-1.20.4-1.16.6-fabric.jar",
+      "path": "mods/polytone-1.20.4-1.17.3-fabric.jar",
       "hashes": {
-        "sha1": "773359b351fa2d45d62027f167245d9a67c3b5da",
-        "sha512": "bdecda157d324a437ef2e6a70b57941d2fd398aa1212920e8d7a88d894284378533f5598e698ece69e50ba768fbe63a519a3849451eb5c104c3fe89690aca3df"
+        "sha1": "cd38dd94ea1ebe12d57aabdaa3f489c6acc22cb8",
+        "sha512": "ff0eb11d132f9967e68feca620925f1c4a062b7446e0758180fec57595eff47e390b4b48c21ec10abd59a8175ad64c3aec2d975445a1858eea33b6e5278b2315"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/e0Ly1lE4/polytone-1.20.4-1.16.6-fabric.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/nucyc3yh/polytone-1.20.4-1.17.3-fabric.jar"
       ],
-      "fileSize": 378759
+      "fileSize": 404587
     },
     {
       "path": "mods/bettercommandblockui-0.5.0-1.20.3.jar",
