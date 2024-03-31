@@ -1086,34 +1086,34 @@
       "fileSize": 125100
     },
     {
-      "path": "mods/polytone-1.20.4-1.17.3-fabric.jar",
+      "path": "mods/polytone-1.20.4-1.17.4-fabric.jar",
       "hashes": {
-        "sha1": "cd38dd94ea1ebe12d57aabdaa3f489c6acc22cb8",
-        "sha512": "ff0eb11d132f9967e68feca620925f1c4a062b7446e0758180fec57595eff47e390b4b48c21ec10abd59a8175ad64c3aec2d975445a1858eea33b6e5278b2315"
+        "sha512": "7d9060367aad9b0b7995ed66599f3c1de4468c4f147f06b05d1871805aec00c6ccb74bc9449ad44e3743471787205108e13c638a5b44b360b416778d7f03f0d2",
+        "sha1": "6e1970c799148f24591912e0482971b8a767bbfc"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/nucyc3yh/polytone-1.20.4-1.17.3-fabric.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/QesjzJyI/polytone-1.20.4-1.17.4-fabric.jar"
       ],
-      "fileSize": 404587
+      "fileSize": 412562
     },
     {
       "path": "mods/bettercommandblockui-0.5.0-1.20.3.jar",
       "hashes": {
-        "sha512": "322168932bc48221ce74f48700b2a8693151ace114bb0f76428cdbf1a0d3f87c735e0a487eaf0bfadb12084413cd85f523fd6a1904d0fc34b960824ace411956",
-        "sha1": "0567c80bf79faddba8302c9a5e7881e61094be73"
+        "sha512": "efd5e0f21b7b9e9cf8c7fc25c3aa370462cd2df4e99cf5d29c641a70966c84c44ccaf1a05701bcfcf96026e60417be93833e33f59c0dd5569dab4068d0ac55a3",
+        "sha1": "7becd89e19ad29c64bad8ee1a1e93842dfb7732f"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/zDfdl4s6/bettercommandblockui-0.5.0-1.20.3.jar"
+        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/ozAhy8Zr/bettercommandblockui-0.5.0-1.20.3.jar"
       ],
-      "fileSize": 135738
+      "fileSize": 137346
     },
     {
       "path": "mods/ModDetectionPreventer+1.20.4-1.2.0.jar",
@@ -1941,19 +1941,19 @@
       "fileSize": 1776259
     },
     {
-      "path": "mods/vmp-fabric-mc1.20.4-0.2.0+beta.7.138-all.jar",
+      "path": "mods/vmp-fabric-mc1.20.4-0.2.0+beta.7.139-all.jar",
       "hashes": {
-        "sha512": "df05b637eff59b1e351a01ba2e1ff3d0017d017590cecee2278b1882a3350e600501dd6533d2c91549d3998f67c95e886040a5f37b1f290de07779a375db9df3",
-        "sha1": "843b10594e8fc2e25fd0146a8d34ef9e3803dd21"
+        "sha1": "97ea54f05ce50b10649de869c6d2efb666e01f03",
+        "sha512": "527056a673a2d9d0bc39a197f998497bf17ff304cccc8472fd215cc7a816a48fb88ce252dc185bdcbd162d099c5cbf59291b5bcbeb318f71f578bfb2c77513a6"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/wnEe9KBa/versions/Y7Ul6jCd/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.138-all.jar"
+        "https://cdn.modrinth.com/data/wnEe9KBa/versions/I8LNJvF3/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.139-all.jar"
       ],
-      "fileSize": 459058
+      "fileSize": 459326
     },
     {
       "path": "mods/StackDeobfuscatorFabric-1.4.2+bf1fc22.jar",
