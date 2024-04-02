@@ -6,6 +6,21 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/RPRenames-1.20.4-0.8.1.jar",
+      "hashes": {
+        "sha512": "04c7867d5e8c3593543fad43ad41fef56ae9b505f596498f6c604beefa55673689c1e52d62ff79529b2b1aeace9b96999d091d5cc8083c414f5f8fff563ab192",
+        "sha1": "7f3829e1ef96f3f49226f1e5f2bbaea486d1ab6d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hvqcuDMT/versions/LAOapkj7/RPRenames-1.20.4-0.8.1.jar"
+      ],
+      "fileSize": 152686
+    },
+    {
       "path": "mods/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
       "hashes": {
         "sha1": "4108d959727fde432620693c2e271b4be81e5591",
@@ -546,19 +561,19 @@
       "fileSize": 27551
     },
     {
-      "path": "mods/Debugify-1.20.4+1.0.jar",
+      "path": "mods/Debugify-1.20.4+1.1.jar",
       "hashes": {
-        "sha1": "1e5ad7a619ca72824e7196403aae44ebb0a2468e",
-        "sha512": "70057dc68154a9a195bb0f73dcda1af587917b312714338db6d68dfc6c8c429bbd133624f047af3e7cc4ef2de273bc4d2698d1c5fd1075160bcd3c1972c263ab"
+        "sha512": "acfc53fb695196275745c0134b45cfac5c8414a2446b86955078e469f9603f74dc940c5483385277cd74db110f7852d09822a31301c31cb273d3831eb8ab13ab",
+        "sha1": "248cd69236eed33faca6a08c4ba535c7249a0528"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QwxR6Gcd/versions/gGTvKKDk/Debugify-1.20.4%2B1.0.jar"
+        "https://cdn.modrinth.com/data/QwxR6Gcd/versions/aQYNRsGo/Debugify-1.20.4%2B1.1.jar"
       ],
-      "fileSize": 270298
+      "fileSize": 270096
     },
     {
       "path": "mods/enhanced_attack_indicator-1.0.4+1.20.3.jar",
@@ -801,19 +816,19 @@
       "fileSize": 27206
     },
     {
-      "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.61.jar",
+      "path": "mods/c2me-fabric-mc1.20.4-0.2.0+alpha.11.62.jar",
       "hashes": {
-        "sha512": "6ea691b18433653c9e190c57bc40ef933252f98a1fc8221297c6d5c38b3d5e4f53272023463935442a129a0cdce2dffd3dfcbb1900cac61fab662290b86ef3f1",
-        "sha1": "c2547b9f5c63e4922c0b6ffd14fd9ccd29e78a55"
+        "sha512": "269e9568677e358d21ebabae11f5d3fe4fcde9247d3edc06bfdc32ee9a430aadd54955c50cb89042440b470004c37582e47142b18e357098e9061b7f562ddf2d",
+        "sha1": "27bedd451cac864bbb672bdeb1545e446da11aac"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/2wBbjBss/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.61.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/rq177mLj/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.62.jar"
       ],
-      "fileSize": 1287101
+      "fileSize": 1287292
     },
     {
       "path": "mods/modelfix-1.14-fabric.jar",
@@ -1596,19 +1611,19 @@
       "fileSize": 2160959
     },
     {
-      "path": "mods/Controlify-2.0.0-beta.1+1.20.4.jar",
+      "path": "mods/Controlify-2.0.0-beta.2+1.20.4.jar",
       "hashes": {
-        "sha512": "f1cf77c4ffd83d245d8f5e2341dac481574cf573c0461018dd3525703a9b0f1e68008d9f4bbd8856f36176218eec602150f9a725f0d5bd434aea584384a32f8f",
-        "sha1": "1b65dd8b907beac334905bea7547d9c72a9e4718"
+        "sha512": "0503a306cd9a5d4b75f285cab77f7eaba27849adbdf0e6cdc517ff471b530e74dfb24e228816072a36ea5d77f1a1438f74ecc290467c434707211ddf91509639",
+        "sha1": "7b00982b79a383e76b496a6768333b4400fca661"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/10SuJx9U/Controlify-2.0.0-beta.1%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/MZzohk5u/Controlify-2.0.0-beta.2%2B1.20.4.jar"
       ],
-      "fileSize": 2084827
+      "fileSize": 2105537
     },
     {
       "path": "mods/DarkTitleBar-1.2.jar",
@@ -1641,19 +1656,19 @@
       "fileSize": 17886
     },
     {
-      "path": "mods/visuality-0.7.3+1.20.4.jar",
+      "path": "mods/visuality-0.7.4+1.20.4.jar",
       "hashes": {
-        "sha512": "bd63def71512f6a2684c0d1fe253adffc2a63b09e137288555a6905b24668844411afb3baf7937bba2f72e46e047b330c30271b9dcd2525fefc7aea74363ea49",
-        "sha1": "7f056d6b4d11097f1152ea6da1951e98a1475f58"
+        "sha512": "008a506a18fa282c2f63534bac58f6230fc041f496475e91c20bc45b35ae1dd722a33064a31d5571fcd251ff1f5b5cbcf6ce0e863b558861b686fa54e5c67b33",
+        "sha1": "cea92ec59dfbff028eef7e49dcc7e5c1114adc88"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/rI0hvYcd/versions/OR2HyGHb/visuality-0.7.3%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/rI0hvYcd/versions/pG2APhxP/visuality-0.7.4%2B1.20.4.jar"
       ],
-      "fileSize": 67736
+      "fileSize": 76778
     },
     {
       "path": "mods/nohotbarlooping-1.1.1-1.20.4.jar",
@@ -2003,17 +2018,17 @@
     {
       "path": "resourcepacks/DarkMode.zip",
       "hashes": {
-        "sha512": "92b58f0c37545044119e31b868363b769efb8dcfe2c1dfc870b788cfe829b8875643a42a51ddd78139095c64566ddaeac144cbdfca4388e5b8ec073e37114feb",
-        "sha1": "07956f2a4bf6489146286ac0b1b06122616e7c43"
+        "sha1": "22cc0b174596654778942a50e9b59b35e143e19d",
+        "sha512": "ff059b19b631f0d3073b724a0f63ce0dda09316bac6296e18ecc3c130c40675de458c38b69dd6f52e2fac09d1d0fbb229799c703d7c377922fd21cfad42895d4"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/npx9y1KS/versions/Jhhxmcnb/GUI-SimpleStylized_4.4-1.21.zip"
+        "https://cdn.modrinth.com/data/npx9y1KS/versions/rtpXKdt9/GUI-SimpleStylized_4.5-1.21.zip"
       ],
-      "fileSize": 1476080
+      "fileSize": 1533855
     },
     {
       "path": "mods/DeleteWorldsToTrash-v20.4.0-1.20.4-Fabric.jar",
@@ -2033,6 +2048,6 @@
   ],
   "dependencies": {
     "minecraft": "1.20.4",
-    "fabric-loader": "0.15.7"
+    "fabric-loader": "0.15.9"
   }
 }
