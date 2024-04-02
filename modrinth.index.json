@@ -6,6 +6,36 @@
   "summary": "An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!",
   "files": [
     {
+      "path": "mods/paginatedadvancements-2.4.2.jar",
+      "hashes": {
+        "sha1": "93d5b01496f920f58631e10670260bec5388ce30",
+        "sha512": "ab9b60943a0f4e4d7f606becdfcf2a30f2193dc132693bc5073056cee6cd73762a5759db3df92ee90c3a8bee84ba669b0121e170d9b86a3aa71112ff12f8f49a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/pJogNFap/versions/SSrN6xCf/paginatedadvancements-2.4.2.jar"
+      ],
+      "fileSize": 70974
+    },
+    {
+      "path": "mods/e4mc-4.0.1+1.19.4-fabric.jar",
+      "hashes": {
+        "sha1": "458253f15e3c5bb0d5354f42f3eedc5b1a71472c",
+        "sha512": "6dc10427ae9df71562ab948bb6b2502219bb5c37f58cc265390d9e311fc2b442a403440bb63953c6623777792d0c5cbafe0d894faa1c4cac282169d2000b22a3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qANg5Jrr/versions/vVFlVRt7/e4mc-4.0.1%2B1.19.4-fabric.jar"
+      ],
+      "fileSize": 275794
+    },
+    {
       "path": "mods/RPRenames-1.20.4-0.8.1.jar",
       "hashes": {
         "sha512": "04c7867d5e8c3593543fad43ad41fef56ae9b505f596498f6c604beefa55673689c1e52d62ff79529b2b1aeace9b96999d091d5cc8083c414f5f8fff563ab192",
