@@ -1287,15 +1287,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/YGEgFqZX/polytone-1.20.4-1.18.0-fabric.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/Ms5HHmbK/polytone-1.20.4-1.18.2-fabric.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 421770,
+      "fileSize": 424802,
       "hashes": {
-        "sha1": "b38de75e7ed0ccbd598048164e8f3bcf7934729b",
-        "sha512": "c6a68eb6945f6c7ccac1650ba8ef63f064a1aa0eeebe95bae0153749d9a3f98ae398c7981fbb37df324e71fceebad457373781e02f3e9653e21e597601e7282b"
+        "sha1": "bec81b2f29dd61c8000e6ca6ccd5c4c5a0dc517b",
+        "sha512": "3ce31af040ef4ea584aac79c56625eba396feab8852472505e41dd73f4972a0764fb2e07b6928d47374e3fa36d2c5907f8f8a2bb9bdcdcce3b9ed98771db050c"
       },
-      "path": "mods/polytone-1.20.4-1.18.0-fabric.jar"
+      "path": "mods/polytone-1.20.4-1.18.2-fabric.jar"
     },
     {
       "downloads": [
