@@ -255,18 +255,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/cMpxLYTx/versions/e6k73r7u/Loqui-0.1.0.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 193387,
-      "hashes": {
-        "sha1": "fd2861aeed46338441544bfc19d6a2b7bc139eb1",
-        "sha512": "74ae9ac3e268861a2a8784f7c6a9f1dc7b7948505dde085db6dc16141823ec322ef320a61c5993fe09ac5af0e0cf1cf7a872858d5148041bd58cdc48403e2009"
-      },
-      "path": "mods/Loqui-0.1.0.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/GNtptqqU/versions/2ROEQ9x8/MapTooltip-fabric-1.20-3.0.0.jar"
       ],
       "env": { "client": "required", "server": "required" },
