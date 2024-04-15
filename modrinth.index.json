@@ -1623,13 +1623,13 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/H3CwWhek/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/jxHmg0uz/SodiumTranslations.zip"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 182625,
+      "fileSize": 185036,
       "hashes": {
-        "sha1": "546c857d84dfddb039112ceb7f2fe305d6cb2726",
-        "sha512": "027420b4caa994d8b85c3e4e2b8dbf3ec0ccd9bbb85606ef5e9912ccb6f19d707dcf97a92e5ebeeb15a07464a5916fb854f62d1c3738fac773ac1ac2b3451db5"
+        "sha1": "141e855f76a444bec32d24b5477dd637a4fe01b6",
+        "sha512": "ee1740396070337c56009cd0d4a703a049b95c1a7da1c128ba9bb7ede8bd5857d5aaf7ba3212543ae7397a8354db183a8565818911148a5f89d4270ca383dcb7"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     },
