@@ -111,15 +111,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/Buc2lLKA/Controlify-2.0.0-beta.3%2B1.20.1-offline.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/im0SBR8Y/Controlify-2.0.0-beta.3%2B1.20.4-offline.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 11722423,
+      "fileSize": 11722552,
       "hashes": {
-        "sha1": "8ebb82834ab032839e3d6955818d7b1f70ab2ab9",
-        "sha512": "67c3d3d23094ccb8fc5e3a1484a543dcbbb7c3e138e8a33162871d722457ab698184b0cf170825037acf2ad12d2cf7b4aafea28190aefe2e464c83923f66e5c8"
+        "sha1": "e459c96d1f4802d8d019cbd673f46f6cd28d6f30",
+        "sha512": "5def60a56220ee44a6e8afb408663b7cdbadb7ea9655a2db514d834657b726d6b2fc34de5354e6e7fb618ee72591bbf4d69fd0234f5771bcdb34aac2480cf6fe"
       },
-      "path": "mods/Controlify-2.0.0-beta.3+1.20.1-offline.jar"
+      "path": "mods/Controlify-2.0.0-beta.3+1.20.4-offline.jar"
     },
     {
       "downloads": [
