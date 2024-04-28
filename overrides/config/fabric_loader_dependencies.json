@@ -1,11 +1,11 @@
 {
   "version": 1,
   "overrides": {
-    "chatpatches": {
-      "recommends": {}
-    },
     "nohotbarlooping": {
-      "recommends": {}
+      "recommends": {},
+      "-depends": {
+        "minecraft": "*"
+      }
     },
     "wakes": {
       "recommends": {}
@@ -16,6 +16,41 @@
     "polytone": {
       "-conflicts": {
         "sodium": "*"
+      }
+    },
+    "betterpingdisplay": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "threadtweak": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "smoothscrollingrefurbished": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "noisium": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "moddetectionpreventer": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "flow": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "deleteworldstotrash": {
+      "-depends": {
+        "minecraft": "*"
       }
     }
   }
