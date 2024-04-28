@@ -171,18 +171,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/GNtptqqU/versions/2ROEQ9x8/MapTooltip-fabric-1.20-3.0.0.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 11467,
-      "hashes": {
-        "sha1": "5bea734501023fe1d7f37a006ca0ca80a6e01cd4",
-        "sha512": "f9668193ad649a9f47188ea197b4af7d4e9979192c06caa874dc5bf9204ee71cb0ba02293a4b6a36d5e3cd14aa795551713bead29b7fa9951e2296bd22bb7efa"
-      },
-      "path": "mods/MapTooltip-fabric-1.20-3.0.0.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/lnxQbnYZ/versions/F2xrsB2S/ModDetectionPreventer%2B1.20.4-1.2.0.jar"
       ],
       "env": { "client": "required", "server": "required" },
