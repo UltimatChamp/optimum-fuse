@@ -5,7 +5,7 @@ simulationDistance:5
 guiScale:4
 maxFps:260
 graphicsMode:0
-resourcePacks:["vanilla","fabric","file/blinking_totem.zip","file/Expressive Fresh Moves.zip","file/Fast Better Grass.zip","file/FreshAnimations.zip","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
+resourcePacks:["vanilla","fabric","file/blinking_totem.zip","file/Eyeless Fresh Moves.zip","file/Fast Better Grass.zip","file/FreshAnimations.zip","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
 incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix","file/blinking_totem.zip","file/FreshAnimations.zip","file/ToolTips-Stylized.zip","file/DarkMode.zip"]
 narrator:0
 tutorialStep:none

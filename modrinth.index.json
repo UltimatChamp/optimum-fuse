@@ -1023,15 +1023,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/slufHzC2/versions/Ts4cFjh0/Expressive%20Fresh%20Moves%20v2.3.zip"
+        "https://cdn.modrinth.com/data/slufHzC2/versions/tE9gubc7/Eyeless%20Fresh%20Moves%20v2.3.zip"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 313656,
+      "fileSize": 250184,
       "hashes": {
-        "sha1": "ed9d58a49c5a2db100550387bd8b7dab45f13cff",
-        "sha512": "13a5828eff90d6a405d1f8003f82eb1a8f60d8c49dc82ad6a7489d663a12baf1e1179df3c265915a752d566bed260eaffe8f1a80384e552bdd50b6c1a7ace7b7"
+        "sha1": "249c63b35fd9ea08317acaf5745dc1a41f52c000",
+        "sha512": "6c0dcd7adb45304e91b8f447d46a3587b8c2cc893ee7fb1446394a194673c286ecbbeb9c98c5b442e2b3840476d6a53c17ea3964e467c36064a7fa0a0649783e"
       },
-      "path": "resourcepacks/Expressive Fresh Moves.zip"
+      "path": "resourcepacks/Eyeless Fresh Moves.zip"
     },
     {
       "downloads": [
