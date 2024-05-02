@@ -1,5 +1,6 @@
 {
   "mods_button_style": "shrink",
   "hidden_mods": ["indium","sodium"],
+  "hidden_configs": ["borderlessmining"],
   "update_checker": false
 }

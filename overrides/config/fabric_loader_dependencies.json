@@ -2,10 +2,10 @@
   "version": 1,
   "overrides": {
     "nohotbarlooping": {
-      "recommends": {},
       "-depends": {
         "minecraft": "*"
-      }
+      },
+      "recommends": {}
     },
     "wakes": {
       "recommends": {}
@@ -38,17 +38,52 @@
         "minecraft": "*"
       }
     },
-    "moddetectionpreventer": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "flow": {
       "-depends": {
         "minecraft": "*"
       }
     },
     "deleteworldstotrash": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "controlling": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "searchables": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "debugify": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "entityculling": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "iris": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "lithium": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "notenoughanimations": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "waveycapes": {
       "-depends": {
         "minecraft": "*"
       }
