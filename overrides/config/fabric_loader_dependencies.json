@@ -13,6 +13,15 @@
     "dynamic_fps": {
       "recommends": {}
     },
+    "simpleshulkerpreview": {
+      "recommends": {}
+    },
+    "sodium-extra": {
+      "recommends": {}
+    },
+    "jjelytraswap": {
+      "recommends": {}
+    },
     "polytone": {
       "-conflicts": {
         "sodium": "*"
@@ -59,31 +68,6 @@
       }
     },
     "debugify": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "entityculling": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "iris": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "lithium": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "notenoughanimations": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "waveycapes": {
       "-depends": {
         "minecraft": "*"
       }
