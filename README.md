@@ -8,7 +8,7 @@ If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Rep
 
 <hr>
 
-[![Discord](https://img.shields.io/discord/1186925300236427264?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20App-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="Website" src="https://img.shields.io/badge/website-%23ff6600?style=for-the-badge&logo=firefox&label=%E1%90%85&color=%23ff6600">](https://github.com/UltimatChamp/optimum-fuse/)
+[![Discord](https://img.shields.io/discord/1186925300236427264?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20App-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="Website" src="https://img.shields.io/badge/website-%23ff6600?style=for-the-badge&logo=firefox-browser&label=%E1%90%85&color=%23ff6600">](https://github.com/UltimatChamp/optimum-fuse/)
 
 <hr>
 
@@ -17,7 +17,7 @@ If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Rep
   
 This project uses **semantic versioning**.
 
-**Format:** <center>`X`.`Y`.`Z`+`<loader>`.`<mc-version>`</center>
+**Format:** `X`.`Y`.`Z`+`<loader>`.`<mc-version>`
 
 **Definitions:**
 (a) _Project Version_
@@ -33,7 +33,7 @@ This project uses **semantic versioning**.
 
 <hr>
 
-**Pre-release Versions' Format:** <center>`X`.`Y`.`Z`-`<pre-release>`+`<loader>`.`<mc-version>`</center>
+**Pre-release Versions' Format:** `X`.`Y`.`Z`-`<pre-release>`+`<loader>`.`<mc-version>`
 
 **`<pre-release>`:** _<small>(For untested/breaking changes/not ready for use versions)</small>_<br>
 **Values:**<br>
