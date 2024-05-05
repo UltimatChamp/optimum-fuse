@@ -8,7 +8,7 @@ If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Rep
 
 <hr>
 
-[![Discord](https://img.shields.io/discord/1186925300236427264?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20App-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="Website" src="https://img.shields.io/badge/website-%23ff6600?style=for-the-badge&logo=firefox-browser&label=%E1%90%85&color=%23ff6600">](https://github.com/UltimatChamp/optimum-fuse/)
+[![Discord](https://img.shields.io/discord/1186925300236427264?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20App-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="Website" src="https://img.shields.io/badge/website-%23ff6600?style=for-the-badge&logo=firefox-browser&label=%E1%90%85&color=%23ff6600">](https://ultimatchamp.github.io/optimum-fuse/)
 
 <hr>
 
