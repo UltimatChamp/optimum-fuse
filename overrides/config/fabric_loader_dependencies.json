@@ -56,21 +56,6 @@
       "-depends": {
         "minecraft": "*"
       }
-    },
-    "controlling": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "searchables": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "debugify": {
-      "-depends": {
-        "minecraft": "*"
-      }
     }
   }
 }
