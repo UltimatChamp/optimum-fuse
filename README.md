@@ -65,7 +65,8 @@ This has been implemented _after_ versions: `1.7.3+fabric.1.20.4` and `1.5.0+neo
 
 ### 🍀BetterGrass
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/31bd83bbec4ebc32b93c5df44bef5a3120712350.png" width="625">
-<br><br><br>
+
+<br>
 
 ### 💡DynamicLights
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg" width="625">
