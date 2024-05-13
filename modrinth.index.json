@@ -53,7 +53,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/DOUdJVEm/versions/ba3azLbW/Controlify-2.0.0-beta.8%2B1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 2452822,
       "hashes": {
         "sha1": "614e3afe244cf6fe8c496dfed78f968226352cde",
@@ -65,7 +65,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/xv94TkTM/versions/Nnw4hU10/Controlling-fabric-1.20.6-17.0.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 85268,
       "hashes": {
         "sha1": "636ed97b19a0af9bbefea840e4adb3f0ef8eeb0f",
@@ -135,21 +135,9 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/JIUF2Wb5/versions/8htL5AjP/EffectTimerPlus-Fabric-1.20.5-1.1.2.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 58968,
-      "hashes": {
-        "sha1": "1631787c08c0d75ab268c2e208b46dac95a4bc64",
-        "sha512": "ea50be77a3df47d1614b9bd1669c5526e462d0179af89efb3f672a2b4dd01e0b8af84c487cefb3cc16e3fc05cee13b6136afa80f41a79765c8788f6c4ac4631d"
-      },
-      "path": "mods/EffectTimerPlus-Fabric-1.20.5-1.1.2.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 233489,
       "hashes": {
         "sha1": "8e0b1a10e0d2d9f09ff36e46261155a9dc45e235",
@@ -183,6 +171,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/qQyHxfxd/versions/FMAZBsZw/NoChatReports-FABRIC-1.20.6-v2.7.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 304385,
+      "hashes": {
+        "sha1": "5a9cbc46aa396a09e18942beea1d99b23c442208",
+        "sha512": "746aac44af62b9de10fb99301e5074f8890ccc57d2e156c20be3ce4e09c3931f9c34674404eebe13f377cce4c870cfa5d0274c9ba32261883833759af5ca14ff"
+      },
+      "path": "mods/NoChatReports-FABRIC-1.20.6-v2.7.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/RLzHAoZe/versions/ykeHQ3C9/Resourcify%20%281.20.5%2B-fabric%29-1.3.6.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -197,7 +197,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/fuuu3xnx/versions/8O5zvtt2/Searchables-fabric-1.20.6-1.0.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 78374,
       "hashes": {
         "sha1": "ce3b898f2cfb1020231a08805b9737cc469ebaf4",
@@ -257,7 +257,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/w7ThoJFB/versions/FiLFLGIB/Zoomify-2.13.4%2B1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 1064832,
       "hashes": {
         "sha1": "bbb3d6b65fc209debefd84e84c59db93a8b5dc0e",
@@ -291,15 +291,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/s4DtR8IM/versions/uXXdv7Iz/betteraddserver-1.1.0-1.20.5.jar"
+        "https://cdn.modrinth.com/data/s4DtR8IM/versions/H0QXaDlU/betteraddserver-1.2.2-1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 19196,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 19256,
       "hashes": {
-        "sha1": "a8f9989c7adf366e634ed084d4b245e8425808c8",
-        "sha512": "c12214e8f1e5e595386b77ecc2b7cc79b31dab51eb88664fa2c596edf3f031cdffce49573d40a33caddcd7a9ee5dd3f7046b5810e2732985e53053305a7002db"
+        "sha1": "5f29b552038da4ac11141f0ef188f5cee376270a",
+        "sha512": "ae2e58ba4a24e3fb1d669e4ace580a5f7822e79702de32ac07327adefbdf99f7b6595be0af728f1cc9f9c61f0a75d9f306dac7abcc3a0fc452b784d758a2d734"
       },
-      "path": "mods/betteraddserver-1.1.0-1.20.5.jar"
+      "path": "mods/betteraddserver-1.2.2-1.20.6.jar"
     },
     {
       "downloads": [
@@ -312,6 +312,18 @@
         "sha512": "e0bc1db57a787e25851ca04bb5cfff3fd3c3006f6f2f0aee6f2c087a82d39bb2d7f6a3c0262aade6ca26b35fc3e1c30c57ff117b30f97b77a728f59cd8c3251b"
       },
       "path": "mods/bettercommandblockui-0.5.1-1.20.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kqJFAPU9/versions/B4fnGV1X/bettermounthud-1.2.3.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 21009,
+      "hashes": {
+        "sha1": "a2f35ea62669a75e878bc1ccf14a33e1eda062d9",
+        "sha512": "fdde94dd4572189ce5831d4b6547a302309ed535f50a0cb17f29bace827fedda2d4645be4850a5c06337d6a6e535a49843c09cbe4f7442fe9de1a342e186c05a"
+      },
+      "path": "mods/bettermounthud-1.2.3.jar"
     },
     {
       "downloads": [
@@ -353,7 +365,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/g646EoqQ/versions/PljJ2DBs/cakechomps-fabric-9.0.0%2B1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 26204,
       "hashes": {
         "sha1": "a961c2eddccb26ce902a3c29cf8773c434023917",
@@ -413,7 +425,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/3azQ6p0W/versions/b49VRqRK/cherishedworlds-fabric-9.0.0%2B1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 59832,
       "hashes": {
         "sha1": "b1aaa648db718aee961401b0656542bc59b265e6",
@@ -519,6 +531,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/na1dL51S/versions/xoq7hD8B/durabilityplus_1.20.5-1.1.0.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 8210,
+      "hashes": {
+        "sha1": "a88ed1d86039a47b79e68c73c43631a3835f14e7",
+        "sha512": "cf0d9f7f8c57bfe82deab66000898ac53460720d0fd45f2c385f8ebe163cef5cf39841a2f16af8572aa22f14f9a4b74ccafbcb1def0a5d2e2b3a22f0343a43b1"
+      },
+      "path": "mods/durabilityplus_1.20.5-1.1.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/LQ3K71Q1/versions/y3LKh1gi/dynamic-fps-3.4.3%2Bminecraft-1.20.5-fabric.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -557,7 +581,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/sk9rgfiA/versions/VbtsS5XM/embeddium-fabric-0.3.18%2Bmc1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 1394035,
       "hashes": {
         "sha1": "04c8ea4fa8f46349a3dd7c56d2f31df795366336",
@@ -711,6 +735,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/tEcWzCZz/versions/qa0X5qWD/held-item-info-1.6.0.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 77385,
+      "hashes": {
+        "sha1": "6065b2c2401003d80b24fa7f419729bd158e2729",
+        "sha512": "da09346ef8bace211d68b083e279107281c79f33c5ea93b3ae49721bcb74af2a93957bfc587567d8165aa21e1f04b9ab21f6615726a80223bb487b38358d3e94"
+      },
+      "path": "mods/held-item-info-1.6.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/YL57xq9U/versions/BvVRER1H/iris-1.7.0%2Bmc1.20.6.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -735,15 +771,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Nz0RSWrF/versions/Z9rtEyTY/lazy-language-loader-0.3.6.jar"
+        "https://cdn.modrinth.com/data/uLbm7CG6/versions/eM5Rcsij/language-reload-1.5.11%2B1.20.6.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 25138,
+      "fileSize": 70658,
       "hashes": {
-        "sha1": "7cd531df671b08e07abb475f3280fe4d6719d519",
-        "sha512": "4b2ad5949d6e5984876201a1e50b28d18c6fc2646c9f4221df7dda32a25b23ca3c1598ab6bcbcb1c24dac1536ea0f92836e749608c60611f6dcd2908d28c237d"
+        "sha1": "6387acd1679eeca48f7f789bc45953d9197be343",
+        "sha512": "1e1cb6c095f0abc668f90bfbd2c9c1dab12a414b208cfd87ddc553158bd187be2b85293faefc7ab83bfdd960fc5638c4bc205ed8a10c5b119bb877522cd02dd4"
       },
-      "path": "mods/lazy-language-loader-0.3.6.jar"
+      "path": "mods/language-reload-1.5.11+1.20.6.jar"
     },
     {
       "downloads": [
@@ -879,6 +915,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/SfMw2IZN/versions/Di2JxVAQ/nvidium-0.2.7-beta.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 156956,
+      "hashes": {
+        "sha1": "dc392bd814708cdd301cc74a52e966b5c4414955",
+        "sha512": "c74123f0a3ceec5f9df907a187a1329492b6beaf5e2ae94d1d767fc9cd64fd6e696787c8533972b6634fae5f29a9c0097a6dc5ca3c585e6a9079f8cc6ba291a7"
+      },
+      "path": "mods/nvidium-0.2.7-beta.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/JuksLGBQ/versions/2FbON5jl/optigui-2.3.0-beta.2%2B1.20.5.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -912,6 +960,18 @@
         "sha512": "ab9b60943a0f4e4d7f606becdfcf2a30f2193dc132693bc5073056cee6cd73762a5759db3df92ee90c3a8bee84ba669b0121e170d9b86a3aa71112ff12f8f49a"
       },
       "path": "mods/paginatedadvancements-2.4.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/3Wgsfpiz/polytone-1.20.6-1.18.8-fabric.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 433700,
+      "hashes": {
+        "sha1": "03e911a383847a9b20f77ee6dd0958a89fde1905",
+        "sha512": "0489785c6caeaece33b160f210eca271a52463140ec2f81226d77eb0566772a056d54de4741f5a2c7f0b232955866754ad5e4a7bef77ad17e76df185c332ce97"
+      },
+      "path": "mods/polytone-1.20.6-1.18.8-fabric.jar"
     },
     {
       "downloads": [
@@ -1008,6 +1068,30 @@
         "sha512": "b849f45f9aab03ca64a340fff343ca1cb0de2b0aebc37e99aefab9534033f4effb1b519fc2cd2fc14a3329b6cd4d98897089d9e6eb7f09b7f4c17da69f8fdefd"
       },
       "path": "mods/sodium-extra-0.5.5+mc1.20.6-build.118.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/x02cBj9Y/versions/aWT2Gi9N/status-effect-bars-1.0.5.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 42329,
+      "hashes": {
+        "sha1": "3ce9dfdd068275d0645fba4fa8e3011b8100b650",
+        "sha512": "bab58a8470fb8ba19e5a19bf292bbaffa91a39c61990eb5b6109362fb3be38b61e5053b8fe315247f6eaf0c4b70fe8f8890b3afa846c1942a0712d27ca9633ab"
+      },
+      "path": "mods/status-effect-bars-1.0.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/BWloQ9jK/versions/RP6Tr3Bo/stendhal-1.4.1-1.20.6.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 480538,
+      "hashes": {
+        "sha1": "07a7e550867a45b3eafa6b1879ddf16d275f9142",
+        "sha512": "1b04954ac27d3456bc0c43133b54d39177c0851ad06d3080ee67913439254932fc07f38dc4885d5d70ff814ad160552ad92794dced2b47c396c5fcc368a49b4e"
+      },
+      "path": "mods/stendhal-1.4.1-1.20.6.jar"
     },
     {
       "downloads": [
@@ -1155,13 +1239,13 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/LXyVD82i/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/PhdQqp9M/SodiumTranslations.zip"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 185315,
+      "fileSize": 185530,
       "hashes": {
-        "sha1": "19b22cacd42754deb017e561c7161344db86e310",
-        "sha512": "252ee139e0c5d79f369277c5ab3eab81c05cde37599c684c86192f0275b2c6a181a4fc65102da1762a905bc1750bef84c5e8a30471ed16a3ed4d21c8f8b8d706"
+        "sha1": "701a36839b1897bfb1728d62d34adab49b73e4ef",
+        "sha512": "e181ff192eff222e6b3d645d574233bfa0ade87d13c40cca68e49d2ce8f0cfe51011766dd9a47b3c2097979e0cd28c57fa3fdcaa193e0432ade949d39623929e"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     },
@@ -1194,5 +1278,5 @@
   "game": "minecraft",
   "name": "OptimumFuse - Fabric",
   "summary": "[1.20.6] [Fabric📜] An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.10.0-beta.3+fabric.1.20.6"
+  "versionId": "1.10.0-beta.4+fabric.1.20.6"
 }

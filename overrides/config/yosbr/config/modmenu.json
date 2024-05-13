@@ -1,6 +1,14 @@
 {
+  "count_libraries": false,
+  "count_children": false,
   "mods_button_style": "shrink",
-  "hidden_mods": ["indium","sodium"],
-  "hidden_configs": ["borderlessmining"],
+  "count_hidden_mods": false,
+  "hidden_mods": [
+    "sodium",
+    "indium"
+  ],
+  "hidden_configs": [
+    "borderlessmining"
+  ],
   "update_checker": false
 }
