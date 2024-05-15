@@ -37,11 +37,6 @@
         "minecraft": "*"
       }
     },
-    "smoothscrollingrefurbished": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "noisium": {
       "-depends": {
         "minecraft": "*"

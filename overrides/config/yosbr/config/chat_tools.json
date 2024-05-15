@@ -1,3 +1,5 @@
 {
-  "general.ShowWelcomeMessageEnabled": false
+  "config.version": 2.1,
+  "general.ShowWelcomeMessageEnabled": false,
+  "general.MaxHistoryLength": 10000
 }
