@@ -13,9 +13,6 @@
     "dynamic_fps": {
       "recommends": {}
     },
-    "simpleshulkerpreview": {
-      "recommends": {}
-    },
     "sodium-extra": {
       "recommends": {}
     },
@@ -25,16 +22,6 @@
     "polytone": {
       "-conflicts": {
         "sodium": "*"
-      }
-    },
-    "betterpingdisplay": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "threadtweak": {
-      "-depends": {
-        "minecraft": "*"
       }
     },
     "noisium": {
