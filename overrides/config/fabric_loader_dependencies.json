@@ -10,6 +10,12 @@
     "wakes": {
       "recommends": {}
     },
+    "chatpatches": {
+      "recommends": {}
+    },
+    "optigui": {
+      "recommends": {}
+    },
     "dynamic_fps": {
       "recommends": {}
     },
