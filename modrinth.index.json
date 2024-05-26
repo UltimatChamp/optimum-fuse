@@ -39,15 +39,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/ba3azLbW/Controlify-2.0.0-beta.8%2B1.20.6.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/cif1Amua/Controlify-2.0.0-beta.9%2B1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 2452822,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 2681823,
       "hashes": {
-        "sha1": "614e3afe244cf6fe8c496dfed78f968226352cde",
-        "sha512": "fb15ed133b35d14835f602ffd788cd205d2fdedf857f1cf62f3e52f3fc79fda7552c00b888ec39ecd65d8d42132ee03ced0ad7f91e7e55bd8efd6241995e7791"
+        "sha1": "96bdeba5e4c587b4d5a2c5fb16ed384d0a59896d",
+        "sha512": "f4413f7dc603f3a36667957dfe744f0b49de362e017cd0be3057461f6a32f0611b909475059fc7cf610f05f3e12cfc6e354b99fbfc0d356651d3a643021f9009"
       },
-      "path": "mods/Controlify-2.0.0-beta.8+1.20.6.jar"
+      "path": "mods/Controlify-2.0.0-beta.9+1.20.6.jar"
     },
     {
       "downloads": [
@@ -267,15 +267,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/aVyWAtot/versions/yIahUzzV/TabTweaks%201.20.x-fabric-1.1.0.jar"
+        "https://cdn.modrinth.com/data/aVyWAtot/versions/PIJnVX68/TabTweaks%201.20.x-fabric-1.1.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
       "fileSize": 16911,
       "hashes": {
-        "sha1": "cda9b72be2ea32bec5e17e9515d2fdf269a24f6e",
-        "sha512": "812e6177c823337e3df385d361ca4896e2b50f7344cee50c04e3a73d471d4753c1040e5862ddfaae289b94cc248610ca02a56794ee3804b32959e3fc6b554771"
+        "sha1": "72ca53f35c028c389a6829a0482b318cce0b4eb3",
+        "sha512": "a9b33c155c14f931cc9af21c027c3494940676af42127f20b56924cc4f0e63ac4f51a35f38955be83cce1b7921b51e27dbcc9b03f9b6c1ea0fc369383899bb25"
       },
-      "path": "mods/TabTweaks 1.20.x-fabric-1.1.0.jar"
+      "path": "mods/TabTweaks 1.20.x-fabric-1.1.1.jar"
     },
     {
       "downloads": [
@@ -495,18 +495,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/flmhXQgb/versions/C5sCt96K/clientsidenoteblocks-2.7%2B1.20.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 1388924,
-      "hashes": {
-        "sha1": "c3355bdfb7ee79d3392ed68c6ace334c7f929cd6",
-        "sha512": "7f6db4cf16559062f38aac9f58f41ccd8d8a8cde557f440c7b585856f09dfdbe4bf830045a9e43499a61786371ac57cd3fafe71f8c4d3c8a60842b48beb23e27"
-      },
-      "path": "mods/clientsidenoteblocks-2.7+1.20.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -603,15 +591,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/rUgZvGzi/versions/QkHDCEPS/eating-animation-1.20.6%2B1.9.62.jar"
+        "https://cdn.modrinth.com/data/rUgZvGzi/versions/bVtVrfh2/eating-animation-1.20.6%2B1.9.7.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 1057539,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1057559,
       "hashes": {
-        "sha1": "1f91aa822e3ed7b4928146069a1291f8a2f4d0ef",
-        "sha512": "d33329d406fd77990d4f1fcded15d4bcc7f026d7b70e9eca1cd06afd688cab3a2ded9c35614eb36728179cd05d402b5e7d8db1b3aa3f151f266bf71b5dd26118"
+        "sha1": "4e82f413cd609e1f55403d625153c2b037a4c886",
+        "sha512": "12144a62cc9e3fce46ec53fd4217c173cc17ba16f68b0a5b646e34b6ab6681c49451081eb79c53a818aef476b0911f344535f16ee884004bdad86349659134b1"
       },
-      "path": "mods/eating-animation-1.20.6+1.9.62.jar"
+      "path": "mods/eating-animation-1.20.6+1.9.7.jar"
     },
     {
       "downloads": [
@@ -675,15 +663,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/sXviAk4G/entityculling-fabric-1.6.4-mc1.20.6.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/92bPVm5F/entityculling-fabric-1.6.5-mc1.20.6.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 63693,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 63732,
       "hashes": {
-        "sha1": "a3eb167ad8d469d36548ea0fa900c2188ddcf33f",
-        "sha512": "afcb672e12b55084d22b3ed9b687b92d03151fa00a81591c2f84f69a44f2b221f0828e7414571c9e6ce3ac8f0b5aa38295ab1101c1accf8a04b51412bd43506c"
+        "sha1": "a7f8976c7d03c4f239472b1b9dedf191ec4bfc60",
+        "sha512": "caf329c299071500d2b92a4e71bffce4f16b1081d0fce036a612f79fb1719f82cebf1eb65dcdaeaf95dd2de93e610e6a59af55e272157fc4520d476f40902e4b"
       },
-      "path": "mods/entityculling-fabric-1.6.4-mc1.20.6.jar"
+      "path": "mods/entityculling-fabric-1.6.5-mc1.20.6.jar"
     },
     {
       "downloads": [
@@ -1095,15 +1083,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/zzUna1J8/polytone-1.20.6-1.18.9-fabric.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/RRopcbQj/polytone-1.20.6-1.18.12-fabric.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 433631,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 446527,
       "hashes": {
-        "sha1": "fce3feb22d51847dbd9ab1ed960e1f25054daff1",
-        "sha512": "a4243e6bbb2b58632940d8b6841c23f0726cff5f6f72f2b851339f0067b0405d20bfae41bdeab59a65a7298d82b27a5b969a162a2794dfde1e8aba71c0657516"
+        "sha1": "4c3d3ea9e187137c7e6555a2462c6de378b655bb",
+        "sha512": "8b9a432c1478ef9e2cf1306efeb61cc3a8ab56d2238946c2abaf7ec9cccaea8167b3212fa68345fbd345e9a354195ce4c65a7475611dec45fa2f55a31e8f9ffb"
       },
-      "path": "mods/polytone-1.20.6-1.18.9-fabric.jar"
+      "path": "mods/polytone-1.20.6-1.18.12-fabric.jar"
     },
     {
       "downloads": [
@@ -1383,13 +1371,13 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/N76l7gNw/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/rr7vSO7n/SodiumTranslations.zip"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 185743,
+      "fileSize": 185737,
       "hashes": {
-        "sha1": "08bd8933dae29a749ac00d7b509b128df60740d9",
-        "sha512": "505ea4b7242173963c7726b9ea878c47c2a04416ca09c734d4daac6c9fa4e32b055d6e74f492e1ab7f8f7574e05ba6dd69555ef4cdcbf471f7ac2d09526a06a3"
+        "sha1": "0cde7bfd148b5af06524889bbd5c54c5b20437f6",
+        "sha512": "df097cd3b7035a6f9096c37be5fa98d4fdb72f0647c481f1e1692f05560759f2ce996bf81a0f135e639d80b192c2e5d23780e68034109fdf3fcb677926bbe30a"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     },
@@ -1434,5 +1422,5 @@
   "game": "minecraft",
   "name": "OptimumFuse - Fabric",
   "summary": "[1.20.6] [Fabric📜] An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.10.0-beta.8+fabric.1.20.6"
+  "versionId": "1.10.0-beta.10+fabric.1.20.6"
 }

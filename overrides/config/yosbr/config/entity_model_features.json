@@ -1,3 +1,4 @@
 {
-  "preventFirstPersonHandAnimating": true
+  "preventFirstPersonHandAnimating": true,
+  "allowEBEModConfigModify": false
 }
