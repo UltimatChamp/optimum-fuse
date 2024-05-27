@@ -3,10 +3,6 @@ html {
   scroll-behavior: smooth;
 }
 
-hr {
-  background-color: var(--ifm-color-primary);
-}
-
 #uc {
  border-radius: 50%;
 }

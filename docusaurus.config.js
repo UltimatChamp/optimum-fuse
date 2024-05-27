@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OptimumFuse',
-  tagline: 'An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!',
+  tagline: 'An open-source modpack that improves the game`s performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

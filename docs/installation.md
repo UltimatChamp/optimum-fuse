@@ -54,7 +54,14 @@ _Here are some useful links:_<br />
 _Here are some useful links:_<br />
 **<a href="https://apexminecrafthosting.com/how-to-play-modpacks-with-the-atlauncher/" target="_blank">How to Play Modpacks with the ATLauncher - Apex Hosting</a>**
 </TabItem>
+<TabItem value="cf" label="CurseForge App">
+_Here are some useful links:_<br />
+**<a href="https://support.curseforge.com/en/support/solutions/articles/9000196984-installing-modpacks" target="_blank">Installing Minecraft modpacks from the CurseForge App - CurseForge Support</a>**
+</TabItem>
 <TabItem value="mcl" label="Minecraft Launcher">
 Minecraft Launcher is unsupported. The modpack requires _any_ launcher, that supports Modrinth modpacks.
+</TabItem>
+<TabItem value="others" label="Other Launchers">
+Refer to your launcher's documentation.
 </TabItem>
 </Tabs>

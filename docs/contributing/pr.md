@@ -101,8 +101,3 @@ _Other resources:_<br />
 ### Improve the documentation
 
 Help us improve the documentation! On every page of this documentation, there is an `✏️Edit this page` option!
-
-<hr />
-
-### Update Mods
-You can create a PR on GitHub, to update **mods/resource-packs** for the next release.

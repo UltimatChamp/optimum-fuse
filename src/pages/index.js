@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home`}
-      description="An optimization and QoL modpack for Fabric🧵, Quilt🧩, Neoforge🦊 and Forge⚒️, based on Simply Optimized!">
+      description="An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

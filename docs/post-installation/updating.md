@@ -28,6 +28,15 @@ import TabItem from '@theme/TabItem';
 - ATLauncher will automatically notify you, when an update is available.
 - You can manually update your modpack, by clicking on the `Update` button, below your OptimumFuse instance.
 </TabItem>
+<TabItem value="cf" label="CurseForge App">
+1. Select `Minecraft` from the grid or sidebar.
+2. On `My Modpacks`, click on your OF instance.
+3. Click `⫶→ Profile Options`.
+4. Uncheck `Allow content management for this profile`, if not already unchecked. You can re-enable content management after the update.
+5. Click `Continue`.
+6. Click `⫶ → ⇄ Change Version`.
+7. Select the latest version for your loader, then `Continue`.
+</TabItem>
 <TabItem value="others" label="Other Launchers">
 Refer to your launcher's documentation.
 </TabItem>
