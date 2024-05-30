@@ -30,11 +30,6 @@
         "sodium": "*"
       }
     },
-    "noisium": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "flow": {
       "-depends": {
         "minecraft": "*"
