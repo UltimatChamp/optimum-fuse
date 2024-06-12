@@ -1,10 +1,11 @@
+biomeBlendRadius:7
 enableVsync:false
 gamma:1.0
 renderDistance:12
 simulationDistance:5
 guiScale:4
 maxFps:260
-graphicsMode:0
+fov:0.5
 resourcePacks:["vanilla","fabric","file/lower_shield.zip","file/blinking_totem.zip","file/Expressive Fresh Moves.zip","file/FreshAnimations.zip","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
 narrator:0
 tutorialStep:none
@@ -17,8 +18,11 @@ key_key.fabricskyboxes.toggle.debug_hud:0
 key_nohotbarlooping.keybinding.name:0
 key_key.raised.options:0
 key_key.weaponmaster.opengui:0
-key_iris.keybind.reload:0
 key_iris.keybind.shaderPackSelection:0
 key_key.fbp.settings:0
 soundCategory_master:0.4
 soundCategory_music:0.4
+key_brute_force_rendering_culling.key.config:0
+key_key.fbp.freeze_particles:0
+key_brute_force_rendering_culling.key.debug:0
+key_key.fbp.add_to_blacklist:0
