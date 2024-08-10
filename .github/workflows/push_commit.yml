@@ -42,6 +42,18 @@ jobs:
           files: curseforge/fabric/1.21
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.zip
 
+      - name: Upload Mrpacks to Github
+        uses: actions/upload-artifact@v4
+        with:
+          name: Modrinth Releases
+          path: ${{ github.workspace }}/*.mrpack
+
+      - name: Upload Zips to Github
+        uses: actions/upload-artifact@v4
+        with:
+          name: Curseforge Releases
+          path: ${{ github.workspace }}/*.zip
+
   modrinth-desc:
     runs-on: ubuntu-latest
     steps:
