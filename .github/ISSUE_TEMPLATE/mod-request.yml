@@ -1,0 +1,61 @@
+name: Mod request
+description: Suggest a mod to be added, replaced or removed
+labels: 📱mod request
+body:
+- type: markdown
+  attributes:
+    value: |
+      ## Mod name ⤴️
+      Make sure that the addition/replacement/removal of the mod has not been discussed before.
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: Modrinth link
+    description: 
+    placeholder: https://modrinth.com/mod/...
+  validations:
+    required: false
+
+- type: input
+  attributes:
+    label: Source link
+    description: A GitHub/GitLab repository.
+  validations:
+    required: false
+
+- type: input
+  attributes:
+    label: License
+    description: If no license is provided, it is ARR.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Mod description
+    description: A short description of the mod.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the modpack?
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Why shouldn't it be in the modpack?
+    placeholder: |
+      Examples: Not available on Modrinth, still in beta/alpha, depends on something, has confusing settings, not very vanilla-like etc.
+  validations:
+      required: true
+    
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you want to add...
+  validations:
+    required: false

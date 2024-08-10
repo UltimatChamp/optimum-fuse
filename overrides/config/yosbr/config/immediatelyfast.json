@@ -1,7 +1,0 @@
-{
-  "fast_buffer_upload_size_mb": 64,
-  "experimental_disable_error_checking": true,
-  "experimental_screen_batching": true,
-  "experimental_sign_text_buffering": true,
-  "experimental_universal_hud_batching": true
-}

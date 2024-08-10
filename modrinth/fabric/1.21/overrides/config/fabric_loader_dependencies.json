@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "overrides": {
+    "nohotbarlooping": {
+      "recommends": {}
+    },
+    "chatpatches": {
+      "recommends": {}
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "jjelytraswap": {
+      "recommends": {}
+    },
+    "polytone": {
+      "-conflicts": {
+        "sodium": "*"
+      }
+    }
+  }
+}
