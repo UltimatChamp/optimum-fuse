@@ -1,6 +1,6 @@
-## FlawlesslyOptimized [`1.11.0+fabric.1.21`]
+## OptimumFuse [`1.11.0+fabric.1.21`]
 
-🗃️**Detailed Changelog:** [**1.10.0 --> 1.11.0**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/v1.10.0...1.11.0)
+🗃️**Detailed Changelog:** [**1.10.0 --> 1.11.0**](https://github.com/UltimatChamp/OptimumFuse/compare/v1.10.0...1.11.0)
 
 <hr>
 
