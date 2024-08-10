@@ -2,7 +2,6 @@
 
 🗃️**Detailed Changelog:** [**1.10.0 --> 1.11.0**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/v1.10.0...1.11.0)
 
-
 <hr>
 
 ### 🛠️Notes/Changes
