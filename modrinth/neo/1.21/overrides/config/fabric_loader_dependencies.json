@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "overrides": {
+    "cull-less-leaves": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "nvidium": {
+      "-depends": {
+        "sodium": "*"
+      }
+    },
+    "resolutioncontrol3": {
+      "-depends": {
+        "modmenu": "*"
+      }
+    },
+    "nohotbarlooping": {
+      "recommends": {}
+    },
+    "chatpatches": {
+      "recommends": {}
+    },
+    "wakes": {
+      "recommends": {}
+    }
+  }
+}

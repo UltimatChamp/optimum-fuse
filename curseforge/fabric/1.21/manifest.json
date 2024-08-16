@@ -75,7 +75,6 @@
     { "fileID": 4583356, "projectID": 627242, "required": true },
     { "fileID": 5501573, "projectID": 930207, "required": true },
     { "fileID": 5429287, "projectID": 433760, "required": true },
-    { "fileID": 5490684, "projectID": 1054834, "required": true },
     { "fileID": 5431845, "projectID": 619986, "required": true },
     { "fileID": 5575910, "projectID": 532610, "required": true },
     { "fileID": 5577327, "projectID": 985426, "required": true },
@@ -92,7 +91,6 @@
     { "fileID": 5508470, "projectID": 463457, "required": true },
     { "fileID": 5608016, "projectID": 965883, "required": true },
     { "fileID": 5462767, "projectID": 532113, "required": true },
-    { "fileID": 5437712, "projectID": 808006, "required": true },
     { "fileID": 5424122, "projectID": 615185, "required": true },
     { "fileID": 5537576, "projectID": 521126, "required": true },
     { "fileID": 5522530, "projectID": 552542, "required": true },
@@ -113,5 +111,5 @@
   },
   "name": "OptimumFuse - Fabric",
   "overrides": "overrides",
-  "version": "1.11.0+fabric.1.21"
+  "version": "1.11.1+fabric.1.21"
 }
