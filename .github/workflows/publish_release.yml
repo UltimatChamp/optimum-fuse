@@ -15,6 +15,10 @@ on:
         description: '1.21 Fabric'
         required: true
         type: boolean
+      fabric-1-21-1:
+        description: '1.21.1 Fabric'
+        required: true
+        type: boolean
 
 jobs:
   publish-to-modrinth:
@@ -36,6 +40,12 @@ jobs:
         with:
           files: modrinth/fabric/1.21
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.mrpack
+
+      - name: Zip fabric/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.21.1
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.mrpack
 
       - name: Upload to Github
         uses: actions/upload-artifact@v4
@@ -95,6 +105,32 @@ jobs:
           retry-delay: 10000
           fail-mode: fail
 
+      - if: ${{ inputs.fabric-1-21-1 }}
+        name: Publish fabric/1.21.1
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: nQYjpo27
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.21.1.mrpack
+
+          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.1
+          version: ${{ inputs.version }}+fabric.1.21.1
+          version-type: release
+          changelog-file: modrinth/fabric/1.21.1/CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.21.1
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
   publish-to-curseforge:
     permissions:
       contents: write
@@ -114,6 +150,12 @@ jobs:
         with:
           files: curseforge/fabric/1.21
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.zip
+
+      - name: Zip fabric/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: curseforge/fabric/1.21.1
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.zip
 
       - name: Upload to Github
         uses: actions/upload-artifact@v4
@@ -171,6 +213,31 @@ jobs:
           retry-delay: 10000
           fail-mode: fail
 
+      - if: ${{ inputs.fabric-1-21-1 }}
+        name: Publish fabric/1.21.1
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 887237
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.21.1.zip
+
+          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.1
+          version: ${{ inputs.version }}+fabric.1.21.1
+          version-type: release
+          changelog-file: modrinth/fabric/1.21.1/CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.21.1
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
   publish-to-github:
     permissions:
       contents: write
@@ -193,6 +260,13 @@ jobs:
           files: modrinth/fabric/1.21
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.mrpack
 
+      - if: ${{ inputs.fabric-1-21-1 }}
+        name: Mrpack fabric/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.21.1
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.mrpack
+
       - if: ${{ inputs.neo-1-21 }}
         name: Zip neo/1.21
         uses: vimtor/action-zip@v1.2
@@ -206,6 +280,13 @@ jobs:
         with:
           files: curseforge/fabric/1.21
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.zip
+
+      - if: ${{ inputs.fabric-1-21-1 }}
+        name: Zip fabric/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: curseforge/fabric/1.21.1
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.zip
 
       - name: Publish Packs
         uses: Kir-Antipov/mc-publish@v3.3

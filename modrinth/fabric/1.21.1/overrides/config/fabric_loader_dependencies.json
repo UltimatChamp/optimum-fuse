@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "overrides": {
+    "nohotbarlooping": {
+      "recommends": {},
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "chatpatches": {
+      "recommends": {},
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "jjelytraswap": {
+      "recommends": {}
+    },
+    "polytone": {
+      "-conflicts": {
+        "sodium": "*"
+      }
+    },
+    "noisium": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "debugify": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "resolutioncontrol3": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "notenoughanimations": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "entityculling": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "waveycapes": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    }
+  }
+}

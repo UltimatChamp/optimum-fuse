@@ -1,0 +1,6 @@
+{
+  "cullParticles": true,
+  "fancyRain": false,
+  "entityCollision": true,
+  "scaleMultiplier": 0.45
+}

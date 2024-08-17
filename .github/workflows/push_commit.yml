@@ -22,25 +22,37 @@ jobs:
         uses: vimtor/action-zip@v1.2
         with:
           files: modrinth/neo/1.21
-          dest: OptimumFuse ${{ inputs.version }}+neo.1.21.mrpack
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+neo.1.21.mrpack
 
       - name: Mrpack fabric/1.21
         uses: vimtor/action-zip@v1.2
         with:
           files: modrinth/fabric/1.21
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.mrpack
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.mrpack
+
+      - name: Mrpack fabric/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.21.1
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.1.mrpack
 
       - name: Zip neo/1.21
         uses: vimtor/action-zip@v1.2
         with:
           files: curseforge/neo/1.21
-          dest: OptimumFuse ${{ inputs.version }}+neo.1.21.zip
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+neo.1.21.zip
 
       - name: Zip fabric/1.21
         uses: vimtor/action-zip@v1.2
         with:
           files: curseforge/fabric/1.21
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.zip
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.zip
+
+      - name: Zip fabric/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: curseforge/fabric/1.21.1
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.1.zip
 
       - name: Upload Mrpacks to Github
         uses: actions/upload-artifact@v4
