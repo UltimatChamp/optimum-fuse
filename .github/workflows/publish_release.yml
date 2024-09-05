@@ -11,6 +11,10 @@ on:
         description: '1.21 NeoForge'
         required: true
         type: boolean
+      neo-1-21-1:
+        description: '1.21.1 NeoForge'
+        required: true
+        type: boolean
       fabric-1-21:
         description: '1.21 Fabric'
         required: true
@@ -34,6 +38,12 @@ jobs:
         with:
           files: modrinth/neo/1.21
           dest: OptimumFuse ${{ inputs.version }}+neo.1.21.mrpack
+
+      - name: Zip neo/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/neo/1.21.1
+          dest: OptimumFuse ${{ inputs.version }}+neo.1.21.1.mrpack
 
       - name: Zip fabric/1.21
         uses: vimtor/action-zip@v1.2
@@ -73,6 +83,32 @@ jobs:
             neoforge
           game-versions: |
             1.21
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - if: ${{ inputs.neo-1-21-1 }}
+        name: Publish neo/1.21.1
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: nQYjpo27
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*neo.1.21.1.mrpack
+
+          name: OptimumFuse ${{ inputs.version }}+neo.1.21.1
+          version: ${{ inputs.version }}+neo.1.21.1
+          version-type: release
+          changelog-file: modrinth/neo/1.21.1/CHANGELOG.md
+
+          loaders: |
+            neoforge
+          game-versions: |
+            1.21.1
           game-version-filter: releases
 
           retry-attempts: 2
@@ -252,6 +288,13 @@ jobs:
         with:
           files: modrinth/neo/1.21
           dest: OptimumFuse ${{ inputs.version }}+neo.1.21.mrpack
+
+      - if: ${{ inputs.neo-1-21-1 }}
+        name: Mrpack neo/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/neo/1.21.1
+          dest: OptimumFuse ${{ inputs.version }}+neo.1.21.1.mrpack
 
       - if: ${{ inputs.fabric-1-21 }}
         name: Mrpack fabric/1.21

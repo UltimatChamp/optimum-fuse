@@ -24,6 +24,12 @@ jobs:
           files: modrinth/neo/1.21
           dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+neo.1.21.mrpack
 
+      - name: Mrpack neo/1.21.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/neo/1.21.1
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+neo.1.21.1.mrpack
+
       - name: Mrpack fabric/1.21
         uses: vimtor/action-zip@v1.2
         with:
