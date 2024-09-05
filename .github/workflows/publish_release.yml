@@ -131,112 +131,112 @@ jobs:
           retry-delay: 10000
           fail-mode: fail
 
-  publish-to-curseforge:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout sources
-        uses: actions/checkout@v4
+#  publish-to-curseforge:
+#    permissions:
+#      contents: write
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout sources
+#        uses: actions/checkout@v4
 
-      - name: Zip neo/1.21
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: curseforge/neo/1.21
-          dest: OptimumFuse ${{ inputs.version }}+neo.1.21.zip
+#      - name: Zip neo/1.21
+#        uses: vimtor/action-zip@v1.2
+#        with:
+#          files: curseforge/neo/1.21
+#          dest: OptimumFuse ${{ inputs.version }}+neo.1.21.zip
 
-      - name: Zip fabric/1.21
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: curseforge/fabric/1.21
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.zip
+#      - name: Zip fabric/1.21
+#        uses: vimtor/action-zip@v1.2
+#        with:
+#          files: curseforge/fabric/1.21
+#          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.zip
 
-      - name: Zip fabric/1.21.1
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: curseforge/fabric/1.21.1
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.zip
+#      - name: Zip fabric/1.21.1
+#        uses: vimtor/action-zip@v1.2
+#        with:
+#          files: curseforge/fabric/1.21.1
+#          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.zip
 
-      - name: Upload to Github
-        uses: actions/upload-artifact@v4
-        with:
-          name: Curseforge Releases
-          path: ${{ github.workspace }}/*.zip
+#      - name: Upload to Github
+#        uses: actions/upload-artifact@v4
+#        with:
+#          name: Curseforge Releases
+#          path: ${{ github.workspace }}/*.zip
 
-      - if: ${{ inputs.neo-1-21 }}
-        name: Publish neo/1.21
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          curseforge-id: 887237
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+#      - if: ${{ inputs.neo-1-21 }}
+#        name: Publish neo/1.21
+#        uses: Kir-Antipov/mc-publish@v3.3
+#        with:
+#          curseforge-id: 887237
+#          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
-          files: |
-            ${{ github.workspace }}/*neo.1.21.zip
+#          files: |
+#            ${{ github.workspace }}/*neo.1.21.zip
 
-          name: OptimumFuse ${{ inputs.version }}+neo.1.21
-          version: ${{ inputs.version }}+neo.1.21
-          version-type: release
-          changelog-file: modrinth/neo/1.21/CHANGELOG.md
+#          name: OptimumFuse ${{ inputs.version }}+neo.1.21
+#          version: ${{ inputs.version }}+neo.1.21
+#          version-type: release
+#          changelog-file: modrinth/neo/1.21/CHANGELOG.md
 
-          loaders: |
-            neoforge
-          game-versions: |
-            1.21
-          game-version-filter: releases
+#          loaders: |
+#            neoforge
+#          game-versions: |
+#            1.21
+#          game-version-filter: releases
 
-          retry-attempts: 2
-          retry-delay: 10000
-          fail-mode: fail
+#          retry-attempts: 2
+#          retry-delay: 10000
+#          fail-mode: fail
 
-      - if: ${{ inputs.fabric-1-21 }}
-        name: Publish fabric/1.21
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          curseforge-id: 887237
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+#      - if: ${{ inputs.fabric-1-21 }}
+#        name: Publish fabric/1.21
+#        uses: Kir-Antipov/mc-publish@v3.3
+#        with:
+#          curseforge-id: 887237
+#          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
-          files: |
-            ${{ github.workspace }}/*fabric.1.21.zip
+#          files: |
+#            ${{ github.workspace }}/*fabric.1.21.zip
 
-          name: OptimumFuse ${{ inputs.version }}+fabric.1.21
-          version: ${{ inputs.version }}+fabric.1.21
-          version-type: release
-          changelog-file: modrinth/fabric/1.21/CHANGELOG.md
+#          name: OptimumFuse ${{ inputs.version }}+fabric.1.21
+#          version: ${{ inputs.version }}+fabric.1.21
+#          version-type: release
+#          changelog-file: modrinth/fabric/1.21/CHANGELOG.md
 
-          loaders: |
-            fabric
-          game-versions: |
-            1.21
-          game-version-filter: releases
+#          loaders: |
+#            fabric
+#          game-versions: |
+#            1.21
+#          game-version-filter: releases
 
-          retry-attempts: 2
-          retry-delay: 10000
-          fail-mode: fail
+#          retry-attempts: 2
+#          retry-delay: 10000
+#          fail-mode: fail
 
-      - if: ${{ inputs.fabric-1-21-1 }}
-        name: Publish fabric/1.21.1
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          curseforge-id: 887237
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+#      - if: ${{ inputs.fabric-1-21-1 }}
+#        name: Publish fabric/1.21.1
+#        uses: Kir-Antipov/mc-publish@v3.3
+#        with:
+#          curseforge-id: 887237
+#          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
-          files: |
-            ${{ github.workspace }}/*fabric.1.21.1.zip
+#          files: |
+#            ${{ github.workspace }}/*fabric.1.21.1.zip
 
-          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.1
-          version: ${{ inputs.version }}+fabric.1.21.1
-          version-type: release
-          changelog-file: modrinth/fabric/1.21.1/CHANGELOG.md
+#          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.1
+#          version: ${{ inputs.version }}+fabric.1.21.1
+#          version-type: release
+#          changelog-file: modrinth/fabric/1.21.1/CHANGELOG.md
 
-          loaders: |
-            fabric
-          game-versions: |
-            1.21.1
-          game-version-filter: releases
+#          loaders: |
+#            fabric
+#          game-versions: |
+#            1.21.1
+#          game-version-filter: releases
 
-          retry-attempts: 2
-          retry-delay: 10000
-          fail-mode: fail
+#          retry-attempts: 2
+#          retry-delay: 10000
+#          fail-mode: fail
 
   publish-to-github:
     permissions:

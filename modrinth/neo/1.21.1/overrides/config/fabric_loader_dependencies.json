@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "overrides": {
+    "chatpatches": {
+      "recommends": {},
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "cull-less-leaves": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "debugify": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "jjelytraswap": {
+      "recommends": {}
+    },
+    "nohotbarlooping": {
+      "recommends": {},
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "resolutioncontrol3": {
+      "-depends": {
+        "modmenu": "*"
+      }
+    },
+    "sodium-extra": {
+      "recommends": {}
+    },
+    "wakes": {
+      "recommends": {}
+    }
+  }
+}
