@@ -13,13 +13,11 @@
     "jjelytraswap": {
       "recommends": {}
     },
-    "nohotbarlooping": {
+    "make_bubbles_pop": {
       "recommends": {}
     },
-    "polytone": {
-      "-conflicts": {
-        "sodium": "*"
-      }
+    "nohotbarlooping": {
+      "recommends": {}
     },
     "sodium-extra": {
       "recommends": {}

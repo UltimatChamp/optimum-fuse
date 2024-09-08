@@ -6,5 +6,5 @@
 		"boat": "ONLY_SIMULATION",
 		"player": "SIMULATION_AND_PLANES"
 	},
-	"shaderLightPassthrough": 1.0
+	"blendMode": "SCREEN"
 }
