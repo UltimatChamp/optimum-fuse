@@ -21,6 +21,9 @@
     },
     "sodium-extra": {
       "recommends": {}
+    },
+    "wakes": {
+      "recommends": {}
     }
   }
 }
