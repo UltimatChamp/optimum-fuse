@@ -2,15 +2,7 @@
   "version": 1,
   "overrides": {
     "chatpatches": {
-      "recommends": {},
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "cull-less-leaves": {
-      "-depends": {
-        "minecraft": "*"
-      }
+      "recommends": {}
     },
     "debugify": {
       "-depends": {
@@ -20,11 +12,11 @@
     "jjelytraswap": {
       "recommends": {}
     },
+    "make_bubbles_pop": {
+      "recommends": {}
+    },
     "nohotbarlooping": {
-      "recommends": {},
-      "-depends": {
-        "minecraft": "*"
-      }
+      "recommends": {}
     },
     "resolutioncontrol3": {
       "-depends": {
@@ -33,6 +25,11 @@
     },
     "sodium-extra": {
       "recommends": {}
+    },
+    "talkbubbles": {
+      "-depends": {
+        "fabric-api": "*"
+      }
     },
     "wakes": {
       "recommends": {}

@@ -2,10 +2,7 @@
   "version": 1,
   "overrides": {
     "chatpatches": {
-      "recommends": {},
-      "-depends": {
-        "minecraft": "*"
-      }
+      "recommends": {}
     },
     "dynamic_fps": {
       "recommends": {}

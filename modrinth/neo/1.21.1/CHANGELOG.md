@@ -1,92 +1,88 @@
-## OptimumFuse [`1.12.0+neo.1.21.1`]
+## OptimumFuse [`1.12.2+neo.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.11.2 --> 1.12.0**](https://github.com/UltimatChamp/optimum-fuse/compare/1.11.2...1.12.0)
+🗃️**Detailed Changelog:** [**1.12.0 --> 1.12.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.0...1.12.2)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Update to **1.21.1**.
-- Updated **NeoForge** to `21.1.37`.
-- Now using **Sodium** `0.6.0`!
-- Made the _**wakes**/splashes_, in water, more vibrant.
-- ➡️For now, your _changed_ options in, `options.txt`and the `config` folder, will be overridden, everytime you update the modpack, to the modpack's default options. _(Waiting for **Configured Defaults** to update)_
-- The **Curseforge** version of the modpack has been abandoned _(temporarily?)_, because of them not supporting **cross-loader** mods in modpacks. _(for example, having fabric mods in a neoforge modpack)_
+- Updated **NeoForge** to `21.1.54`.
+- Some tweaks to **Fancy Block Particles** config.
+- Fixed some performance issues.
+- Fixed a crash caused by **Cull Less Leaves**. [**(#32)**](https://github.com/UltimatChamp/optimum-fuse/issues/32)
+- Fixed a crash caused by **Better Modlist**. [**(#32)**](https://github.com/UltimatChamp/optimum-fuse/issues/32)
+- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. <small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>
+- ➡️For now, your _changed_ options in, `options.txt` and the `config` folder, will be overridden, everytime you update the modpack, to the modpack's default options. _(Waiting for **Configured Defaults** to update)_
 
 <hr>
 
 ### ⛔Unavailable Mods
 
 - **Adaptive Tooltips**
-- **Better Recipe Book**
-- **CIT Resewn** + **RP Renames** _(See [**SHsuperCM/CITResewn#397**](https://github.com/SHsuperCM/CITResewn/issues/397) & [**sp614x/optifine#7658**](https://github.com/sp614x/optifine/issues/7658))_
-- **Configured Defaults**
-- **Nvidium** _(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))_
-- **e4mc**
+- **Better Command Block UI**
+- **Better Highlighting**
 - **Better Mount HUD**
+- **Better Recipe Book**
+- **Better Suggestions**
+- **CIT Resewn + RP Renames**
+- **Configured Defaults**
+- **e4mc**
+- **Nvidium** _(Incompatible with Sodium 0.6.0 | See [MCRcortex/nvidium#241](https://github.com/MCRcortex/nvidium/issues/241))_
 - **OptiGUI**
-- **Lithium**
-- **Status Effect Bars**
+- **Radium** _(Incompatibility with Sodium Extra | See [FlashyReese/sodium-extra-fabric#409](https://github.com/FlashyReese/sodium-extra-fabric/issues/409))_
 
 <hr>
 
 ### 💡Added
 
-- **Better Falling Block Particles**
-- **Better ModList [(Neo)Forge]** _(Replaces **Catalogue**)_
-- **Cleaner Waters**
-- **Fresh Moves**
-- **Iris Shaders**
-- **Make Bubbles Pop**
-- **Satisfying Buttons**
-- **Scoreboard Overhaul**
-- **Smooth Scrolling**
-- **Sodium**
-- **Sodium Extra**
-- **Visual Overhaul**
-- **Xander's Sodium Options**
+- **Catalogue**
+- **Concentration**
+- **Dark Loading Screen**
+- **MidnightLib**
+- **No Hotbar Looping**
+- **RyoamicLights**
+- **Sodium Leaf Culling**
+- **Sodium Shadowy Path Blocks**
+- **Status Effect Bars**
+- **Very Many Players (Fabric)**
 
 <hr>
 
 ### ❌Removed
 
-- **Catalogue** _(Replaced with **Better ModList [(Neo)Forge]**)_
-- **Embeddium** _(Replaced with **Sodium**)_
-- **Embeddium (Rubidium) Extra** _(Replaced with **Sodium Extra**)_
+- **Better Falling Block Particles** _<small>(Feature already in **Particular**)</small>_
+- **Better ModList [(Neo)Forge]** _(Replaced with **Catalogue**)_
+- **Cull Less Leaves**
+- **Visual Overhaul**
 
 <hr>
 
 ### 🔄️Updated
 
-- **BetterF3**
 - **BetterGrassify**
-- **Cherished Worlds**
+- **Chat Heads**
+- **Chat Patches**
+- **Cloth Config API**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Connector Extras**
 - **Controlling**
-- **Debugify**
-- **Detail Armor Bar**
-- **Entity Culling**
+- **Enhanced Attack Indicator**
+- **Enhanced Block Entities**
 - **[EMF] Entity Model Features**
-- **[ESF] Entity Sound Features**
 - **[ETF] Entity Texture Features**
-- **Fabric Language Kotlin**
 - **Fancy Block Particles - Renewed**
-- **Forgified Fabric API**
 - **Fzzy Config**
-- **ImmediatelyFast**
-- **M.R.U**
-- **ModernFix**
-- **Noisium**
+- **Iris Shaders**
+- **Kotlin for Forge**
 - **Not Enough Animations**
-- **Pick Block Pro**
+- **Particle Core**
 - **Polytone**
-- **ResolutionControl 3**
-- **Resourcify**
-- **ScalableLux**
-- **Searchables**
+- **Puzzle**
+- **Satisfying Buttons**
+- **Scoreboard Overhaul**
 - **Shulker Box Tooltip**
-- **Sounds**
-- **Tiny Item Animations**
+- **Sodium**
+- **Sodium Extra**
+- **Tab Tweaks**
+- **TalkBubbles**
+- **ToolTips Stylized**
 - **Translations for Sodium**
-- **Wavey Capes**

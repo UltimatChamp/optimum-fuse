@@ -1,15 +1,14 @@
-## OptimumFuse [`1.12.1+fabric.1.21.1`]
+## OptimumFuse [`1.12.2+fabric.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.0 --> 1.12.1**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.0...1.12.1)
+🗃️**Detailed Changelog:** [**1.12.1 --> 1.12.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.1...1.12.2)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Fixed some performance issues.
+- Updated **Fabric Loader** to `0.16.5`.
+- Some tweaks to **Fancy Block Particles** config.
 - Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. <small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>
-- **CIT** models are finally supported! 🥳
-- Fixed a crash due to **Wakes**. _<small>(Replaced **Wakes** with **Satin Free Wakes** temp.)</small>_
 
 <hr>
 
@@ -20,23 +19,29 @@
 
 <hr>
 
-### 💡Added
-
-- **CITResewn** _<small>(It took us 5 months..._ 🥹 _)</small>_
-- **Sodium Shadowy Path Blocks** _<small>[**[#25]**](https://github.com/UltimatChamp/optimum-fuse/issues/25)</small>_
-
-<hr>
-
-### ❌Removed
-
-- **Better Falling Block Particles** _<small>(Feature already in **Particular**)</small>_
-- **Visual Overhaul**
-
-<hr>
-
 ### 🔄️Updated
 
-- **BetterGrassify**
+- **Chat Heads**
+- **Chat Patches**
+- **Cloth Config API**
+- **Concurrent Chunk Management Engine (Fabric)**
+- **Controlling**
+- **Enhanced Attack Indicator**
 - **[EMF] Entity Model Features**
 - **[ETF] Entity Texture Features**
-- **Not Enough Animations**
+- **Fabric API**
+- **Fabric Language Kotlin**
+- **Fancy Block Particles - Renewed**
+- **Fzzy Config**
+- **Iris Shaders**
+- **oωo (owo-lib)**
+- **Polytone**
+- **Satisfying Buttons**
+- **Scoreboard Overhaul**
+- **Shulker Box Tooltip**
+- **Sodium**
+- **Sodium Extra**
+- **Tab Tweaks**
+- **TalkBubbles**
+- **ToolTips Stylized**
+- **Translations for Sodium**

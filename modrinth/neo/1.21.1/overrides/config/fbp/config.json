@@ -1,6 +1,9 @@
 {
-  "cullParticles": true,
-  "fancyRain": false,
-  "entityCollision": true,
-  "scaleMultiplier": 0.45
+  "global": {
+    "cullParticles": true
+  },
+  "terrain": {
+    "entityCollision": true,
+    "sizeMultiplier": 0.45
+  }
 }
