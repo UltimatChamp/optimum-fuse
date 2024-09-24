@@ -1,47 +1,53 @@
-## OptimumFuse [`1.12.2+fabric.1.21.1`]
+## OptimumFuse [`1.12.3+fabric.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.1 --> 1.12.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.1...1.12.2)
+🗃️**Detailed Changelog:** [**1.12.2 --> 1.12.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.2...1.12.3)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Updated **Fabric Loader** to `0.16.5`.
-- Some tweaks to **Fancy Block Particles** config.
-- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. <small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>
+- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. _<small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>_
 
 <hr>
 
 ### ⛔Unavailable Mods
 
-- **RP Renames**
 - **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
+
+<hr>
+
+### 💡Added
+
+- **Delete Worlds To Trash**
+- **Forge Config API Port**
+- **Held Item Tooltips**
+- **Puzzles Lib**
+- **RP Renames**
+
+<hr>
+
+### ❌Removed
+
+- **Held Item Info** _<small>(Replaced with **Held Item Tooltips**)</small>_
 
 <hr>
 
 ### 🔄️Updated
 
+- **BetterGrassify**
+- **CIT Resewn**
 - **Chat Heads**
 - **Chat Patches**
-- **Cloth Config API**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Controlling**
-- **Enhanced Attack Indicator**
-- **[EMF] Entity Model Features**
+- **Dynamic FPS**
+- **e4mc**
 - **[ETF] Entity Texture Features**
 - **Fabric API**
-- **Fabric Language Kotlin**
-- **Fancy Block Particles - Renewed**
-- **Fzzy Config**
-- **Iris Shaders**
-- **oωo (owo-lib)**
-- **Polytone**
-- **Satisfying Buttons**
-- **Scoreboard Overhaul**
-- **Shulker Box Tooltip**
-- **Sodium**
-- **Sodium Extra**
-- **Tab Tweaks**
-- **TalkBubbles**
-- **ToolTips Stylized**
+- **GUI SimpleStylized**
+- **Lithium**
+- **More Culling**
+- **OptiGUI**
+- **Resourcify**
+- **Sounds**
 - **Translations for Sodium**
+- **Very Many Players (Fabric)**

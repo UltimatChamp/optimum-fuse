@@ -4,11 +4,6 @@
     "chatpatches": {
       "recommends": {}
     },
-    "debugify": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "jjelytraswap": {
       "recommends": {}
     },
@@ -25,11 +20,6 @@
     },
     "sodium-extra": {
       "recommends": {}
-    },
-    "talkbubbles": {
-      "-depends": {
-        "fabric-api": "*"
-      }
     },
     "wakes": {
       "recommends": {}

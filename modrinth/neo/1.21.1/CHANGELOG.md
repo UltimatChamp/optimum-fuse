@@ -1,88 +1,62 @@
-## OptimumFuse [`1.12.2+neo.1.21.1`]
+## OptimumFuse [`1.12.3+neo.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.0 --> 1.12.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.0...1.12.2)
+🗃️**Detailed Changelog:** [**1.12.2 --> 1.12.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.2...1.12.3)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Updated **NeoForge** to `21.1.54`.
-- Some tweaks to **Fancy Block Particles** config.
-- Fixed some performance issues.
-- Fixed a crash caused by **Cull Less Leaves**. [**(#32)**](https://github.com/UltimatChamp/optimum-fuse/issues/32)
-- Fixed a crash caused by **Better Modlist**. [**(#32)**](https://github.com/UltimatChamp/optimum-fuse/issues/32)
-- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. <small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>
-- ➡️For now, your _changed_ options in, `options.txt` and the `config` folder, will be overridden, everytime you update the modpack, to the modpack's default options. _(Waiting for **Configured Defaults** to update)_
+- Updated **NeoForge** to `21.1.61`.
+- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. _<small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>_
 
 <hr>
 
 ### ⛔Unavailable Mods
 
-- **Adaptive Tooltips**
 - **Better Command Block UI**
 - **Better Highlighting**
-- **Better Mount HUD**
 - **Better Recipe Book**
 - **Better Suggestions**
 - **CIT Resewn + RP Renames**
-- **Configured Defaults**
 - **e4mc**
-- **Nvidium** _(Incompatible with Sodium 0.6.0 | See [MCRcortex/nvidium#241](https://github.com/MCRcortex/nvidium/issues/241))_
-- **OptiGUI**
-- **Radium** _(Incompatibility with Sodium Extra | See [FlashyReese/sodium-extra-fabric#409](https://github.com/FlashyReese/sodium-extra-fabric/issues/409))_
+- **Nvidium** _<small>(Incompatible with Sodium 0.6.0 | See [MCRcortex/nvidium#241](https://github.com/MCRcortex/nvidium/issues/241))</small>_
+- **Radium** _<small>(Incompatibility with Sodium Extra | See [FlashyReese/sodium-extra-fabric#409](https://github.com/FlashyReese/sodium-extra-fabric/issues/409))</small>_
 
 <hr>
 
 ### 💡Added
 
-- **Catalogue**
-- **Concentration**
-- **Dark Loading Screen**
-- **MidnightLib**
-- **No Hotbar Looping**
-- **RyoamicLights**
-- **Sodium Leaf Culling**
-- **Sodium Shadowy Path Blocks**
-- **Status Effect Bars**
-- **Very Many Players (Fabric)**
+- **Better ModList [(Neo)Forge]**
+- **Better Tooltips**
+- **Configured Defaults**
+- **Delete Worlds To Trash**
+- **Held Item Tooltips**
+- **Leave My Bars Alone**
+- **More Culling**
+- **OptiGUI**
+- **Puzzles Lib**
 
 <hr>
 
 ### ❌Removed
 
-- **Better Falling Block Particles** _<small>(Feature already in **Particular**)</small>_
-- **Better ModList [(Neo)Forge]** _(Replaced with **Catalogue**)_
-- **Cull Less Leaves**
-- **Visual Overhaul**
+- **Catalogue** _<small>(Replaced with **Better Modlist**)</small>_
+- **Held Item Info** _<small>(Replaced with **Held Item Tooltips**)</small>_
 
 <hr>
 
 ### 🔄️Updated
 
-- **BetterGrassify**
 - **Chat Heads**
 - **Chat Patches**
-- **Cloth Config API**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Controlling**
-- **Enhanced Attack Indicator**
-- **Enhanced Block Entities**
-- **[EMF] Entity Model Features**
+- **Dynamic FPS**
 - **[ETF] Entity Texture Features**
-- **Fancy Block Particles - Renewed**
-- **Fzzy Config**
-- **Iris Shaders**
-- **Kotlin for Forge**
-- **Not Enough Animations**
-- **Particle Core**
-- **Polytone**
-- **Puzzle**
-- **Satisfying Buttons**
-- **Scoreboard Overhaul**
-- **Shulker Box Tooltip**
-- **Sodium**
-- **Sodium Extra**
-- **Tab Tweaks**
-- **TalkBubbles**
-- **ToolTips Stylized**
+- **Fabric Language Kotlin**
+- **Forgified Fabric API**
+- **GUI SimpleStylized**
+- **Resourcify**
+- **Sinytra Connector**
+- **Sounds**
 - **Translations for Sodium**
+- **Very Many Players (Fabric)**
