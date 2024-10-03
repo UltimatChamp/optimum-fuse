@@ -1,12 +1,6 @@
-## OptimumFuse [`1.12.3+fabric.1.21.1`]
+## OptimumFuse [`1.12.4+fabric.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.2 --> 1.12.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.2...1.12.3)
-
-<hr>
-
-### 🛠️Notes/Changes
-
-- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. _<small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>_
+🗃️**Detailed Changelog:** [**1.12.3 --> 1.12.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.3...1.12.4)
 
 <hr>
 
@@ -18,36 +12,31 @@
 
 ### 💡Added
 
-- **Delete Worlds To Trash**
-- **Forge Config API Port**
-- **Held Item Tooltips**
-- **Puzzles Lib**
+- **Palladium** + **ToadLib** _<small>[**[#35]**](https://github.com/UltimatChamp/optimum-fuse/issues/35)</small>_
+- **Pick Up Notifier** _<small>[**[#33]**](https://github.com/UltimatChamp/optimum-fuse/issues/33)</small>_
 - **RP Renames**
 
 <hr>
 
 ### ❌Removed
 
-- **Held Item Info** _<small>(Replaced with **Held Item Tooltips**)</small>_
+- **Raised** _<small>(To fix issues with **Smooth Scrolling** | [**[#36]**](https://github.com/UltimatChamp/optimum-fuse/issues/36))</small>_
 
 <hr>
 
 ### 🔄️Updated
 
 - **BetterGrassify**
-- **CIT Resewn**
 - **Chat Heads**
-- **Chat Patches**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Dynamic FPS**
-- **e4mc**
-- **[ETF] Entity Texture Features**
-- **Fabric API**
-- **GUI SimpleStylized**
-- **Lithium**
+- **Controlling**
+- **Enhanced Block Entities**
+- **Forge Config API Port**
+- **Fzzy Config**
 - **More Culling**
-- **OptiGUI**
-- **Resourcify**
-- **Sounds**
+- **Polytone**
+- **Puzzles Lib**
+- **Remove Reloading Screen**
+- **Tab Tweaks**
 - **Translations for Sodium**
-- **Very Many Players (Fabric)**
+- **Wavey Capes**

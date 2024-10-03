@@ -1,13 +1,12 @@
-## OptimumFuse [`1.12.3+neo.1.21.1`]
+## OptimumFuse [`1.12.4+neo.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.2 --> 1.12.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.2...1.12.3)
+🗃️**Detailed Changelog:** [**1.12.3 --> 1.12.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.3...1.12.4)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Updated **NeoForge** to `21.1.61`.
-- Using an _unofficial_ build of **Enhanced Block Entities** to fix compatibility with **Sodium** `0.6`. _<small>[**[FoundationGames/EnhancedBlockEntities#246]**](https://github.com/FoundationGames/EnhancedBlockEntities/pull/246)</small>_
+- Updated **NeoForge** to `21.1.65`.
 
 <hr>
 
@@ -20,43 +19,38 @@
 - **CIT Resewn + RP Renames**
 - **e4mc**
 - **Nvidium** _<small>(Incompatible with Sodium 0.6.0 | See [MCRcortex/nvidium#241](https://github.com/MCRcortex/nvidium/issues/241))</small>_
+- **Palladium**
 - **Radium** _<small>(Incompatibility with Sodium Extra | See [FlashyReese/sodium-extra-fabric#409](https://github.com/FlashyReese/sodium-extra-fabric/issues/409))</small>_
 
 <hr>
 
 ### 💡Added
 
-- **Better ModList [(Neo)Forge]**
-- **Better Tooltips**
-- **Configured Defaults**
-- **Delete Worlds To Trash**
-- **Held Item Tooltips**
-- **Leave My Bars Alone**
-- **More Culling**
-- **OptiGUI**
-- **Puzzles Lib**
+- **Pick Up Notifier** _<small>[**[#33]**](https://github.com/UltimatChamp/optimum-fuse/issues/33)</small>_
 
 <hr>
 
 ### ❌Removed
 
-- **Catalogue** _<small>(Replaced with **Better Modlist**)</small>_
-- **Held Item Info** _<small>(Replaced with **Held Item Tooltips**)</small>_
+- **Raised** _<small>(To fix issues with **Smooth Scrolling** | [**[#36]**](https://github.com/UltimatChamp/optimum-fuse/issues/36))</small>_
 
 <hr>
 
 ### 🔄️Updated
 
+- **Better ModList [(Neo)Forge]**
+- **BetterGrassify**
 - **Chat Heads**
-- **Chat Patches**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Dynamic FPS**
-- **[ETF] Entity Texture Features**
-- **Fabric Language Kotlin**
+- **Controlling**
+- **Enhanced Block Entities**
 - **Forgified Fabric API**
-- **GUI SimpleStylized**
-- **Resourcify**
-- **Sinytra Connector**
-- **Sounds**
+- **Iris Shaders**
+- **Leave My Bars Alone**
+- **More Culling**
+- **Polytone**
+- **Puzzle**
+- **Puzzles Lib**
+- **Tab Tweaks**
 - **Translations for Sodium**
-- **Very Many Players (Fabric)**
+- **Wavey Capes**
