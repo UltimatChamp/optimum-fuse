@@ -1,6 +1,6 @@
-## OptimumFuse [`1.12.4+fabric.1.21.1`]
+## OptimumFuse [`1.12.5+fabric.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.3 --> 1.12.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.3...1.12.4)
+🗃️**Detailed Changelog:** [**1.12.4 --> 1.12.5**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.4...1.12.5)
 
 <hr>
 
@@ -10,33 +10,39 @@
 
 <hr>
 
+### 🛠️Notes/Changes
+
+- ⚠️You options in `options.txt` will be reset, as a new resource-pack has been added.
+- Thanks, a lot, to [**@MissionWAR**](https://github.com/MissionWAR) for informing me about many bugs and for their helpful suggestions, in the recent versions of the modpack.
+- Cool, new **3<sup>rd</sup>-person animations** have been added.<sup>⭐</sup>
+
+<hr>
+
 ### 💡Added
 
-- **Palladium** + **ToadLib** _<small>[**[#35]**](https://github.com/UltimatChamp/optimum-fuse/issues/35)</small>_
-- **Pick Up Notifier** _<small>[**[#33]**](https://github.com/UltimatChamp/optimum-fuse/issues/33)</small>_
-- **RP Renames**
+- **Detailed Animations**<sup>⭐</sup>
+- **Enchantment Lore**
+- **FixBookGUI**
+- **Scribble**
 
 <hr>
 
 ### ❌Removed
 
-- **Raised** _<small>(To fix issues with **Smooth Scrolling** | [**[#36]**](https://github.com/UltimatChamp/optimum-fuse/issues/36))</small>_
+- **BadOptimizations** _<small>(Has a lot of bugs)</small>_
+- **BetterF3** _<small>(Has a significant impact on performance)</small>_
+- **Fancy Block Particles - Renewed** _<small>(Has a significant impact on performance and bugs)</small>_
+- **Fresh Moves** _<small>(Replaced with **Detailed Animations**)</small>_
+- **Stendhal** _<small>(Replaced with **Scribble**)</small>_
 
 <hr>
 
 ### 🔄️Updated
 
 - **BetterGrassify**
-- **Chat Heads**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Controlling**
-- **Enhanced Block Entities**
-- **Forge Config API Port**
 - **Fzzy Config**
-- **More Culling**
-- **Polytone**
 - **Puzzles Lib**
-- **Remove Reloading Screen**
+- **Symbol Chat**
 - **Tab Tweaks**
 - **Translations for Sodium**
-- **Wavey Capes**

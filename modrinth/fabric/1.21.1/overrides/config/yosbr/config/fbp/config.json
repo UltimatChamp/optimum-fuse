@@ -1,9 +1,0 @@
-{
-  "global": {
-    "cullParticles": true
-  },
-  "terrain": {
-    "entityCollision": true,
-    "sizeMultiplier": 0.45
-  }
-}

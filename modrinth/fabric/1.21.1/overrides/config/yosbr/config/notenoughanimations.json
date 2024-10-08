@@ -1,0 +1,8 @@
+{
+  "enableAnimationSmoothing": false,
+  "enableLadderAnimation": false,
+  "holdUpItemsMode": "NONE",
+  "itemSwapAnimation": false,
+  "tweakElytraAnimation": false,
+  "fallingAnimation": false
+}
