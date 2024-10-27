@@ -1,0 +1,8 @@
+{
+  "global": {
+    "cullParticles": true
+  },
+  "terrain": {
+    "sizeMultiplier": 0.45
+  }
+}

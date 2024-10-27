@@ -16,9 +16,6 @@
     "nohotbarlooping": {
       "recommends": {}
     },
-    "sodium-extra": {
-      "recommends": {}
-    },
     "wakes": {
       "recommends": {}
     }
