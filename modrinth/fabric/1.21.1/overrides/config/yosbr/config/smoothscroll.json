@@ -1,0 +1,24 @@
+{
+  "Notes": [
+    "Smooth Scrolling has a bug...? It does not generate a config file on start, and so, does not work out of the box."
+  ],
+  "Hotbar": {
+    "Smoothness": 0.2,
+    "Rollover": true
+  },
+  "Chat": {
+    "Smoothness": 0.5,
+    "Opening Speed": 0.5
+  },
+  "Creative Screen": {
+    "Smoothness": 0.5
+  },
+  "Entry List": {
+    "Smoothness": 0.5,
+    "Speed": 30.0
+  },
+  "Misc": {
+    "Enable mask debug": false
+  },
+  "Format": 2.2
+}
