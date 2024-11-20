@@ -4,7 +4,7 @@
 	chatMessage: "There is an update available for OptimumFuse!",
 	modpackName: "OptimumFuse",
 	modpackId: "optimum-fuse",
-	localVersion: "1.13.1+fabric.1.21.1",
+	localVersion: "1.13.2+fabric.1.21.1",
 	chatWelcome: true,
 	chatWelcomeMessage: "--- [<modpack-name>] [<version>] ---",
 	customIcon: true,

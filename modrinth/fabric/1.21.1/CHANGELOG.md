@@ -1,4 +1,4 @@
-## OptimumFuse [`1.13.1+fabric.1.21.1`]
+## OptimumFuse [`1.13.2+fabric.1.21.1`]
 
 🗃️**Detailed Changelog:** [**1.13.0 --> 1.13.1**](https://github.com/UltimatChamp/optimum-fuse/compare/1.13.0...1.13.1)
 
@@ -6,65 +6,60 @@
 
 ### ⛔Unavailable Mods
 
-- **Controlify** _<small>(Incompatible with **Reese's Sodium Options** | See [**isXander/Controlify#419**](https://github.com/isXander/Controlify/issues/419))</small>_
-- **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
+- **Controlify** _<small>(Incompatible with **Reese's Sodium Options** |
+  See [**isXander/Controlify#419**](https://github.com/isXander/Controlify/issues/419))</small>_
+- **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** |
+  See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Added an _update notifier_! This will notify you about updates, as soon as a new version is published.
-- The game window now uses the _modpack logo_ and the title has also been tweaked.
-- **Controlify** has been temporarily replaced with **MidnightControls**.
+- Updated **Fabric Loader** to `0.16.9`.
+- Some new _mod-built-in_ resource packs have been enabled.
+    - ⚠️Your options in `options.txt` will be reset.
+- You should notice many new **animations** and **effects** with this update, thanks to the **Subtle Effects** mod.
+- You can now sort inventory items using the `Enter` key.
 
 <hr>
 
 ### 💡Added
 
-- **Elytra Physics** + **Prickle**
-- **ModpackUtils**
-- **Tips** + **Bookshelf**
+- **DeathView** _<small>(New death screen!)</small>_
+- **I see you over there!**
+- **Inventive Inventory**
+- **Mica** _<small>(Looking for some feedback!)</small>_
+- **Sodium Extra Information**
+- **Subtle Effects**
 
 <hr>
 
 ### 🗑️Removed
 
-- **FixBookGUI** _<small>(**Scribble** has now added this feature)</small>_
-- **Smooth Scrolling Refurbished** _<small>(Incompatible with **Smooth Scrolling**, again)</small>_
+- **DarkTitleBar** _<small>(Replaced with **Mica**)</small>_
 
 <hr>
 
 ### 🔄️Updated
 
 - **BetterGrassify**
+- **Blinking Totem**
+- **Chat Heads**
 - **Chunks fade in**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Cubes Without Borders**
-- **Dynamic FPS**
-- **Entity Culling**
-- **[ETF] Entity Texture Features**
-- **Fancy Block Particles - Renewed**
-- **FireHud**
-- **GUI SimpleStylized**
-- **ImmediatelyFast**
+- **Datapack Reload Helper**
+- **Fabric API**
+- **Flow**
+- **Forge Config API Port**
+- **Fzzy Config**
 - **Iris Shaders**
-- **LambDynamicLights**
-- **Language Reload**
-- **ModernFix**
-- **More Culling**
-- **No Chat Reports**
-- **Not Enough Animations**
-- **Ok Zoomer**
-- **Pick Block Pro**
+- **Lithium**
+- **MidnightControls**
 - **Polytone**
-- **Resourcify**
-- **Scribble**
-- **ServerAddressSpaceFix**
-- **Shulker Box Tooltip**
-- **Smooth Scrolling**
+- **Reese's Sodium Options**
 - **Sodium**
+- **Sodium Extra**
 - **Sodium Options API**
-- **Texturized Particles**
 - **Translations for Sodium**
-- **Very Many Players (Fabric)**
 - **Wavey Capes**
+- **[ETF] Entity Texture Features**
