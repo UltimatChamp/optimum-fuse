@@ -16,10 +16,10 @@
 ### 🛠️Notes/Changes
 
 - Updated **Fabric Loader** to `0.16.9`.
-- Some new _mod-built-in_ resource packs have been enabled.
-    - ⚠️Your options in `options.txt` will be reset.
 - You should notice many new **animations** and **effects** with this update, thanks to the **Subtle Effects** mod.
 - You can now sort inventory items using the `Enter` key.
+- Some new _mod-built-in_ resource packs and keybinds have been enabled.
+  - ⚠️Your options in `options.txt` will be reset.
 
 <hr>
 
