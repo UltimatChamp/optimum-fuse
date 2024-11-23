@@ -21,18 +21,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/m5T5xmUy/versions/QECFno7B/BetterGrassify-1.3.1%2Bfabric.1.21.1.jar"
+        "https://cdn.modrinth.com/data/m5T5xmUy/versions/ymcZ9Mml/BetterGrassify-1.3.4%2Bfabric.1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 77634,
+      "fileSize": 78530,
       "hashes": {
-        "sha1": "06c2ccdd3b141e0a86d9e6a6d078b5860397fe6a",
-        "sha512": "f120451f6a120b2e91f4ece2d375f975509f2ad54eaadfedd1b472aa8cbd69b57ddcda833b65eb4b86d4b949f6abcbdd457cbea3576b3abaed145a6619d6d153"
+        "sha1": "9c65723345f6c2115f6ce88a909436c18cd1be5b",
+        "sha512": "83d480974b223237e8683cadaca0db38dddd491cd9a01601f4b5c546f8d93e34c2b4e9ebc5f060d678f391099aec4791c849325bf5371a104083cf3bd855deb5"
       },
-      "path": "mods/BetterGrassify-1.3.1+fabric.1.21.1.jar"
+      "path": "mods/BetterGrassify-1.3.4+fabric.1.21.1.jar"
     },
     {
       "downloads": [
@@ -636,18 +636,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/B5PB76Ch/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.297.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/sQFhYQqZ/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.298.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4658773,
+      "fileSize": 4658778,
       "hashes": {
-        "sha1": "beb75e80ea17a7b934ef745bf4195738c9be07bf",
-        "sha512": "8f050ff4baf41049554ad230d8bf37005c7e0a42736e2c0d2f98adbb6b3f3fe06c5461323c5323aa2ae361341bfd04487bf3b447876e508bcaf0e0cd12ad8fbd"
+        "sha1": "760a83370839afa4a40283f6eadaaae11f59bec2",
+        "sha512": "d562beb1bcf2ff07e1e806437ebd43efb98698e08cc3212a438329b752dcf2d63acabdf59d00932a0c987efb865570f98000bcbafdb630035985d1c928ba9c6d"
       },
-      "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.297.jar"
+      "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.298.jar"
     },
     {
       "downloads": [
@@ -670,7 +670,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 73221,
       "hashes": {
@@ -723,21 +723,6 @@
         "sha512": "f26610eb23dbe12987ed9c10d6f2c4dcefd2905633a963855f09230f62841882887232553f1972e3ef974dd2cd6d88db8abd453a8b4ea2e0f378c0b8f43b8b32"
       },
       "path": "mods/cherishedworlds-fabric-10.1.0+1.21.1.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/JaNmzvA8/versions/cm1pHJWy/chunksfadein-fabric-2.0.2-1.21.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 323014,
-      "hashes": {
-        "sha1": "056cd3877d92d2e72a600f297f70d6fb6d32c941",
-        "sha512": "2f8d47a66b93f49719298f8dc0c26496d6ddaeaec3f37557e438488d08f221eca49ecbecae7dc0738c9421dc43259c8ca979531c583668ab90c8bbf8230e8c64"
-      },
-      "path": "mods/chunksfadein-fabric-2.0.2-1.21.jar"
     },
     {
       "downloads": [
@@ -1030,7 +1015,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 645967,
       "hashes": {
@@ -1165,7 +1150,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 2790495,
       "hashes": {
@@ -1266,18 +1251,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/bUHfVbsa/versions/Ia4WUa0i/inventive_inventory-1.1.2.jar"
+        "https://cdn.modrinth.com/data/bUHfVbsa/versions/Ys060SMK/inventive_inventory-1.1.3.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 1082823,
+      "fileSize": 1082939,
       "hashes": {
-        "sha1": "8708d0a8c04b4896735fcd3af9569d55b1da92c0",
-        "sha512": "371ce9549b357443cbd2e3e37d0129418934795bdfa41b0fa9121c31177d2050b49305a187942d2ad8b475e3f316e162c8e641d2a8f038f61002308deea77f81"
+        "sha1": "9e11d695a638dcd5af7d4668280d9a3580ea3abb",
+        "sha512": "5f5dbee6dd2fce842e92c1ab6cfd7a29cf98168407a00e28083b5c555e6a5320ce0cfaa95c7936937cb9f153737b8f604dced9dfb43f57a558c83b6a8226d614"
       },
-      "path": "mods/inventive_inventory-1.1.2.jar"
+      "path": "mods/inventive_inventory-1.1.3.jar"
     },
     {
       "downloads": [
@@ -1285,7 +1270,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 2675365,
       "hashes": {
@@ -1435,7 +1420,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 648138,
       "hashes": {
@@ -1656,6 +1641,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/nrikgvxm/versions/LJMP1DZf/particle-rain-2.1.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 717613,
+      "hashes": {
+        "sha1": "01e6073cef18701100523e437ba0a881fccfb459",
+        "sha512": "bd403f670ad13186f09a0e728bb4e0126caf6a7bacaf7c7c9b0815e7e982f342e143bd8ffffa9dc3dcc7d5ef58f093ed60271896be9624c5952380376d956a23"
+      },
+      "path": "mods/particle-rain-2.1.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/RSeLon5O/versions/9vefjf6j/particle_core-0.2.4%2B1.21.jar"
       ],
       "env": {
@@ -1686,18 +1686,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/OUFfPjZd/polytone-1.21-2.5.10-fabric.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/Uz1hdXmE/polytone-1.21-2.5.12-fabric.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 666529,
+      "fileSize": 666834,
       "hashes": {
-        "sha1": "b684d5c701802c848da44dd77a57387b0a20ce9e",
-        "sha512": "4cb45f54c6f01f22d5918f49bbd5ac3b6bf67dfb400a47f11554ada5dda777e749dc78f01b5e88265532bdea14c6704f070861463d29f6d783f768bdb886cd61"
+        "sha1": "cdc12b3a71fd14feaa84594c17e6bd5f77a9224d",
+        "sha512": "01962b9eabc633f25346a7be7e450bc1769243beb3b854bdeaad86c92b624ff794bb77979b0d0677a5909a9891804113f9bb43997e7dcfe69879b13ff6455d7c"
       },
-      "path": "mods/polytone-1.21-2.5.10-fabric.jar"
+      "path": "mods/polytone-1.21-2.5.12-fabric.jar"
     },
     {
       "downloads": [
@@ -1750,7 +1750,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 80972,
       "hashes": {
@@ -1851,18 +1851,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/CllP7wW0/versions/mKGN9ig2/smoothscroll-2.2.0.jar"
+        "https://cdn.modrinth.com/data/CllP7wW0/versions/1HA8AoCS/smoothscroll-2.2.1-1.21.1.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 76941,
+      "fileSize": 76919,
       "hashes": {
-        "sha1": "11c345f380b9d292a0c1a4c8b18937f7fade93a3",
-        "sha512": "a174bbef086efe55958cb0614f191ba98d35974a1a7584144e43828e425e3f3554f1f0cd56a6cf0d281db48625173404a7782382f42f69fa5c4aaf0aaa4de14f"
+        "sha1": "83ce9cb551cfb03569a39a94cbed8686b2e6abc0",
+        "sha512": "c9bf028f54047c5ad88b4c0fc583ad8924d6dbb58ff9d6a801c68d31a3b5fec92be3309e5022266e8efa178da2dfd2980a368cc42d947ee441136873bd433371"
       },
-      "path": "mods/smoothscroll-2.2.0.jar"
+      "path": "mods/smoothscroll-2.2.1-1.21.1.jar"
     },
     {
       "downloads": [
@@ -1870,7 +1870,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 373661,
       "hashes": {
@@ -1885,7 +1885,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1281394,
       "hashes": {
@@ -1915,7 +1915,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 305478,
       "hashes": {
@@ -2110,7 +2110,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 363266,
       "hashes": {
@@ -2181,16 +2181,16 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/GLPr0Qn9/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/P9ToDibH/SodiumTranslations.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 216333,
+      "fileSize": 216688,
       "hashes": {
-        "sha1": "9f90123aea1d259739b671313df23cd03d61cf41",
-        "sha512": "bda989a5637ed7a38e5313cf1a04d45a9b999425787658b106070a8202703b02832ee25356391d282a10ed1b7ea185cda4154d7af76ebb99cd45b48e648949c5"
+        "sha1": "1d4c115f1b81a0f428c740530c5ada38549a9cd9",
+        "sha512": "71dcbe7e5f0d69e6a49fb95f2636e18001d37a4f691dd8e43beb754736de1369ffd3c7edee03f2e2efc660b8f2bd09d72817d4b6c8716995bf0cc811e54c4d24"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     },
@@ -2244,5 +2244,5 @@
   "game": "minecraft",
   "name": "OptimumFuse - Fabric",
   "summary": "[1.21.1] [Fabric📜] An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.13.2+fabric.1.21.1"
+  "versionId": "1.13.3+fabric.1.21.1"
 }
