@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🌎 OptimumFuse](README.md)
-* [Getting Started](getting-started.md)
+* [▶️ Getting Started](getting-started.md)
 
 ## Overview
 
