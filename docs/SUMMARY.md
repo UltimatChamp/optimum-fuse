@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [🌎 OptimumFuse](README.md)
+* [Getting Started](getting-started.md)
 
 ## Overview
 

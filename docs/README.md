@@ -1,45 +1,81 @@
-# 👋 Welcome to A Product
+# 🌎 OptimumFuse
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge\&logo=discord\&logoColor=%23fff\&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge\&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse) [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge\&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)
 
-## Overview
+***
 
-Here are a couple of example overviews from products with really great docs:
+### For Fabric📜 and NeoForge🦊
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+All optimizations in the modpack are based on [**ExceptionallyOptimized**](https://modrinth.com/modpack/exceptionallyoptimized).
 
-## Quick links
+If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Report | 💡Suggestion**](https://github.com/UltimatChamp/optimum-fuse/issues/new/choose). Alternatively, we have a [**Discord**](https://discord.gg/kfKjjhv3pn) server.
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+***
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+<details>
 
-## Get Started
+<summary>🧪Versioning</summary>
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+This project uses **semantic versioning**.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
+**Format:**
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
+`X`.`Y`.`Z`+`<loader>`.`<mc-version>`
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+**Definitions:** (a) _Project Version_
+
+1. **`X`:** MAJOR version _(Not likely to change; for a long time!)_
+2. **`Y`:** MINOR version _(Will change frequently; For new MC versions/Big updates)_
+3. **`Y`:** PATCH version _(Will change very frequently; Small changes/Mod updates/...)_
+
+(b) _Build Metadata_
+
+1. **`<loader>`:** **Values:** `fabric` or `neo`.
+2. **`<mc-version>`:** **Examples:** `1.16.5`, `1.19.2`, `1.20.1` and so on...
+
+***
+
+**Pre-release Versions' Format:**
+
+`X`.`Y`.`Z`-`<pre-release>`+`<loader>`.`<mc-version>`
+
+**`<pre-release>`:** _(For untested/breaking changes/not ready for use versions)_\
+**Values:**\
+i) **`alpha`**\
+ii) **`beta`**
+
+</details>
+
+***
+
+### 🎲Mods Used
+
+You can find all the mods included in this modpack under the `Dependencies` section, on the **Modrinth Versions** page.
+
+### 📱Awesome Features:
+
+#### 🍀BetterGrass ![](https://cdn.modrinth.com/data/nQYjpo27/images/31bd83bbec4ebc32b93c5df44bef5a3120712350.png)  💡DynamicLights ![](https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg)
+
+#### 📐CEM ![](https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png)
+
+\
+🔎C-Zoom\
+![](https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png)
+
+\
+🖇️ConnectedTextures\
+![](https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png)
+
+**and much more...!**
+
+***
+
+### 📈Automated Publishing
+
+All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://github.com/marketplace/actions/mc-publish). The _workflow file_ can be found here [**here**](../.github/workflows/publish_release.yml).
+
+### 📜License
+
+#### Check the complete license here: [**Apache License 2.0**](https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE)!
