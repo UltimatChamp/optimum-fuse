@@ -5,7 +5,7 @@
 `➡️` Click on your launcher and follow the instructions below.
 
 {% hint style="info" %}
-You can also add resource-packs, data-packs and shaders in-game, by click on the `➕` in the respective menu.
+You can also add resource-packs, data-packs and shaders in-game, by click on the `➕` in their respective menus.
 {% endhint %}
 
 {% tabs %}

@@ -1,8 +1,8 @@
 # 🌎 OptimumFuse
 
-[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge\&logo=discord\&logoColor=%23fff\&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
-[![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge\&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
-[![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge\&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)
+[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
+[![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
+[![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)
 
 ***
 
@@ -27,6 +27,7 @@ This project uses **semantic versioning**.
 `X`.`Y`.`Z`+`<loader>`.`<mc-version>`
 
 **Definitions:**
+
 (a) _Project Version_
 
 - **`X`:** MAJOR version _(Not likely to change; for a long time!)_

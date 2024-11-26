@@ -29,15 +29,18 @@ Go through the installation process, including adding your Minecraft account!
 
 - You can also choose a specific variant of the modpack. The modpack, currently,
   offers two variants: **Fabric** | **NeoForge**.
-  ![](.gitbook/assets/modrinth-variants.png)
+
+![](.gitbook/assets/modrinth-variants.png)
 
 ## Run Minecraft
 
 - Navigate back to **Home** and click on the modpack card.
-  ![](.gitbook/assets/modrinth-card.png)
+
+![](.gitbook/assets/modrinth-card.png)
 
 - Click **Play**.
-  ![](.gitbook/assets/modrinth-play.png)
+
+![](.gitbook/assets/modrinth-play.png)
 
 {% endtab %}
 
@@ -55,13 +58,15 @@ Go through the installation process, including adding your Minecraft account!
 
 - Click on the **Add Instance** button. ![](.gitbook/assets/prism-add.png)
 
-- A new window will pop-up. Select the **Modrinth** tab, and search
-  **OptimumFuse**. ![](.gitbook/assets/prism-search.png)
+- A new window will pop-up. Select the **Modrinth** tab, and search for _"OptimumFuse"_.
+
+![](.gitbook/assets/prism-search.png)
 
 - Click on the modpack card, and click on **Ok**.
 
 - Click the **Launch** button to start the game.
-  ![](.gitbook/assets/prism-play.png)
+
+![](.gitbook/assets/prism-play.png)
 
 {% endtab %}
 
