@@ -7,17 +7,17 @@ sure, you can try **Modrinth App** or **Prism Launcher**.
 
 {% tab title="Modrinth App" %}
 
-### Installing the Launcher
+## Installing the Launcher
 
 [![](https://img.shields.io/badge/Install%20Here-Modrinth%20App-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/app)
 
 ![](.gitbook/assets/modrinth-download.png)
 
-### Setup
+## Setup
 
 Go through the installation process, including adding your Minecraft account!
 
-### Installing OptimumFuse
+## Installing OptimumFuse
 
 - Click on the **Browse** button.
 
@@ -31,26 +31,27 @@ Go through the installation process, including adding your Minecraft account!
   offers two variants: **Fabric** | **NeoForge**.
   ![](.gitbook/assets/modrinth-variants.png)
 
-### Run Minecraft
+## Run Minecraft
 
 - Navigate back to **Home** and click on the modpack card.
   ![](.gitbook/assets/modrinth-card.png)
 
-- Click **Play**. ![](.gitbook/assets/modrinth-play.png)
+- Click **Play**.
+  ![](.gitbook/assets/modrinth-play.png)
 
 {% endtab %}
 
 {% tab title="Prism Launcher" %}
 
-### Installing the Launcher
+## Installing the Launcher
 
 [![](https://img.shields.io/badge/Install%20Here-Prism%20Launcher-%23d74059?style=for-the-badge)](https://prismlauncher.org/download/windows)
 
-### Setup
+## Setup
 
 Go through the installation process, including adding your Minecraft account!
 
-### Installing OptimumFuse
+## Installing OptimumFuse
 
 - Click on the **Add Instance** button. ![](.gitbook/assets/prism-add.png)
 
@@ -70,15 +71,6 @@ _Here are some useful links:_
 
 - **<a href="https://apexminecrafthosting.com/how-to-play-modpacks-with-the-atlauncher/" target="_blank">How
   to Play Modpacks with the ATLauncher - Apex Hosting</a>**
-
-{% endtab %}
-
-{% tab title="CurseForge App" %}
-
-_Here are some useful links:_
-
-- **<a href="https://support.curseforge.com/en/support/solutions/articles/9000196984-installing-modpacks" target="_blank">Installing
-  Minecraft modpacks from the CurseForge App - CurseForge Support</a>**
 
 {% endtab %}
 
