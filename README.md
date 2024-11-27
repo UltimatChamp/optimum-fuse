@@ -6,7 +6,7 @@ modrinth:
 ---
 # Optimum<font color="#ff6600">Fuse</font>
 
-<center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/nQYjpo27/9c5b4b56b78def489eacc7cd7a9222511f75addf.png"><br><br>
+<center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/nQYjpo27/9c5b4b56b78def489eacc7cd7a9222511f75addf.png">
 
 [![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
 [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
@@ -34,6 +34,7 @@ This project uses **semantic versioning**.
 **Format:** <center>`X`.`Y`.`Z`+`<loader>`.`<mc-version>`</center>
 
 **Definitions:**
+
 (a) _Project Version_
 
 1. **`X`:** MAJOR version _<small>(Not likely to change; for a long time!)</small>_
@@ -97,7 +98,8 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 <hr />
 
-🏃‍♂️Better<font color="magenta">PlayerAnimations</font><br>
+🏃‍♂️Better<font color="magenta">PlayerAnimations</font>
+
 <img src="https://cdn.modrinth.com/data/9pR04wDX/images/a16f117721965f80de2afc0f109473bb561f42da.png" width="625"></h3>
 
 </center>
