@@ -74,7 +74,7 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 <hr />
 
-<h3>🌆Awesome<font color="magenta">Shaders</font>
+<h3>🌆Awesome<font color="magenta">Shaders</font><br><br>
 
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/56bf6d61e12491db23ba0d92a46a714737eda279.png" width="625">
 
