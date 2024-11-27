@@ -8,9 +8,13 @@ modrinth:
 
 <center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/nQYjpo27/9c5b4b56b78def489eacc7cd7a9222511f75addf.png"><br><br>
 
-[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse) [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)</center>
+[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
+[![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
+[![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)
 
-<hr>
+</center>
+
+<hr />
 
 ## For Fabric📜 and Neoforge🦊
 
@@ -20,7 +24,7 @@ All optimizations in the modpack are based on [**Exceptionally Optimized**](http
 
 If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Report | 💡Suggestion**](https://github.com/UltimatChamp/optimum-fuse/issues/new/choose). Alternatively, we have a [**Discord**](https://discord.gg/kfKjjhv3pn) server.
 
-<hr>
+<hr />
 
 <details id="versioning">
 <summary>🧪Versioning</summary>
@@ -41,7 +45,7 @@ This project uses **semantic versioning**.
 1. **`<loader>`:** **Values:** `fabric` or `neo`.
 2. **`<mc-version>`:** **Examples:** `1.16.5`, `1.19.2`, `1.20.1` and so on...
 
-<hr>
+<hr />
 
 **Pre-release Versions' Format:** <center>`X`.`Y`.`Z`-`<pre-release>`+`<loader>`.`<mc-version>`</center>
 
@@ -52,7 +56,7 @@ ii) **`beta`**
 
 </details>
 
-<hr>
+<hr />
 
 ## 🎲Mods Used
 
@@ -60,37 +64,47 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 ## 📱Awesome Features:
 
-<center><!--4 images in a grid
-<img src="top-left" width="325"> <img src="top-right" width="325"><br>
-<img src="bottom-left" width="325"> <img src="bottom-right" width="325">-->
+<center>
 
-<h3>🍀Better<font color="green">Grass</font><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/31bd83bbec4ebc32b93c5df44bef5a3120712350.png" width="625">
-<br><br><br>
+<h3>🍀OptiFine<font color="green">Parity</font>
 
-💡Dynamic<font color="orangered">Lights</font><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg" width="625">
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" height="225"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" height="225"><br>
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" height="225"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg" width="455" height="225">
 
-<br>
+<hr />
 
-📐CEM<br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" width="625">
+<h3>🌆Awesome<font color="magenta">Shaders</font>
 
- <br>
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/56bf6d61e12491db23ba0d92a46a714737eda279.png" width="625">
 
-🔎C<font color="yellow">-Zoom</font><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="625">
+<hr />
 
-<br>
+⛏️Fancy<font color="cyan">Tooltips</font>
 
-🖇️Connected<font color="magenta">Textures</font><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="625"></h3>
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/73034f16705ac7fe26464869ff6c62d88cdff247.png" width="625">
+
+<hr />
+
+✨Cool<font color="lime">Effects</font>
+
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/24306974e406d7d3b9834f056fc91e667646649f.png" width="625">
+
+<hr />
+
+🔎3D<font color="yellow">Particles</font>
+
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/31b91a5862d8f2d9021995c69123085bb3dc9c01.png" width="625">
+
+<hr />
+
+🏃‍♂️Better<font color="magenta">PlayerAnimations</font><br>
+<img src="https://cdn.modrinth.com/data/9pR04wDX/images/a16f117721965f80de2afc0f109473bb561f42da.png" width="625"></h3>
 
 </center>
 
-**and much more...!**
+### **and much more...!**
 
-<hr>
+<hr />
 
 ## 📈Automated Publishing
 

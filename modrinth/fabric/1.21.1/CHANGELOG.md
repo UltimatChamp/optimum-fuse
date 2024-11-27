@@ -1,6 +1,6 @@
-## OptimumFuse [`1.13.3+fabric.1.21.1`]
+## OptimumFuse [`1.13.4+fabric.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.13.2 --> 1.13.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.13.2...1.13.3)
+🗃️**Detailed Changelog:** [**1.13.3 --> 1.13.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.13.3...1.13.4)
 
 <hr>
 
@@ -15,27 +15,29 @@
 
 ### 🛠️Notes/Changes
 
-- I think I should update the modpack's description, as it is seriously outdated.
+- Turn off **Subtle Effects**' sparks, in favor of **Fancy Block Particles**' 3D particles.
 
 <hr>
 
 ### 💡Added
 
-- **Particle Rain** _(Disabled **Fancy Block Particles**' rain and snow particles)_
-
-<hr>
-
-### 🗑️Removed
-
-- **Chunks fade in** _(Can cause a lot of lag, in some scenarios)_
+- **3D Skin Layers**
+- **Skin Shuffle**
+- **Sodium Options Mod Compat** + **TxniLib**
 
 <hr>
 
 ### 🔄️Updated
 
-- **BetterGrassify**
+- **Chat Heads**
 - **Concurrent Chunk Management Engine (Fabric)**
+- **Datapack/Gamerule Menus**
+- **Fabric API**
+- **Fzzy Config**
 - **Inventive Inventory**
-- **Polytone**
-- **Smooth Scrolling**
-- **Translations for Sodium**
+- **LambDynamicLights**
+- **Odyssey Lite**
+- **RP Renames**
+- **Scribble**
+- **Sodium Options API**
+- **Sounds**
