@@ -69,8 +69,8 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 <h3>🍀OptiFine<font color="green">Parity</font>
 
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" height="225"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" height="225"><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" height="225"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/f7e8edcd60a9da9697b97f19c053f3c9bf9fa052.jpeg" width="455" height="225">
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="333"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" width="361"><br>
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="249"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/ddff06137975c547f990f93d117e4dca87aa0199.png" width="446">
 
 <hr />
 
