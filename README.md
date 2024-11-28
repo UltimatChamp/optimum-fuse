@@ -8,6 +8,8 @@ modrinth:
 
 <center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/nQYjpo27/9c5b4b56b78def489eacc7cd7a9222511f75addf.png">
 
+<hr />
+
 [![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
 [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
 [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)
@@ -67,13 +69,6 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 <center>
 
-<h3>🍀OptiFine<font color="green">Parity</font>
-
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="333"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" width="361"><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="249"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/ddff06137975c547f990f93d117e4dca87aa0199.png" width="446">
-
-<hr />
-
 <h3>🌆Awesome<font color="magenta">Shaders</font><br><br>
 
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/56bf6d61e12491db23ba0d92a46a714737eda279.png" width="625">
@@ -100,17 +95,24 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 🏃‍♂️Better<font color="magenta">PlayerAnimations</font>
 
-<img src="https://cdn.modrinth.com/data/9pR04wDX/images/a16f117721965f80de2afc0f109473bb561f42da.png" width="625"></h3>
+<img src="https://cdn.modrinth.com/data/9pR04wDX/images/a16f117721965f80de2afc0f109473bb561f42da.png" width="625">
+
+<hr />
+
+🍀OptiFine<font color="green">Parity</font>
+
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="333"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" width="361"><br>
+<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="249"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/ddff06137975c547f990f93d117e4dca87aa0199.png" width="446">
+
+</h3>
 
 </center>
 
 ### **and much more...!**
 
-<hr />
-
 ## 📈Automated Publishing
 
-All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://github.com/marketplace/actions/mc-publish). The _workflow file_ can be found here [**here**](https://github.com/UltimatChamp/optimum-fuse/blob/main/.github/workflows/publish_release.yml).
+All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://github.com/marketplace/actions/mc-publish). The _workflow file_ can be found [**here**](https://github.com/UltimatChamp/optimum-fuse/blob/main/.github/workflows/publish_release.yml).
 
 ## 📜License
 ### Check the complete license here: [**Apache License 2.0**](https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE)!
