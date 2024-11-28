@@ -95,13 +95,6 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 <img src="https://cdn.modrinth.com/data/9pR04wDX/images/a16f117721965f80de2afc0f109473bb561f42da.png" width="625">
 
-***
-
-### 🍀OptiFineParity
-
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/491f56c2fa8361fd7e44f022411cd98fbb38d226.png" width="333"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/604cd4f40248d33568297057be3e2e55fc30cb5c.png" width="361"><br>
-<img src="https://cdn.modrinth.com/data/nQYjpo27/images/dc47cebce74e47a79cc83208d66cab28198e4b8e.png" width="249"> <img src="https://cdn.modrinth.com/data/nQYjpo27/images/ddff06137975c547f990f93d117e4dca87aa0199.png" width="446">
-
 </center>
 
 ### **and much more...!**
