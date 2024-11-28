@@ -3,10 +3,15 @@
 * [🌎 OptimumFuse](README.md)
 * [▶️ Getting Started](getting-started.md)
 
+## Info
+
+* [⁉️ Hidden Features](info/hidden-features.md)
+* [⚙️ Changed Options](info/changed-options.md)
+
 ## Post Installation
 
 * [🔄️ Updating](post-installation/updating.md)
-* [💡 Adding Mods](post-installation/adding-mods.md)
+* [💡Adding Mods](post-installation/adding-mods.md)
 * [❌ Disabling Features](post-installation/disabling-features.md)
 * [🆘 Help Me](post-installation/help-me.md)
 

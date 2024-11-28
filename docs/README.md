@@ -1,8 +1,6 @@
 # 🌎 OptimumFuse
 
-<center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/nQYjpo27/9c5b4b56b78def489eacc7cd7a9222511f75addf.png">
-
-***
+<center>
 
 [![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
 [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
@@ -87,7 +85,7 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 ***
 
-### 🔎3D<Particles
+### 🔎3DParticles
 
 <img src="https://cdn.modrinth.com/data/nQYjpo27/images/31b91a5862d8f2d9021995c69123085bb3dc9c01.png" width="625">
 
@@ -116,4 +114,4 @@ All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://g
 
 ## 📜License
 
-### Check the complete license here: [**Apache License 2.0**](https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE)!
+Check the complete license here: [**Apache License 2.0**](https://raw.githubusercontent.com/UltimatChamp/optimum-fuse/main/LICENSE)!
