@@ -1,4 +1,4 @@
-# 🆘 Help Me
+# ⛑️ Help Me
 
 > Some unexpected happened?
 

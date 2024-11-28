@@ -1,4 +1,4 @@
-# 🔄️ Updating
+# 🔄 Updating
 
 **OptimumFuse** informs you in-game, when an update is available. Click on your launcher and follow the instructions below.
 
