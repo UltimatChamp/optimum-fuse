@@ -36,13 +36,13 @@ Do not click on the `❌ Unpair` button. This will prevent you from updating you
 - Click on `Review and confirm`.
 - A window will appear, click `Ok`.
 
-The same steps can repeated for adding resource-packs and shaders.
+The same steps can be repeated for adding resource-packs and shaders.
 
 {% endtab %}
 
 {% tab title="ATLauncher" %}
 
-- You can add mods by clicking on the `Add mods` button, below your **OptimumFuse** instance.
+- You can add mods by clicking on the `Add Mods` button, below your **OptimumFuse** instance.
 - Here, you can add all your desired mods, shaders, and resource-packs!
 
 {% endtab %}

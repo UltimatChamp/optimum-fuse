@@ -21,7 +21,7 @@ Go through the installation process, including adding your Minecraft account!
 
 - Click on the **Browse** button.
 
-![](.gitbook/assets/modrinth-download.png)
+![](.gitbook/assets/modrinth-search.png)
 
 - Search _"OptimumFuse"_.
 
