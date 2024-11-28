@@ -9,7 +9,7 @@ sure, you can try **Modrinth App** or **Prism Launcher**.
 
 ## Installing the Launcher
 
-[![](https://img.shields.io/badge/Install%20Here-Modrinth%20App-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/app)
+[![](https://img.shields.io/badge/Install%20Here-Modrinth%20App-%2300AF5C?style=for-the-badge)](https://modrinth.com/app)
 
 ![](.gitbook/assets/modrinth-download.png)
 
@@ -56,7 +56,9 @@ Go through the installation process, including adding your Minecraft account!
 
 ## Installing OptimumFuse
 
-- Click on the **Add Instance** button. ![](.gitbook/assets/prism-add.png)
+- Click on the **Add Instance** button.
+
+![](.gitbook/assets/prism-add.png)
 
 - A new window will pop-up. Select the **Modrinth** tab, and search for _"OptimumFuse"_.
 
