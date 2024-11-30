@@ -3,7 +3,15 @@
     "cullParticles": true
   },
   "terrain": {
-    "entityCollision": true,
     "sizeMultiplier": 0.45
+  },
+  "rain": {
+    "enabled": false
+  },
+  "snow": {
+    "enabled": false
+  },
+  "animations": {
+    "enabled": false
   }
 }

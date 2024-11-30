@@ -216,18 +216,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/wklFEiuR/versions/ZG4QeBkQ/ModpackUtils-1.0.0%2Bfabric.1.21.3.jar"
+        "https://cdn.modrinth.com/data/wklFEiuR/versions/W2FHbzxD/ModpackUtils-1.1.0%2Bfabric.1.21.3.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 41014,
+      "fileSize": 45775,
       "hashes": {
-        "sha1": "6a2dee341cad743cd20fd3c561962b60c6bf97cb",
-        "sha512": "fea537088539a8dfbab078a39486ae0e2dd4faa17f08c466771de98be88a8e4883a5f256d3d09c903682495c44831c9a0cf77fb7ed15a24057d8db9b53bd17c9"
+        "sha1": "be05435a8c0654f85a63bee0a3f5daa3a50eb255",
+        "sha512": "7fa4ba5bee90dc77d5c82e1a7d9fb861a8baa5ebe5fa671a86aa0bfca6be9e054f99a9b017a470982ae0b6b6a3c802ef0a4423b7f3933e0223160bcb60679ef0"
       },
-      "path": "mods/ModpackUtils-1.0.0+fabric.1.21.3.jar"
+      "path": "mods/ModpackUtils-1.1.0+fabric.1.21.3.jar"
     },
     {
       "downloads": [
@@ -310,7 +310,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 192411,
       "hashes": {
@@ -355,7 +355,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 167905,
       "hashes": {
@@ -411,18 +411,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/696WgnvT/versions/q4KUjG52/SodiumExtraInformation-fabric-2.2-beta.1.jar"
+        "https://cdn.modrinth.com/data/696WgnvT/versions/6mLJPFGJ/SodiumExtraInformation-fabric-2.3.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 55552,
+      "fileSize": 55479,
       "hashes": {
-        "sha1": "7978d0a67e09295f6395308a549783dd409da81e",
-        "sha512": "90ec03771ffe54d0ce054f4bb51698bb56043b614f52013a33447b3ef8cd6eb05420cd97233fefdfe4510c31691e16ffcc11776354f7eef895389db09e996dcc"
+        "sha1": "2270a26d93710726e71e8c8e338fa8da85576f65",
+        "sha512": "fb28dbc43e98d530478cceb5a9db1ca37100ed67c86e4b00582cdc0ef3791c42f28bfe9ec8558e037d073e454b916afc222630de15441631b91492772bee8062"
       },
-      "path": "mods/SodiumExtraInformation-fabric-2.2-beta.1.jar"
+      "path": "mods/SodiumExtraInformation-fabric-2.3.jar"
     },
     {
       "downloads": [
@@ -430,7 +430,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 10459968,
       "hashes": {
@@ -685,7 +685,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 76066,
       "hashes": {
@@ -1161,6 +1161,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/SQKipbkd/versions/Z8RhFyZL/fix-mc-stats-1.1.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 63859,
+      "hashes": {
+        "sha1": "e33c69a2df8c69b895fb447ef1b3e427985f2773",
+        "sha512": "ea29fb3f5531fdd8b82669a34ea4bd2990c7ec5220a31bab98b9424e8b37949a3d1903e2fa9a8418d6f1863dff8a274f241dc0a9e925a43f2a8a288d8f1ffd18"
+      },
+      "path": "mods/fix-mc-stats-1.1.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Eoxi2LJd/versions/HcbVIxAm/flow-2.2.0%2B1.21.jar"
       ],
       "env": {
@@ -1270,7 +1285,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1083139,
       "hashes": {
@@ -1326,18 +1341,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/iIqUfRsC/lambdynamiclights-3.1.3%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/MuAYXyhm/lambdynamiclights-3.1.4%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 846401,
+      "fileSize": 850253,
       "hashes": {
-        "sha1": "c0114a6cbd30d1bd7dec90999cbda8ce1ffb1085",
-        "sha512": "5249ba3f8cefd246acdbf8a58a63bc634bb7ef8b3a159806b4562191d2c091c4cdcc70a458fc0c9374487c9f60353407a69edb7a346e2db677bf8e09656aa9c4"
+        "sha1": "fdf2773db93fdfe6c49fb096b9976f85e0e8e28f",
+        "sha512": "11e2c747bbdbd94c64223bc7168ad26a5ffefb0260af13b59669d89c02f24748768b9c53a5ca8990fa667361215a06dedf9183ee1e05b5c1d712422951f244a7"
       },
-      "path": "mods/lambdynamiclights-3.1.3+1.21.1.jar"
+      "path": "mods/lambdynamiclights-3.1.4+1.21.1.jar"
     },
     {
       "downloads": [
@@ -1585,7 +1600,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 52834,
       "hashes": {
@@ -1836,6 +1851,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/ExI7GmJi/versions/CH1lMutG/searchstats-fabric-1.0.0%2B1.21.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 35696,
+      "hashes": {
+        "sha1": "4f615793273a2975a69448e58d035d9bcad4c3d0",
+        "sha512": "a486ce15e5817529d3b31fc6244a37d3aa4ad1224c41043510c71010d309e25a68e9c15757f6e6d02ee6a8e09ecee4e39c10d2dab44fc49d91903173960d2358"
+      },
+      "path": "mods/searchstats-fabric-1.0.0+1.21.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/iqK5uv72/versions/x7vxzThG/serverpingerfixer-1.0.5.jar"
       ],
       "env": {
@@ -1945,7 +1975,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 306574,
       "hashes": {
@@ -2241,16 +2271,16 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/P9ToDibH/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/E5S7DPSP/SodiumTranslations.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 216688,
+      "fileSize": 216690,
       "hashes": {
-        "sha1": "1d4c115f1b81a0f428c740530c5ada38549a9cd9",
-        "sha512": "71dcbe7e5f0d69e6a49fb95f2636e18001d37a4f691dd8e43beb754736de1369ffd3c7edee03f2e2efc660b8f2bd09d72817d4b6c8716995bf0cc811e54c4d24"
+        "sha1": "646e2a95a39afab3eccc4ea9a76bf9c51bf71aa3",
+        "sha512": "805adb12b33dfd2137f13ae84084030cc0110645e866622ca6bb4f73be48db83185a4266416c20e072d9b51e539f7c366a6479520d2da1e611c703eaf5852217"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     },
@@ -2304,5 +2334,5 @@
   "game": "minecraft",
   "name": "OptimumFuse - Fabric",
   "summary": "[1.21.1] [Fabric📜] An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.13.4+fabric.1.21.1"
+  "versionId": "1.13.5+fabric.1.21.1"
 }

@@ -13,14 +13,6 @@
     "nohotbarlooping": {
       "recommends": {}
     },
-    "resolutioncontrol3": {
-      "-depends": {
-        "modmenu": "*"
-      }
-    },
-    "sodium-extra": {
-      "recommends": {}
-    },
     "wakes": {
       "recommends": {}
     }

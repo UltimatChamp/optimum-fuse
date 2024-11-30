@@ -20,6 +20,4 @@ key_key.raised.options:0
 key_key.fbp.settings:0
 key_key.fbp.freeze_particles:0
 key_key.fbp.add_to_blacklist:0
-key_key.resolutioncontrol.settings:0
-key_key.resolutioncontrol.screenshot:67
 key_key.inventive_inventory.sort:28

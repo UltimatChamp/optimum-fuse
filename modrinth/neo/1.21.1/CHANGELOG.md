@@ -1,12 +1,12 @@
-## OptimumFuse [`1.12.4+neo.1.21.1`]
+## OptimumFuse [`1.13.5+neo.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.12.3 --> 1.12.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.3...1.12.4)
+🗃️**Detailed Changelog:** [**1.12.4 --> 1.13.5**](https://github.com/UltimatChamp/optimum-fuse/compare/1.12.4...1.13.5)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Updated **NeoForge** to `21.1.65`.
+- Sorry for keeping you await! Here's an update for **NeoForge**.
 
 <hr>
 
@@ -16,41 +16,119 @@
 - **Better Highlighting**
 - **Better Recipe Book**
 - **Better Suggestions**
-- **CIT Resewn + RP Renames**
-- **e4mc**
-- **Nvidium** _<small>(Incompatible with Sodium 0.6.0 | See [MCRcortex/nvidium#241](https://github.com/MCRcortex/nvidium/issues/241))</small>_
-- **Palladium**
-- **Radium** _<small>(Incompatibility with Sodium Extra | See [FlashyReese/sodium-extra-fabric#409](https://github.com/FlashyReese/sodium-extra-fabric/issues/409))</small>_
+- **Controlify** _<small>(Incompatible with **Reese's Sodium Options** |
+  See [**isXander/Controlify#419**](https://github.com/isXander/Controlify/issues/419))</small>_
+- **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** |
+  See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
+- **Very Many Players** _<small>(Makes torches uncraftable...? |
+  See [**RelativityMC/VMP-fabric#77**](https://github.com/RelativityMC/VMP-fabric/issues/77))</small>_
 
 <hr>
 
 ### 💡Added
 
-- **Pick Up Notifier** _<small>[**[#33]**](https://github.com/UltimatChamp/optimum-fuse/issues/33)</small>_
+- **3D Skin Layers**
+- **Architectury API**
+- **Bedrock Inventory Animations**
+- **CIT Resewn** + **CITResewnNeoPatcher**
+- **Concurrent Chunk Management Engine (NeoForge)**
+- **Cubes Without Borders**
+- **DeathView**
+- **Detailed Animations**
+- **Elytra Physics** + **Prickle**
+- **Enchantment Lore**
+- **Fancy Health Bar**
+- **FixMCStats**
+- **I see you over there!**
+- **LambDynamicLights [Unofficial NeoForge]**
+- **Lithium**
+- **Mica**
+- **ModpackUtils**
+- **Odyssey Lite**
+- **Particle Core** + **Fzzy Config**
+- **Particle Rain**
+- **Raised**
+- **Remove Reloading Screen**
+- **Scribble**
+- **Search Stats**
+- **Skin Shuffle**
+- **Sodium Extra Information**
+- **Reese's Sodium Options** + **Sodium Options API** + **Sodium Options Mod Compat** + **TxniLib**
+- **Subtle Effects**
+- **Texturized Particles**
+- **Tips** + **Bookshelf**
+- **e4mc**
 
 <hr>
 
-### ❌Removed
+### 🗑️Removed
 
-- **Raised** _<small>(To fix issues with **Smooth Scrolling** | [**[#36]**](https://github.com/UltimatChamp/optimum-fuse/issues/36))</small>_
+- **BetterF3**
+- **Cleaner Waters**
+- **Concentration** _<small>(Replaced with **Cubes Without Borders**)</small>_
+- **Controlify** _<small>(Temp.)</small>_
+- **DarkTitleBar** _<small>(Replaced with **Mica**)</small>_
+- **Fresh Moves**
+- **RyoamicLights** + **ObsidianUI** _<small>(Replaced with **LambDynamicLights [Unofficial NeoForge]**)</small>_
+- **Smooth Scrolling Refurbished** _<small>(Incompatible with **Smooth Scrolling** again)</small>_
+- **Stendhal** _<small>(Replaced with **Scribble**)</small>_
+- **Very Many Players** _<small>(Makes torches uncraftable...? |
+  See [**RelativityMC/VMP-fabric#77**](https://github.com/RelativityMC/VMP-fabric/issues/77))</small>_
+- **Xander's Sodium Options** _<small>(Replaced with **Reese's Sodium Options**)</small>_
 
 <hr>
 
 ### 🔄️Updated
 
+- **Better "Add Server"**
 - **Better ModList [(Neo)Forge]**
+- **Better Third Person**
 - **BetterGrassify**
+- **Blinking Totem**
 - **Chat Heads**
-- **Concurrent Chunk Management Engine (Fabric)**
-- **Controlling**
-- **Enhanced Block Entities**
+- **Cherished Worlds**
+- **Cloth Gamerules**
+- **Datapack Reload Helper**
+- **Datapack/Gamerule Menus**
+- **Dynamic FPS**
+- **Entity Culling**
+- **Fabric Language Kotlin**
+- **Fancy Block Particles - Renewed**
+- **FerriteCore**
+- **FireHud**
 - **Forgified Fabric API**
+- **GUI SimpleStylized**
+- **ImmediatelyFast**
 - **Iris Shaders**
-- **Leave My Bars Alone**
+- **Kotlin for Forge**
+- **Language Reload**
+- **M.R.U**
+- **Map Tooltip**
+- **ModernFix**
 - **More Culling**
+- **No Chat Reports**
+- **Not Enough Animations**
+- **Ok Zoomer**
+- **OptiGUI**
+- **Pick Block Pro**
 - **Polytone**
-- **Puzzle**
+- **Preferred Gamerules**
 - **Puzzles Lib**
+- **RP Renames**
+- **Resourcify**
+- **Scoreboard Overhaul**
+- **Searchables**
+- **ServerAddressSpaceFix**
+- **Shulker Box Tooltip**
+- **Sinytra Connector**
+- **Smooth Scrolling**
+- **Sodium**
+- **Sodium Extra**
+- **Sodium Shadowy Path Blocks**
+- **Sounds**
+- **Symbol Chat**
 - **Tab Tweaks**
 - **Translations for Sodium**
 - **Wavey Capes**
+- **YetAnotherConfigLib (YACL)**
+- **[ETF] Entity Texture Features**

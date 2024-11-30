@@ -1,10 +1,10 @@
 enableVsync:false
 gamma:1.0
 renderDistance:12
-simulationDistance:5
+simulationDistance:8
 guiScale:4
 maxFps:260
-resourcePacks:["file/lower_shield.zip","file/blinking-totem.zip","file/Expressive Fresh Moves.zip","file/FreshAnimations.zip","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
+resourcePacks:["mod/subtle_effects:resourcepacks/biome_color_water_particles","minecraft:supporteatinganimation","file/lower_shield.zip","file/blinking-totem.zip","file/DetailedAnimationsReworkedXJustExpressions.zip","file/FreshAnimations.zip","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -21,5 +21,4 @@ key_key.raised.options:0
 key_key.fbp.settings:0
 key_key.fbp.freeze_particles:0
 key_key.fbp.add_to_blacklist:0
-key_key.resolutioncontrol.settings:0
-key_key.resolutioncontrol.screenshot:67
+key_key.inventive_inventory.sort:28

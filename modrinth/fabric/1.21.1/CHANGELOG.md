@@ -1,6 +1,6 @@
-## OptimumFuse [`1.13.4+fabric.1.21.1`]
+## OptimumFuse [`1.13.5+fabric.1.21.1`]
 
-🗃️**Detailed Changelog:** [**1.13.3 --> 1.13.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.13.3...1.13.4)
+🗃️**Detailed Changelog:** [**1.13.4 --> 1.13.5**](https://github.com/UltimatChamp/optimum-fuse/compare/1.13.4...1.13.5)
 
 <hr>
 
@@ -15,29 +15,20 @@
 
 ### 🛠️Notes/Changes
 
-- Turn off **Subtle Effects**' sparks, in favor of **Fancy Block Particles**' 3D particles.
+- Fix **Held Item Tooltips** covering the armor bar.
 
 <hr>
 
 ### 💡Added
 
-- **3D Skin Layers**
-- **Skin Shuffle**
-- **Sodium Options Mod Compat** + **TxniLib**
+- **FixMCStats**
+- **Search Stats**
 
 <hr>
 
 ### 🔄️Updated
 
-- **Chat Heads**
-- **Concurrent Chunk Management Engine (Fabric)**
-- **Datapack/Gamerule Menus**
-- **Fabric API**
-- **Fzzy Config**
-- **Inventive Inventory**
 - **LambDynamicLights**
-- **Odyssey Lite**
-- **RP Renames**
-- **Scribble**
-- **Sodium Options API**
-- **Sounds**
+- **ModpackUtils**
+- **Sodium Extra Information**
+- **Translations for Sodium**
