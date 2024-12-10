@@ -15,6 +15,10 @@ on:
         description: '1.21.1 NeoForge'
         required: true
         type: boolean
+      fabric-1-21-3:
+        description: '1.21.3 Fabric'
+        required: true
+        type: boolean
 
 jobs:
   publish-to-modrinth:
@@ -36,6 +40,12 @@ jobs:
         with:
           files: modrinth/fabric/1.21.1
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.mrpack
+
+      - name: Zip fabric/1.21.3
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.21.3
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.3.mrpack
 
       - name: Upload to Github
         uses: actions/upload-artifact@v4
@@ -89,6 +99,32 @@ jobs:
             fabric
           game-versions: |
             1.21.1
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - if: ${{ inputs.fabric-1-21-3 }}
+        name: Publish fabric/1.21.3
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: nQYjpo27
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.21.3.mrpack
+
+          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.3
+          version: ${{ inputs.version }}+fabric.1.21.3
+          version-type: release
+          changelog-file: modrinth/fabric/1.21.3/CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.21.3
           game-version-filter: releases
 
           retry-attempts: 2
@@ -161,6 +197,13 @@ jobs:
         with:
           files: modrinth/fabric/1.21.1
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.mrpack
+
+      - if: ${{ inputs.fabric-1-21-3 }}
+        name: Mrpack fabric/1.21.3
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.21.3
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.3.mrpack
 
 #      - if: ${{ inputs.fabric-1-21-1 }}
 #        name: Zip fabric/1.21.1
