@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "overrides": {
+    "chatpatches": {
+      "recommends": {}
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "jjelytraswap": {
+      "recommends": {}
+    },
+    "make_bubbles_pop": {
+      "recommends": {}
+    },
+    "wakes": {
+      "recommends": {}
+    },
+    "deleteworldstotrash": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "fancyhealthbar": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    }
+  }
+}

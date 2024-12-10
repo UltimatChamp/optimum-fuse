@@ -1,0 +1,29 @@
+{
+	menuAlert: true,
+	chatAlert: true,
+	chatMessage: "There is an update available for OptimumFuse!",
+	modpackName: "OptimumFuse",
+	modpackId: "optimum-fuse",
+	localVersion: "1.14.0+fabric.1.21.3",
+        checkMcVersion: true,
+        versionType: [
+        	"release"
+        ],
+	chatWelcome: true,
+	chatWelcomeMessage: "--- [<modpack-name>] [<version>] ---",
+	customIcon: true,
+	customTitle: true,
+	title: "<modpack-name> <version> | Minecraft <mc>",
+	mainMenuCreditsIntegeration: "CUSTOM",
+	customMmc: [
+		"Discord Server",
+		"#7289DA",
+		"https://discord.gg/kfKjjhv3pn",
+		"<version>",
+		"#FF00FF",
+		"<version-link>",
+		"<modpack-name>",
+		"#55FF55",
+		"<modpack-home>"
+	]
+}

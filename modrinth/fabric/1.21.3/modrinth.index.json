@@ -1,0 +1,1783 @@
+{
+  "dependencies": {
+    "fabric-loader": "0.16.9",
+    "minecraft": "1.21.3"
+  },
+  "files": [
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/s4DtR8IM/versions/eG9e1gnS/BetterAddServer-1.21.1-fabric-1.2.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 20153,
+      "hashes": {
+        "sha1": "e99cd0bb18f7f948dd1ca7183a79568b118628ed",
+        "sha512": "8f616e4021eacde9d611512a5009a81ce8ffaf19e0e2abbfd30c2b72237518d9cd0931a27413db6823f0db91bb602829eb925904805412dd0d210192b39a7e33"
+      },
+      "path": "mods/BetterAddServer-1.21.1-fabric-1.2.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/m5T5xmUy/versions/gN12vxiW/BetterGrassify-1.4.1%2Bfabric.1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 152476,
+      "hashes": {
+        "sha1": "0ce1d992e493f76f428beb1d88a61c418efc51ef",
+        "sha512": "d5d5ac8b90181985ceefa84564d80d48684ba602dfa19523a8876f1cd093f529510b2e4b763ac2194a14bc98ff4861424cba588efadcdc013b27a96fa71810f1"
+      },
+      "path": "mods/BetterGrassify-1.4.1+fabric.1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/G1s2WpNo/versions/Zlx9A1Bl/BetterThirdPerson-fabric-1.9.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 52329,
+      "hashes": {
+        "sha1": "f1dfe7736b2a812422637a77ab2a7901e4e463a7",
+        "sha512": "c46820d85f7312a251783e13156338a7e0c674a67f4a278f1c80f15f35ae9b96f82a5fc968562473d14d2c68eec25201dca1f6f0f529643faef804ac044ddb09"
+      },
+      "path": "mods/BetterThirdPerson-fabric-1.9.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/7uMjHmML/Controlling-fabric-1.21.3-21.0.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 83442,
+      "hashes": {
+        "sha1": "56eb13c62c93b48d49d9243e653918faf94805ab",
+        "sha512": "b9952f14728bb53650a1f63bdf705ff9f775ac592963f90cfa03d853892a2277e920586c218f8178306c5c670238f9e0e2eab55f0941ed04c4b4b5552b066100"
+      },
+      "path": "mods/Controlling-fabric-1.21.3-21.0.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/QwxR6Gcd/versions/WdrLmFvp/Debugify-1.21.3%2B1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 303527,
+      "hashes": {
+        "sha1": "77b00217c50234c6d14d85243738d08ae0ae8b6b",
+        "sha512": "d58ee6cd3522e93e3bf4969d1e888b9e74771435b7ff34f8b1ad0eb639d1e9747cb7884d18e27219960b7b5eaf8299b0df8eec7f7193889cb236ee44143678d4"
+      },
+      "path": "mods/Debugify-1.21.3+1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/7diJQfvM/versions/7RnxZRew/DeleteWorldsToTrash-v21.1.0-1.21.1-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 58960,
+      "hashes": {
+        "sha1": "c42bd0c5c01110fe399bd99bc30335db03c8efec",
+        "sha512": "beeaae75cf798289172771258b66d41a223098e0e859414d4581e3c74d8481a7234e21b505e2fa68c14ec178c5d057e8d5c63ca4df6c4407d7dc5ecdd9beb3ef"
+      },
+      "path": "mods/DeleteWorldsToTrash-v21.1.0-1.21.1-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/hAt6ty93/versions/LXTkh6x1/DetailArmorBar-2.6.3%2B1.21.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 52717,
+      "hashes": {
+        "sha1": "9f66ffb429cee5a87f188dc78b6316a54fde9738",
+        "sha512": "03da64915e567b556cceffcd7a2410ce1bb1b5bbf197b7ab59838502f3f70ec8c8c9f896a04e476e7134d69598b9dd53d2a8443a967da3c10b333e82b6419927"
+      },
+      "path": "mods/DetailArmorBar-2.6.3+1.21.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/S2guHrs2/versions/YxQy53pR/FancyBlockParticles-1.21.3-fabric-21.3.1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 290415,
+      "hashes": {
+        "sha1": "b6bf6d7a7efac94cb57d1a76119046aac17c338b",
+        "sha512": "e56948fe47b970db209eef330830663f54444bac78d827027b946133cb78fcdb4516a94bb2a485af27800f0d81cb71c70b9fb0891833576a16b2f22c09375be6"
+      },
+      "path": "mods/FancyBlockParticles-1.21.3-fabric-21.3.1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ohNO6lps/versions/rfzwvtf5/ForgeConfigAPIPort-v21.3.2-1.21.3-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 640194,
+      "hashes": {
+        "sha1": "8e8040ee4419cebccd731bd79a6c29dfb385dddf",
+        "sha512": "d34f6c3c7e9fa0c4f9ec4f5c203d0ceeac0b4acd9fffa62ecfeb1ae6efe72ac85d8ecb7fb106ab9a1ed3f6de0faa4863c13e2365f524f71dc3c3f50f95355d15"
+      },
+      "path": "mods/ForgeConfigAPIPort-v21.3.2-1.21.3-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/3wWtgZGB/versions/DhDAIdkO/HeldItemTooltips-v21.3.0-1.21.3-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 73940,
+      "hashes": {
+        "sha1": "36aef3630da05dc0c842dc888819d02baf6b5904",
+        "sha512": "5985a9e53561762b71b7d07a7a3272b3e557df37f5dbb3dbfee77f672b906fa0fcbdf1884b99212954a0fa342df237d34949fd02b8d534acc10d7a348275d4d8"
+      },
+      "path": "mods/HeldItemTooltips-v21.3.0-1.21.3-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/jzTwtSjE/ImmediatelyFast-Fabric-1.3.3%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 211823,
+      "hashes": {
+        "sha1": "8703804635fc11d4ab40689ac6492084364b0b3a",
+        "sha512": "4c68350d36bd59becbedf528c7db04d36d306628053175619ec7da702255b17ecc73c4d8270ccff6c8d4a825867fcace4ee28376a4ef4294d1aa140c7dbe38d0"
+      },
+      "path": "mods/ImmediatelyFast-Fabric-1.3.3+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/gK9mebQg/versions/xVKhrSW6/LeaveMyBarsAlone-v21.3.0-1.21.3-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 51216,
+      "hashes": {
+        "sha1": "4adcca0d57d79eaf7bd0971962e5acafca963c77",
+        "sha512": "60932ef6419a5b65c1bb20a2af4b68c349441aea220d88b8ab6bdcf8655fe91b989d1e62fd317129ba517a23503b435e697f01bac73f6e47a61262c880a88536"
+      },
+      "path": "mods/LeaveMyBarsAlone-v21.3.0-1.21.3-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/SNVQ2c0g/versions/1ldByxW8/MRU-1.0.4%2B1.21.3%2Bfabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 106199,
+      "hashes": {
+        "sha1": "3796ec651a2ffbe9c44669a683cac8ff567793b2",
+        "sha512": "64b8ff8aae22b33e05b2d1fb041ac5a9495a00b69c31759a112e265a80e3e2d504736f5944314c4f52a74e8d041973ec3b7258a878b5ce57757e06272047e007"
+      },
+      "path": "mods/MRU-1.0.4+1.21.3+fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/wklFEiuR/versions/W2FHbzxD/ModpackUtils-1.1.0%2Bfabric.1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 45775,
+      "hashes": {
+        "sha1": "be05435a8c0654f85a63bee0a3f5daa3a50eb255",
+        "sha512": "7fa4ba5bee90dc77d5c82e1a7d9fb861a8baa5ebe5fa671a86aa0bfca6be9e054f99a9b017a470982ae0b6b6a3c802ef0a4423b7f3933e0223160bcb60679ef0"
+      },
+      "path": "mods/ModpackUtils-1.1.0+fabric.1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/dMSwti7t/versions/SYGgbnvS/MoreCursors-1.0.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 53525,
+      "hashes": {
+        "sha1": "abd4c86b2a4e7b646a50736791983a9dae3545b4",
+        "sha512": "2027a021e2067b2c4b2849cc1858cdbb770ee1d5f9c3c9fff8442dd5a634b75387aae5739a27d23cde847e4aadc1880a0b50114b42a24aea29481cd6601ab442"
+      },
+      "path": "mods/MoreCursors-1.0.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/qQyHxfxd/versions/Cg7X9iDa/NoChatReports-FABRIC-1.21.3-v2.10.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 309729,
+      "hashes": {
+        "sha1": "92961394b4dd5c04558573e9f576eb0b0f29fbde",
+        "sha512": "8f1163ad515ebdfab5ef54a4985af05e643749c2efc0bf7b62e00074bbe61d91789b0c9e558bbe1b5c5d21a89b88084ce6350a11a5a9a3bea59eea9764a27171"
+      },
+      "path": "mods/NoChatReports-FABRIC-1.21.3-v2.10.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/6kI7U1sT/versions/9RZtj4WH/Pick-Block-Pro-1.11.32-mc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 139743,
+      "hashes": {
+        "sha1": "885e1d69567b6cf7ce8ad171bcbb2b8c97481bac",
+        "sha512": "cf83c26014fa4195bf6f1037b6b0dd1e4b7305521e132f14ac89520575fd57e2fff4094f0d45e3dca42d545c35f206c6b58f63d2d4e95eaa104d6d2b384f9ce6"
+      },
+      "path": "mods/Pick-Block-Pro-1.11.32-mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZX66K16c/versions/B6wdQ9A4/PickUpNotifier-v21.3.0-1.21.3-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 94808,
+      "hashes": {
+        "sha1": "70dda76a39f4cf76451d7fced244fd260fc03b09",
+        "sha512": "4216b65609eae8b4fbb09c45c808253d30afae626b09dbe172c4868bc8e52c045bd6e8e316fffa24dbd81187d5441a0a01490330e82f79b3a8ed9628f1161d3b"
+      },
+      "path": "mods/PickUpNotifier-v21.3.0-1.21.3-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/oT54ACrp/PuzzlesLib-v21.3.12-1.21.3-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1108352,
+      "hashes": {
+        "sha1": "9cc01d17a7e1eade5bc78c4cc2fb72ec0ed39569",
+        "sha512": "06ba6712c1832681cc6c1ba73cfce19be53bc4b0fa84ae6165d2050b9ace2060774689bc948a3b9c14959851c075f30bff2eb523d7ee1c8668da2ffa42844bf6"
+      },
+      "path": "mods/PuzzlesLib-v21.3.12-1.21.3-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/RLzHAoZe/versions/h2oKLyrP/Resourcify%20%281.21.3-fabric%29-1.5.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2475476,
+      "hashes": {
+        "sha1": "782168fb7ae8519bdd0c66d83f54e3345b83feeb",
+        "sha512": "ff21c3badc48802dd9e94c880dd4da5f85a62aebd3b1b85b0434016b007d3d595ea85d3a43fb5593c3a807c96dfc15e1d34a9b1eb6d34bd6d4813830da9d55cd"
+      },
+      "path": "mods/Resourcify (1.21.3-fabric)-1.5.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/DUpB8IQV/ScalableLux-0.1.1%2Bfabric.452731d-all.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 139068,
+      "hashes": {
+        "sha1": "ad82869ee5ea17289289d321f0b2ce562a116b63",
+        "sha512": "2f985e3bcca07eea0771ab5a88eca433460510f11af0efdfa01d2ffeb5f8628b3a12100ec50db2d2aa9567dd11684e027d9442be16f7e658ce5946706d9e4f6b"
+      },
+      "path": "mods/ScalableLux-0.1.1+fabric.452731d-all.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/yXAvIk0x/versions/ZRfL1QBA/Scribble-1.4.2%2Bmc1.21.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 174157,
+      "hashes": {
+        "sha1": "0536aaef606e334f5ffc52532639849d41c02124",
+        "sha512": "fc22cbde8ec635e478d3ac54224d82491c5a128a3f470bfadc3fe48befcbf60a267628f62902031411cc58fa8372d2bc94842f4fd903751fb57ea5cfe3fe11ef"
+      },
+      "path": "mods/Scribble-1.4.2+mc1.21.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/f7NEJ73Z/Searchables-fabric-1.21.3-1.0.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 79535,
+      "hashes": {
+        "sha1": "32f1b0793f3132bbd051b0918bd3d7c5e66c69a9",
+        "sha512": "12ded2dc281af664e72702d885bbea9688897adaa22a11578c626a8af66515a828eaa4467f6c92d0f46730b3a7b3cbf641363412d31ef2978934405fd3252c27"
+      },
+      "path": "mods/Searchables-fabric-1.21.3-1.0.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/NJGSUuLp/versions/uNFxGG4a/ServerAddressSpaceFix-0.2.1%20mc1.21%2B1.21.x.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 12846,
+      "hashes": {
+        "sha1": "d240d7fa85934d027f5eeb39b6507d368b4d5969",
+        "sha512": "d6baba3fbfd224ff749594b37f8a9d6014dec8ea60b2f98bab353738d96f9c0c72c313ffff8b566ff925d23739e9674f6b25b159a7846be35ae52f622c90a98c"
+      },
+      "path": "mods/ServerAddressSpaceFix-0.2.1 mc1.21+1.21.x.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/3s19I5jr/versions/ANRSZ19N/SkinShuffle-2.4.0%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 7713273,
+      "hashes": {
+        "sha1": "2e8b68ab8c19fdd46ece3d7d1deac3a995e101a9",
+        "sha512": "34678fbd5901d944d43e6ad46d74988554770496296cf78ef25fd4c90f67ad24e1b2ee16a65b481e7c0d4d6a1d17eec7a109a5d96cf90a70a9d717d2d5ae896b"
+      },
+      "path": "mods/SkinShuffle-2.4.0+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/696WgnvT/versions/dkwqOT4B/SodiumExtraInformation-fabric-2.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 55496,
+      "hashes": {
+        "sha1": "9556ad4e7452fec1ad12f0670ea3765a59ff040d",
+        "sha512": "7a2c95e38c5c5f84665d90ef64890282f84de673190e6dce1b7e469222d31fbf9120270d8ac7cec8ba879bc6581d6ac69da69dcc7a9319cd46703789c22c3012"
+      },
+      "path": "mods/SodiumExtraInformation-fabric-2.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZouiUX7t/versions/CtNybgnw/Sounds-2.2.1%2B1.21.3%2Bfabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 10471912,
+      "hashes": {
+        "sha1": "b6b3d7fbe0cef9dc2e3a0048d2ba685ad88d2677",
+        "sha512": "d676bbaa4c86887e2a543141d9b8fe7b235b739dc9707492c1e0f4576213bd3756ed0f9796b35dbdf8eca2e63a21dd2dd3bde90476dccd370beef53be08164f4"
+      },
+      "path": "mods/Sounds-2.2.1+1.21.3+fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 321213,
+      "hashes": {
+        "sha1": "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163",
+        "sha512": "ef851d54a60e223e90cfd21da91effcdc70175dd32b194366ca3ba29646c9ebdbfb60a1eaa88070c4e9f83bd654da1344e67226dfdf5c68140db4ef693361353"
+      },
+      "path": "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/4q8UOK1d/versions/sdvKHWMe/SubtleEffects-fabric-1.21.3-1.7.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1532210,
+      "hashes": {
+        "sha1": "1b83db0e8a9ea08265af677ebef98c351db8ab8c",
+        "sha512": "3e6b96c8af3108c3f44244f522545b64b6a987ad4d7439f8d1a0c37063d53e45d5462703dd282d2ff7aef4f3deb33249fd7b8896958334ac1c95bd1471845314"
+      },
+      "path": "mods/SubtleEffects-fabric-1.21.3-1.7.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/PLAGcSFJ/versions/MasHYMot/Texturized%20Particles-1.0.1%2B1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 275102,
+      "hashes": {
+        "sha1": "39cdfeaa39063a1a35cac09bc4ca0070d2a697d1",
+        "sha512": "e8d25e075ac33942e5a800f2caaea2354286b451c9d63328d5dc3ec5b6b96d836ecc5ac40a9d0bb22a566349cae3ee0f5884c5f2f7000e20475f19d1072db2e1"
+      },
+      "path": "mods/Texturized Particles-1.0.1+1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/TOvVcn1z/YetAnotherConfigLib-3.6.2%2B1.21.2-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1108532,
+      "hashes": {
+        "sha1": "f744fffa9c41ea73f8f937e142cffa670467c38f",
+        "sha512": "9f459b80e22f37a66f50ca917d8bdff6efec7e0abde0a209cd32d84d40e52dd39ca6bd70d6c7b48c850800f6d78cbf5cc28b18b1f6eacaa3d4228f7e66c0b675"
+      },
+      "path": "mods/YetAnotherConfigLib-3.6.2+1.21.2-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/7BgsROit/versions/zK2oAq2Z/advancementsfullscreen-mc1.21.2%2B1.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 16178,
+      "hashes": {
+        "sha1": "0c70f75691ba7c275038eb66e48d4b3014907674",
+        "sha512": "be607f11c67e705797f960f4711db40d252d46fc03570ecedd4644a7b4fcb82d80816b9c41594fbd45e61a1e1830eeff0f4551c48e4dccbdb41a65ec7da1878d"
+      },
+      "path": "mods/advancementsfullscreen-mc1.21.2+1.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ccho67RI/versions/uxv9eWfv/advancementssearch-mc1.21.2%2B1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 33101,
+      "hashes": {
+        "sha1": "e28c11e94690c2cc630d4e0334ad731b1a783992",
+        "sha512": "7d049a08c6055881e14761ef7a4ae6fc410b8d756f44c46c62de6b33debfd89ddf94ee455f8bc9ea894cb9361771f0820dc5637867778b10f81d978312cc4d60"
+      },
+      "path": "mods/advancementssearch-mc1.21.2+1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/rjsZCeTS/versions/mSWLclZV/better-highlighting-1.21.2-0.1.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2175489,
+      "hashes": {
+        "sha1": "1fec6dd83dccfd652a083d9207be9c9c472aa9d3",
+        "sha512": "242af0e2cb66453b470e4be3e5b21f99a576edfd9059bacaf96beb47194f2be197c4b952bf29cee8ae895138db2777b030f38a60b6e4704e3521394ca7893f45"
+      },
+      "path": "mods/better-highlighting-1.21.2-0.1.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/HfZKWsjM/versions/LN1VdKUs/better-suggestions-1.21.3-1.2.8.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 131768,
+      "hashes": {
+        "sha1": "884a9e2ba4164ed30f3fe3397dbf4afe2f6ae73d",
+        "sha512": "695b0007a59894295ff0d6c59a878449841ab79238d33cb35c491b2baeab9718f94f1a4ebf1b05744e051a1a646c6be255fad349a21b1985c8e85e9db7e5d490"
+      },
+      "path": "mods/better-suggestions-1.21.3-1.2.8.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/ucOmJ6G4/bettercommandblockui-0.5.2a-1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 170374,
+      "hashes": {
+        "sha1": "e923af608c8ecef1011ca237c0678105ac1813bd",
+        "sha512": "1cf613826250c5283cc3bfd5e474b0cc4eefe8c1c0ce1a86d52eb611f144dc7768ded5be103e1f71f9a6879234b333a7a05845e49def6fb29a60853f09fb71e0"
+      },
+      "path": "mods/bettercommandblockui-0.5.2a-1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/7IYFNtNn/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.35.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 4656616,
+      "hashes": {
+        "sha1": "be27ad06101af604074eff07fcc0c7ca97b455f3",
+        "sha512": "bf40701ad82fdfd23ea58e3444c2b48aa538ae2558b750a0b038b3a079f5c6e339496832e47c906677c3e1b4960d3823c9981782e20a126e1e3d6d8a852b87f5"
+      },
+      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.35.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/89Wsn8GD/versions/mkf1dFwO/capes-1.5.4%2B1.21.2-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 77184,
+      "hashes": {
+        "sha1": "6f6931387989429dce7dee795c87db8ca2350fa2",
+        "sha512": "31c2cc5e3ad68884dc9dde34e4844e810b22fcbe3a2b786f6fb769e5d1b32041c9045ac35c537285c86cca9de69957a025b0286a7e29b49076fe0b6c88179120"
+      },
+      "path": "mods/capes-1.5.4+1.21.2-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AusxLkpx/chat_heads-0.13.7-fabric-1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 76507,
+      "hashes": {
+        "sha1": "ba0a58e33f94d1fa9720a1c88e57b7581beb4a03",
+        "sha512": "690ddac54c4c0242d606846df903541da0e4b9db4bd5f4e80b56989dd541f8208d73645458891f1834ae19a334fe96ef9837e501d4f7586642d85b0f4a8cad28"
+      },
+      "path": "mods/chat_heads-0.13.7-fabric-1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/DnNYdJsx/versions/O4wSETwq/chatanimation-1.0.6.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 553941,
+      "hashes": {
+        "sha1": "1fac1afe2e82f57be516d94f8b5e85db882653ba",
+        "sha512": "b4725b7a8da86f5e550225564de712af80a8a1f3c30f070942ad791ef477907a04d109742a44f185e892dd5aaffff4bbd4da1fa729fc98e2ccb9f97ec2cc02d9"
+      },
+      "path": "mods/chatanimation-1.0.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/MOqt4Z5n/versions/mZBQP94c/chatpatches-213.6.9.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1895687,
+      "hashes": {
+        "sha1": "eff3b808502153cb365469c9ae03a3536e44f5af",
+        "sha512": "5bca145dbc0e1a6e504c3b8af0cf9cf9fc4e92d0cbd9ead6b133611b2cc2b8f398546afff2b92135b7e2e70bea456d5906bcac4579dcd3cf78fff64977394813"
+      },
+      "path": "mods/chatpatches-213.6.9.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/JbVSQUVw/cloth-config-16.0.141-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1153258,
+      "hashes": {
+        "sha1": "1fddc6ec979131a3623ae6b6a4f6c631b5f6f45d",
+        "sha512": "f8b0fa16fe80a8b78a059ebf1cf366d65132b1dd1830d8b689ecfc731696514e2b3dd73903fbb37d0a5f3d853aa521827bf7ed6fb5d9db245c6afd7ffb9e2687"
+      },
+      "path": "mods/cloth-config-16.0.141-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/f8QTxwTe/versions/P1KYBjKr/cloth-gamerules-1.2.0%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 28180,
+      "hashes": {
+        "sha1": "9683a15b9b53e106e2e202153cd13d132e1cda02",
+        "sha512": "29cb0041f4ba5f70d35e3dc76d24cd44cb79e0c6a6997fcc8a6ec1ff741175fbbfcd3422b620cf0dea7dc4595b664a992e6ca69ac9702e47303d66876b876427"
+      },
+      "path": "mods/cloth-gamerules-1.2.0+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/1IjD5062/versions/kwuHTVHC/continuity-3.0.0%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1003345,
+      "hashes": {
+        "sha1": "e2a280b9abed4a2e2d95b34266695d1107ddd344",
+        "sha512": "34f8817512e5294843f0cc97faf50c6bf5bfbeed614010fa944bf3a97e33b3b7ffc5cb553d9b9f1c435cc23819d35744ff6cb86b293530d58f4711c2145c97dc"
+      },
+      "path": "mods/continuity-3.0.0+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ETlrkaYF/versions/7JJnrLXi/cwb-fabric-3.0.0%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 80793,
+      "hashes": {
+        "sha1": "101dffee2666b23e51c1b7e810e9455a5c41a0de",
+        "sha512": "563d996e6426ffc971a6dd7686f3870254704411cd24fea95b12e8d1af2118c11ce7234052ddfd97f7178ef6432dfe785c4b2b665f74b31b6bc4d64c27d740e9"
+      },
+      "path": "mods/cwb-fabric-3.0.0+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/h3XWIuzM/versions/D3zQNGWs/dark-loading-screen-1.6.15.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 44181,
+      "hashes": {
+        "sha1": "1a90777efab72db28f93c2b6fc432fe51632ebfa",
+        "sha512": "2330d59533a88e1a21291fcbfc00eb9bb8a0a651a1ffb557d5aab00ebe6cd152e1ae7f4dcb0d33c9923adb427e1d98340c4834b06af130b9b11cadb52a298ea6"
+      },
+      "path": "mods/dark-loading-screen-1.6.15.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/qsyTzDui/versions/E4Cc0V3J/datapack-reload-helper-1.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 29980,
+      "hashes": {
+        "sha1": "1076053e64b8aa7c9b6f5de9e065a975c549fedc",
+        "sha512": "40602e964d884dd8923ee4e8e1e08a0235e3e850c5c501143da8dda9ad7c2987216c7b73bef88386ed642c5c7b285cff485a6cac78e232af41184b4bc577dd44"
+      },
+      "path": "mods/datapack-reload-helper-1.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ADFOAsco/versions/rjVySNeQ/deathview-1.0.1%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 127447,
+      "hashes": {
+        "sha1": "030988b27e302bc5d68117297a62dc7a66c3070c",
+        "sha512": "fed8c5a5b93a1b66395091d16a59c73e11e6e83bb8861948d9a50d3d8a8ff879a555702129c05fb5f5d6fcfc08b521609136dc0fc44bfb852c97d3142c4e1caf"
+      },
+      "path": "mods/deathview-1.0.1+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lCPnAoak/dynamic-fps-3.7.7%2Bminecraft-1.21.2-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 182490,
+      "hashes": {
+        "sha1": "b2f59151a4f2b591563d7bb25ef644849e01fd9b",
+        "sha512": "4f2791c8fb873ec1e666b1983b1c4028e4954a054b1a39550ecdd1a7e5579e5ca0aa667f24d9682384cc7757698098018df78781be27dd5a37e54d09613bb4a6"
+      },
+      "path": "mods/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/qANg5Jrr/versions/ul9OslWB/e4mc_minecraft-fabric-5.2.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 568993,
+      "hashes": {
+        "sha1": "e30026f55843361ea9ec49dc5c06b27bae2c5544",
+        "sha512": "8d2b458ee9e1dd8a57b990cbd6d8355f3e0df00797b0e3eaa5fe070030ea1e8ad92144c8ffb8a189271f7a6cd8d8eebe6b048c1f96d042bc83e8cf8d74589a86"
+      },
+      "path": "mods/e4mc_minecraft-fabric-5.2.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/lS8sHS85/versions/sv3vQASt/edgelesschatscreen-1.1.5-fabric.1.21.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 18530,
+      "hashes": {
+        "sha1": "07bb15decf081b5d1a6760349bd94b4b3161b101",
+        "sha512": "e736445ace4e90ca945ade05eb0fe4588cfcbebe8d8809474ef69744a8fba1dd5840c7bfb5b18bec614ba0f4e7dba6889af5351bba76f658efb35d023c18c907"
+      },
+      "path": "mods/edgelesschatscreen-1.1.5-fabric.1.21.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/YHdR6hMt/versions/zsg3JNMY/enchantment-lore-1.5.1%2BMC1.21.2-1.21.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1354823,
+      "hashes": {
+        "sha1": "39a9df6d9c5da5af7026a0819c8038bf0db983f9",
+        "sha512": "c28adfea845e57f4dce93c4801ad094c2bfa79b570eac9c3f38ec60e4439288de011c39eee4b6e32729eb86ef333b7e2800e035f6d5fbbc75924005e2d99f160"
+      },
+      "path": "mods/enchantment-lore-1.5.1+MC1.21.2-1.21.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/7QfUzC3f/entity_model_features_fabric_1.21.3-2.3.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 423984,
+      "hashes": {
+        "sha1": "418ee42b7472fd3772ed47fc12d2866ef7cb12ec",
+        "sha512": "e0ced057b755369a6c840511a313a66f97f79e567862e1cb217f1573ccd3131aaa99ac437f4711b86284534c96ae4120981ad3925af480e693a5dead2baac5ea"
+      },
+      "path": "mods/entity_model_features_fabric_1.21.3-2.3.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/IMuO8COj/versions/FcXkMfRj/entity_sound_features_fabric_1.21.3-0.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 98226,
+      "hashes": {
+        "sha1": "c32a5f8b3108d4ba1e848f5bcd228a1ea0a21182",
+        "sha512": "80c6043fa1cd29137d04b97efc5466a7d45a8a91be499e688cbce431ad30eaaf30c2900404158fbd9e86468d496162a868a28cb2b551dfaaff125156de0b0087"
+      },
+      "path": "mods/entity_sound_features_fabric_1.21.3-0.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/LEywH685/entity_texture_features_fabric_1.21.3-6.2.8.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 645798,
+      "hashes": {
+        "sha1": "c4ce8fb3df43e219e7500d98def910d5b0066180",
+        "sha512": "c88322bf026a875c528989283ed80fdd6eb3e8a2ceced85a05a1375f7a1e0a7aebbf594c7a4c3b8d3f187036281611f0af02eb3766d87e0435cd3a291edb07ea"
+      },
+      "path": "mods/entity_texture_features_fabric_1.21.3-6.2.8.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/J3KKcEph/entityculling-fabric-1.7.2-mc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 67916,
+      "hashes": {
+        "sha1": "480b6f98ec5bf61378b46435cd96afac72e75ae7",
+        "sha512": "fdf476926cb7974cb39e87a5d1ac5a84f232c8e556b92eb2766697ec419abbf73df1edb24eb6579a97cd4884f4ea54e16cb94b00e0789ac08b7a9f60c5155bb8"
+      },
+      "path": "mods/entityculling-fabric-1.7.2-mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/bQzqZbjS/fabric-api-0.110.0%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2346038,
+      "hashes": {
+        "sha1": "627f424ee9c7ef15ce83b744673511ca74dc6982",
+        "sha512": "97d329c4e5ca54656c891f24c1bbbe1cf51a8a586d81586692d7135dd7135f62a17aa42e5825715fe41c79c3097538139f1a7f21ab6be2797d2a816114a5e298"
+      },
+      "path": "mods/fabric-api-0.110.0+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/csX9r2wS/fabric-language-kotlin-1.13.0%2Bkotlin.2.1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 7089756,
+      "hashes": {
+        "sha1": "e3d4ebcc5aef85967ba622f9631e0897cbcd4e2c",
+        "sha512": "bd6acac5e2196aae0095ec453aec46d54e0d925289895fac94b1426cabd3db7e275302502475c61b9719fc8f026e7aaa305122dcdf374c58620bc38b8b4e99a7"
+      },
+      "path": "mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/a3QXXGz2/ferritecore-7.1.0-hotfix-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 107124,
+      "hashes": {
+        "sha1": "065410c520d858893c8f130d32f63a11317d6119",
+        "sha512": "ae1ab30beb5938643cf2ae7b8220769f2c917e3f5441e46e9bc900295348c0a541a325c30b8dfc38039205620d872c27809acdc6741351f08e4c8edc36ae2bcc"
+      },
+      "path": "mods/ferritecore-7.1.0-hotfix-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/LIYB1RfI/versions/n6N7mU7d/firehud-1.3.1-1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 112056,
+      "hashes": {
+        "sha1": "78f195160d4ade55fe6fc005395e39b142f364c0",
+        "sha512": "464d9ab0f0c2b0d1f94b8533ed8c51bb06afc92d23506a66a45c02792865ee2385fd76f2bb12052ac084e16ab2248f6c9182303839d2eb262c1f830094f79140"
+      },
+      "path": "mods/firehud-1.3.1-1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/SQKipbkd/versions/z6cfiPOs/fix-mc-stats-1.3.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 61527,
+      "hashes": {
+        "sha1": "0a53a50a022bf95d15ecafaf44ec6bba7f6a6422",
+        "sha512": "936cddd547da332449ae341504dba61f6e46d1b4242cf1b365a0169d5eee17f9412195e42bd0c766dd955084cb0330dca1db9f17df65f4b20352d7e6ec855fd6"
+      },
+      "path": "mods/fix-mc-stats-1.3.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/XeEZ3fK2/versions/J48ZjNmR/freecam-fabric-modrinth-1.3.1%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1144038,
+      "hashes": {
+        "sha1": "459c2f6a311213948c41c699ad54573532d25680",
+        "sha512": "3165e623f35f305032f9f5e06b43e3e45aba2818b3c437584cf98773b926d8bf04e6ab90b32e3f6e593d3a88289cd22daf2c5cf5b844806bd2a96602c08dddf6"
+      },
+      "path": "mods/freecam-fabric-modrinth-1.3.1+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/PsmtTxVa/fzzy_config-0.5.9%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1544601,
+      "hashes": {
+        "sha1": "bae6f81f308aa4564a53d92c925cf45b4fdb59f4",
+        "sha512": "57ba66cba42f5af670f30e92dce6fb8d38a2b64524057241ea3a2b5bef8375a3c1a21e0915636328bed3b345f5dfd7a13739bbba52b32bde76032071df83772e"
+      },
+      "path": "mods/fzzy_config-0.5.9+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9XQIg3HN/versions/nlOdlX6E/i-see-you-over-there-1.0.3%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 50333,
+      "hashes": {
+        "sha1": "89aed65d823bcdb9e1243d6d768257ea0fa2534e",
+        "sha512": "ded4b7df2e05af3faca193f557c0e7e20db7a901ca4f4d565e84e48d32f926b6a879ee4601a42b165e260255123b1571a62a7e215af648a28de01a5c41b876ef"
+      },
+      "path": "mods/i-see-you-over-there-1.0.3+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/bUHfVbsa/versions/k6gToMFR/inventive_inventory-1.1.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1086612,
+      "hashes": {
+        "sha1": "f352418f7ebdd4e831fc98e28973f13d4cce367a",
+        "sha512": "cdd77bfbdc6b68a2f5177d321baad4c15af5555114439ce406ce6a5ed143ed4f0fc8747351d47e8ec1c27952b23de9f403ff8fe3c9a490d5ab5d4d2281e7d9da"
+      },
+      "path": "mods/inventive_inventory-1.1.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/xQYJAYTI/iris-fabric-1.8.1%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2663618,
+      "hashes": {
+        "sha1": "8a619bc45540a4f3eeff17d9427bbd343669f291",
+        "sha512": "127829ee7359309913c84fe47782053cc39ba72f763321e2102e068a61756bdfb2ee8f6cbcbdff71f5ea1c4cbac8ffdb36e0864acbb541aae0d03f4a5c60c0c7"
+      },
+      "path": "mods/iris-fabric-1.8.1+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/vuWNr14n/versions/4VeEKlR8/keybind_fix-1.0.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 16312,
+      "hashes": {
+        "sha1": "d99355fe589dfb41b2d7d7e2c20b733ca3a086d8",
+        "sha512": "c8c75e78be39a79875543d4b2134d804ccd289d03b377eb7048065becf103375627a9e305da074f2b53a548f238bd3788c10b63bbb92d15b278ab5c7e3f30b92"
+      },
+      "path": "mods/keybind_fix-1.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/7kUVMXJG/lambdynamiclights-3.2.4%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 849827,
+      "hashes": {
+        "sha1": "0b8e91d7ceaaf21a309338efff3f43fc059e583c",
+        "sha512": "fc0ea80ccdd75bf8ae099129992ef225afbbd5ae6406366ec1c6bf77bde659851314daf81cc2fe8ca7217bd1e6aea5d6698570ffb97e7da9e05a01447c2b30fc"
+      },
+      "path": "mods/lambdynamiclights-3.2.4+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uLbm7CG6/versions/IwVJyyyk/language-reload-1.7.2%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 74652,
+      "hashes": {
+        "sha1": "e40be09c945822334fb03e917ba76a6bc93dc405",
+        "sha512": "14285d5abc961bdf0a5b11b6cef595491d56140f9619c25c15e3cf8258f5e8e0565e57d009ade394157161864fbed63eaa6368444488332b016dbd686532fbb7"
+      },
+      "path": "mods/language-reload-1.7.2+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/pZRO3EKX/lithium-fabric-0.14.3%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 739558,
+      "hashes": {
+        "sha1": "b6bdee0c100a49bef50905ab947317364cf6345a",
+        "sha512": "31ad08427ac50dd54cd2215c29452bd20430ce13f2bd8f4bdb8a6e2f6222b83df47d5727edac721f9397fa296db2998f9aa3eabe2c4c5d45619f8b5b00cd21fc"
+      },
+      "path": "mods/lithium-fabric-0.14.3+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/qJDfP7WN/versions/eUN0SbET/main-menu-credits-1.2.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 16640,
+      "hashes": {
+        "sha1": "37ad23f76336eedbd940a1f99c5e49d969fdee67",
+        "sha512": "fb12dd676a080691c78a701721520de1469d53e702710b21ca8eead54d56936e6b3a39b1003e022090de40d650239d547c81031cb4b8a8ab619e56b98cd92c2c"
+      },
+      "path": "mods/main-menu-credits-1.2.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ku1JKosh/versions/L5ifBYOF/mica-mc1.21.2-fabric-1.0.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 56273,
+      "hashes": {
+        "sha1": "1c1f06cd753ae5fd45f2b0bb79a1c8d5ac935133",
+        "sha512": "e1c67c17af0a6bd54eeb28612ebe619217242af2c36d4cfcf6511be5da597f8b27e4cdc77971b4c4bad2a90d474d00a828ea4cbbf5ed667d58a39c8e96c867b0"
+      },
+      "path": "mods/mica-mc1.21.2-fabric-1.0.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/bXX9h73M/versions/V5zb0rx9/midnightcontrols-fabric-1.10.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 648566,
+      "hashes": {
+        "sha1": "2143f965a130747ea598dd67f21d0435cad2443e",
+        "sha512": "cfb2ee939a2b95f2599442f674e069bec50dd5a2fafb7a1d61fa3250e8b6ffda14291c5e306241698f01088da046ed6c843960e62ec84d1856d9290371f968a1"
+      },
+      "path": "mods/midnightcontrols-fabric-1.10.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/sGmHWmeL/versions/1.1.1%2B1.17/mixintrace-1.1.1%2B1.17.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 36039,
+      "hashes": {
+        "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
+        "sha512": "ea9034b60bc1c64629a9bcad2e619907692fe6e7464026236c55cc5a4892a20d21dd6318ad0380ab2ec245f7077939b6717d2ed58e00708c17470be14f5e0b5f"
+      },
+      "path": "mods/mixintrace-1.1.1+1.17.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/QdG47OkI/versions/h47zwBfZ/modelfix-1.21.3-1.10-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 66412,
+      "hashes": {
+        "sha1": "3f4d67c87d0a6e8c323f443635013bfd58b8872d",
+        "sha512": "10276e176984a166aa278a560a1648b3055281f6fc1921d01fec11b355896b6f759b2f6d33169096236c32d390767938f41f8aa7bc24af978c5c8605365de67c"
+      },
+      "path": "mods/modelfix-1.21.3-1.10-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/4xPSbh0l/modmenu-12.0.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 986258,
+      "hashes": {
+        "sha1": "7175dbf35737848ab9ea1b8d16798cff22f2ba9e",
+        "sha512": "d215306281e7ad1da1037bc848c806c2e200d7eca39ccd2ca5fc25a03e3eacef2eb15b70fca1d832fb249aecc29a100fc87b9dacf90565fdf822b9a6df355af7"
+      },
+      "path": "mods/modmenu-12.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/51shyZVL/versions/YnqEEVHM/moreculling-fabric-1.21.3-1.1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 328652,
+      "hashes": {
+        "sha1": "7a765571bb0aefb470cc15d3325d28d3b489c57e",
+        "sha512": "6aee3a620e6c8399e587a9e8bf69f740c4c66d291ddad98412280e8a490a8defb11204af8c9b47de056028436aff83d4b571b4938057cc1e0b4ac1073f8c8471"
+      },
+      "path": "mods/moreculling-fabric-1.21.3-1.1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/6xKUDQcB/versions/Cs4frYPf/no-resource-pack-warnings-1.3.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 5173,
+      "hashes": {
+        "sha1": "cf429f2de37fc3cd91980ef05bbf75396a3ffddb",
+        "sha512": "e0ef15de5bbd7891feb27be825f98292973d4666da957c96c95f1e534f85ff7aeaa57d3677ef52bce2ba0104b94c6e0f26d8b284925c03f1b9b902873899ec89"
+      },
+      "path": "mods/no-resource-pack-warnings-1.3.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 216105,
+      "hashes": {
+        "sha1": "3d2a8356a632e1884c5e7b8fa7151032a2c36afe",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      },
+      "path": "mods/noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/MPCX6s5C/versions/qzfntawq/notenoughanimations-fabric-1.8.2-mc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 434038,
+      "hashes": {
+        "sha1": "fbac02c8809b93b666a4aaf0d64c05f38fd0827b",
+        "sha512": "f00b4ea7574bda0c6bc50bc57d9385fb6e7d0557dda0568f888a7563181c4d398cbbeaebf26e59ed33c088d28240f5925e76ce507dc505ef824efecad0adbf23"
+      },
+      "path": "mods/notenoughanimations-fabric-1.8.2-mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kLpYA1ni/versions/jhJ0pnWf/odyssey-lite-4.1.1%2B1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 51626,
+      "hashes": {
+        "sha1": "8fb6dd0075d542ffa0af87264d96bfc575cc2552",
+        "sha512": "b66c5923df1c7218aef2c789ec32a48b75e27fe8b447d7729c1651cfe8de977f5ea7c1a1433d5df13ea143307e840186f7bd8de779ba885f922f12ad6f46db74"
+      },
+      "path": "mods/odyssey-lite-4.1.1+1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/aXf2OSFU/versions/j5LPgV8h/ok_zoomer-fabric-11.0.0-beta.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 368753,
+      "hashes": {
+        "sha1": "7bd216229aacf98a56f6cb77e2500e7d6677c3a5",
+        "sha512": "d5b0c26b69718a2ffb639e32fc7ccd3a3711ddd21be10bbd4c806a57e87a3c3bbea06f7530d0e17382798d59600febdaa321da21aaad68af69a198417eb5e726"
+      },
+      "path": "mods/ok_zoomer-fabric-11.0.0-beta.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/JuksLGBQ/versions/hTnXX4UQ/optigui-2.3.0-beta.7%2B1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 612531,
+      "hashes": {
+        "sha1": "45309097bdabd12c1f9334b1499aed292233009a",
+        "sha512": "312f037710c1b215b88470460f6711db8985944b90163ed8c2435c57ddb0d97d24c2aba0f5e2f2c47d9006e78be469dfe52c47f231c11519be435235f1f17cdf"
+      },
+      "path": "mods/optigui-2.3.0-beta.7+1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ccKDOlHs/versions/3Q7oLImc/owo-lib-0.12.18%2B1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1193247,
+      "hashes": {
+        "sha1": "5c4d100209bc25755e4202820049bb5a591515ed",
+        "sha512": "846a0c8b7b077b3b991fa14fa3e3cdd8558fc071b433f75e183696b8acaea2dec3b3bccfb2f2427553c7ef53cb52d210a140bfb2830706ea66f0590ceca80e28"
+      },
+      "path": "mods/owo-lib-0.12.18+1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/TR0G6vEd/versions/d9EWkJsT/packrule-menus-2.1.0%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 48115,
+      "hashes": {
+        "sha1": "924fb12ae0abf602bcd253d09ceda754cf472848",
+        "sha512": "767894ba036e45551a4d8171fc860391e1b2db64640260c459af90aef11091ecfde20c290a44689ae35592cf18a638e539f6fe37a8389d75dd2ae766b823d192"
+      },
+      "path": "mods/packrule-menus-2.1.0+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/ZNhdX9HW/polytone-1.21.3-2.5.9-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 672210,
+      "hashes": {
+        "sha1": "9465028f010bff746548bc219b748cdc8b6fd352",
+        "sha512": "286f3f33123ead8908214a3ce9665581ec37750e384fe73e03d9cce09dbffbbfac8c154f914c7e597f532fe93628f3cb983e51cf3c48d3966f3bb7b8ba29f14e"
+      },
+      "path": "mods/polytone-1.21.3-2.5.9-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kKib77nY/versions/eK0oN7kx/preferred-gamerules-1.2.0%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 26296,
+      "hashes": {
+        "sha1": "234d4867182b6538d06b025a5b74ee1ba4e04ae0",
+        "sha512": "6195885396ff7306925f68a970624ea865d1327782406a4be87adbd311b99c14e381047d647e8a29147e361efa614c1146cc31c6d15687186ec688b65c71005a"
+      },
+      "path": "mods/preferred-gamerules-1.2.0+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/nCQRBEiR/versions/ydNmmdDT/raised-fabric-1.21.3-4.0.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 87943,
+      "hashes": {
+        "sha1": "49c85b54627b875f5095b08c3e102b79cd4e0cc4",
+        "sha512": "ff7cd11b2133aacde95532ec01b9097618fa4c391a2abad785fdb408ae3882273231e4a77f26641d896145eb47a905b0eb2f0ec10ff51792b41070d6964e0c39"
+      },
+      "path": "mods/raised-fabric-1.21.3-4.0.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 80972,
+      "hashes": {
+        "sha1": "17babc1f306bab306eeae6513e6b66f74592f906",
+        "sha512": "d75be4d00704e714ce335b8b7c42f662c48d6f133508e095bcea12651853a2aa68ca33d4b096bfc9d86e9dbfb43d86fb741180174d4700b396ffdb0c7c6543e9"
+      },
+      "path": "mods/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Fws3jl2f/versions/QQN68wDZ/ridehud-1.3.5%2B1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 87789,
+      "hashes": {
+        "sha1": "3f0bc5a71ce12b248fc992d99082749d429878f4",
+        "sha512": "bed144b73aeeadd058a19efeb433f79c9311019a21cc450e3f14981980336b6a28e2ee88af57d88e7a3f56b8939b12cc56637e393376336a443cc543f1da413c"
+      },
+      "path": "mods/ridehud-1.3.5+1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/4kb30Vsy/rrls-5.0.11%2Bmc1.21.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 171176,
+      "hashes": {
+        "sha1": "6a605913a453845a18b6a38d5b9445374bcb86e1",
+        "sha512": "99a549b0f71e6bf389812e7b2b583fe9635b860ff6a100480b2f55af552bc3af9b45df30b315aa1ced360d84b40bdbead5cf492ed21b9604a3ab2f01b12b779c"
+      },
+      "path": "mods/rrls-5.0.11+mc1.21.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/2YIQkF2v/versions/8bGHpJoK/scoreboardoverhaul-1.2.2-mc1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 7245259,
+      "hashes": {
+        "sha1": "2355c59390e4225ba8cafa43cee8550569cf209c",
+        "sha512": "07176cc7869afa0f6082e316097a00d0ae83e5dd171705ad2909f0354d53ebb266caae2949f7be6f332e5bc1a1b43d84b9ffa80ecceb5878e1871952d8a61b76"
+      },
+      "path": "mods/scoreboardoverhaul-1.2.2-mc1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ExI7GmJi/versions/CH1lMutG/searchstats-fabric-1.0.0%2B1.21.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 35696,
+      "hashes": {
+        "sha1": "4f615793273a2975a69448e58d035d9bcad4c3d0",
+        "sha512": "a486ce15e5817529d3b31fc6244a37d3aa4ad1224c41043510c71010d309e25a68e9c15757f6e6d02ee6a8e09ecee4e39c10d2dab44fc49d91903173960d2358"
+      },
+      "path": "mods/searchstats-fabric-1.0.0+1.21.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/iqK5uv72/versions/x7vxzThG/serverpingerfixer-1.0.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 7160,
+      "hashes": {
+        "sha1": "9ae83d512cc2edeec9cc0ea223a142a93b7fa7bb",
+        "sha512": "2ff604aca28ea59926f98ba1fcb30610d069412e5f27147250fa764b723c2386165bb9a3ff2a68817b13ea8d307a0f25abafddf7e2bc9a47dc5724fd1216cceb"
+      },
+      "path": "mods/serverpingerfixer-1.0.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/2M01OLQq/versions/PphJdojc/shulkerboxtooltip-fabric-5.2.1%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 374020,
+      "hashes": {
+        "sha1": "c1c63878b4c7f45001273d6a7583244b0fc89a1b",
+        "sha512": "ffa3ba172bfc10aa51f189c5f63f672199172274bdbc55b5699b189bcf1f222fef1831b9cf9d4d8e7346aafdf70f5e5fd08121949aea5fa35842d961fb22d5cb"
+      },
+      "path": "mods/shulkerboxtooltip-fabric-5.2.1+1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/HaEoID6C/skinlayers3d-fabric-1.7.4-mc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 472242,
+      "hashes": {
+        "sha1": "a619a6c530225cf016a23fc206516de13ad3ce78",
+        "sha512": "d64d817811f05acb2cc9eb60f848aa2a2e503f71515e5aac3f6c23dd621858f12c236494b524a1298b9145a3029778f82cfa266db35e5b625b41fc5bfbe5f36b"
+      },
+      "path": "mods/skinlayers3d-fabric-1.7.4-mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/CllP7wW0/versions/sqlgDc59/smoothscroll-2.2.1-1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 73536,
+      "hashes": {
+        "sha1": "cc018e1c1e5d2285851eff08af82b5da93e94116",
+        "sha512": "2a29417b0a8932260f39b0a5780f16d6b60de9f58a8d55a1c8d21af43090c0b7b636c4e38ef6ffd0614bd76b97bbede7d0e18d6dbb5e6bba8e760766bdc6bdc4"
+      },
+      "path": "mods/smoothscroll-2.2.1-1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ydZic5r4/versions/SCEPoRDD/smoothswapping-0.9.4-1.21.2-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 60674,
+      "hashes": {
+        "sha1": "284675ad644b31042fd6f47cf0eaf7017f627b9e",
+        "sha512": "9df3b30358f11040af4b5537a5a1e387e67016cfbf2532b65e7ef68dc35a7b6b45eec32e65cab049c5389d921ed6ff8c8c316c97c493c947e93dd3fb3d392a1b"
+      },
+      "path": "mods/smoothswapping-0.9.4-1.21.2-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/ZQ3k4KzW/sodium-extra-fabric-0.6.0%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 360186,
+      "hashes": {
+        "sha1": "823f6010519b0ac30b3edbfa814a3c083c31928f",
+        "sha512": "daf84c399f103c370fa1df778dc6a2597f171a0d19ec689b82fd4ac4197d3447b1a54de2f9fe203b0f10ee78f4ce643d437a9a66820a4a4a10de12db57dbe66e"
+      },
+      "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/qufJMFlM/sodium-fabric-0.6.3%2Bmc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1292327,
+      "hashes": {
+        "sha1": "8369f1c788981dac1abb5459b7f31fd69148552e",
+        "sha512": "847c6571b9234c804e3a01c0c53649e5fcb14c67a74a72f66b56a57ab53e1a037b97c0ddcd029deda0d4b6891670aacc1ebfc45de7ee4f8df31072174ac07ecd"
+      },
+      "path": "mods/sodium-fabric-0.6.3+mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/EIa1eiMm/versions/Aymjs2iN/sodium-shadowy-path-blocks-fabric-4.0.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 62392,
+      "hashes": {
+        "sha1": "d9abec69cdfb21612764142674dcdd398a90c1fe",
+        "sha512": "138cf0d584bbbeb0d5fc4bcc7d4c50c1af7f69caed14680459b30ddfa4a21b2e0e0a39dfd3aed2f95d5cffb13b92add01e65d5bfd30a53f0cf5c682a04760b45"
+      },
+      "path": "mods/sodium-shadowy-path-blocks-fabric-4.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/x02cBj9Y/versions/iSH5aE6f/status-effect-bars-1.0.7.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 43552,
+      "hashes": {
+        "sha1": "1c667909a86f6b957bd26fd344ad873247012cdf",
+        "sha512": "af101a0fcc4d158653d1104f8d33f6b9e6e2e34a624784bd74cd4c57849a34d6c5702cbd74745ce98fbd19b0f9a277c76d8e0c1987616f5b905ebbf7a83d42e7"
+      },
+      "path": "mods/status-effect-bars-1.0.7.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/2U4cBE7v/versions/9qezfaE5/suppressopengl1280-1.2.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1049914,
+      "hashes": {
+        "sha1": "e9605080ef1a9c75bc93e3855e41bf5264919d54",
+        "sha512": "d2fe8f45dc18b59a70e17586e1e3afc9f49bb371638e7163fd8196a641d9d3ba34f1656278a9b8cb542ae4572ee3c76a7d4ec3b66f80500f28b55e3ed22ef9e7"
+      },
+      "path": "mods/suppressopengl1280-1.2.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/NKvLVQMc/versions/VNUQL7vw/symbol-chat-1.21.3-1.2.9.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 240192,
+      "hashes": {
+        "sha1": "d8c16ef844ca04649995c2f0f5a2bc03c6bfb6c0",
+        "sha512": "1a5c7b397a40e59172666b9b779eefa95caecc21ca683a34e348d3db5924dc32b3427d07a9143807eafeb7dd2654004b1eeb778239f579dde2ba309e2e34da82"
+      },
+      "path": "mods/symbol-chat-1.21.3-1.2.9.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/aVyWAtot/versions/K9WxXIbO/tabtweaks-1.5.2%2B1.21.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 24731,
+      "hashes": {
+        "sha1": "67efbe20d42629b17772e7e148b08789f736768a",
+        "sha512": "7a19da4f1410143287b73ad7396c0124f98945c0abd27e3fa2d69e079fa86e9652c0f47a9755ad7178685e0317a9da0c68b12c64d26e398ddba73323398f90d3"
+      },
+      "path": "mods/tabtweaks-1.5.2+1.21.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/RSFrpoou/versions/k1wPsUJP/threatengl-fabric-1.3.3-release.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 52269,
+      "hashes": {
+        "sha1": "47745d498356e667547e184925a6a47fab1faa89",
+        "sha512": "61f061a7d8a8a8f22cbc31a788cd3e81dc2abbef8ca96650b2df552f2523506c73cf194f16a4632b9a8d8c23724aa47a72696025cc0d10517ea6adb21f389f24"
+      },
+      "path": "mods/threatengl-fabric-1.3.3-release.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/evJ7VC0w/versions/RQUm7k82/tooltiptweaks-2.0.0-1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 132052,
+      "hashes": {
+        "sha1": "585e0dde6d379cbdf7b5e71d233db13416ef4eba",
+        "sha512": "2ebcb48436c088bcb2b7be9b96d7eb21dd0b74c50216d9d77f03dd692acdab0f69f68a2d1cfe79e65a4e90c78357cbd4deaa784bf69f0d10565f6f3f07979319"
+      },
+      "path": "mods/tooltiptweaks-2.0.0-1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/vtYpD93u/versions/2ewKd3Ts/vanillaconfig-1.2.12%2B1.21.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 116161,
+      "hashes": {
+        "sha1": "198b2f7faafcccc173a9c88f98e60fdbb323017d",
+        "sha512": "232755ff04ef8f9c37903808b0336cb9e84a2a7a41fd1c64c0bbb86df84fab3c6e16219b62e9786023109c7f9c0f1d01fe6b5e8b6e9c9d0d945e16cb7d3dcf52"
+      },
+      "path": "mods/vanillaconfig-1.2.12+1.21.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/rI0hvYcd/versions/76p4pDXc/visuality-0.7.9%2B1.21.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 80640,
+      "hashes": {
+        "sha1": "c09f95cfc6437c87e8a398cbec255c89db6dc7ff",
+        "sha512": "8f656af4f21466b84fe775c4b0f576fa9cf5ed474f24d38affa75cf2789572d05a6f3fff5c2158fa5a01c776123a6ed5f0bbd573e1fba38e4b047ed6e1dac1b9"
+      },
+      "path": "mods/visuality-0.7.9+1.21.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/wnEe9KBa/versions/lJQrQPiF/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.180-all.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 423031,
+      "hashes": {
+        "sha1": "7a7be1010039f915d17e8969882b58d181cdd56a",
+        "sha512": "8b9edbcd7edf062631fcc91789392911a98c54418eccf4788499e4e70e4827bae9dcf03572f487afb52114fab941aefdd7656a9bc27d5d4dae4738584fe63d1a"
+      },
+      "path": "mods/vmp-fabric-mc1.21.3-0.2.0+beta.7.180-all.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kYuIpRLv/versions/N4HHsahS/waveycapes-fabric-1.4.13-mc1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 360416,
+      "hashes": {
+        "sha1": "f5e88ced78068efb12498d83ebada8959c823079",
+        "sha512": "dfde3c8c9703eb94c1f3edabc9d21a2e4afb54e49aac30071af0d5ffafadde73506cabb046d19ff9231305eedc612e80a0e5dd796fe3fa7d872bd6e1c6b3006f"
+      },
+      "path": "mods/waveycapes-fabric-1.4.13-mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 17373,
+      "hashes": {
+        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+        "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
+      },
+      "path": "mods/yosbr-0.1.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/npx9y1KS/versions/jvzJn4f9/GUI-SimpleStylized_5.0-1.21.2%2B.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1723774,
+      "hashes": {
+        "sha1": "90cc481f0db23a98f6591eaa85510d21975617a9",
+        "sha512": "4ab30acaa6580cb4b8251178a301a1af7a0a148c196046b3f7661476f2e6d82e6f00be68e312b2ffc34c3d396c3d03ca43cee7a984953f6176c50d4e30e3340c"
+      },
+      "path": "resourcepacks/DarkMode.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 516256,
+      "hashes": {
+        "sha1": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2",
+        "sha512": "97a387112a5a94b0e7f4d0d2439977a9f28579303ad883ed3d0fcc3277357f8b3ab2418960f698d1a5f435903e0b2f82716fc92f8500cac090f900b2d2135dcf"
+      },
+      "path": "resourcepacks/FreshAnimations.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/Ucd0w79e/SodiumTranslations.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 216690,
+      "hashes": {
+        "sha1": "3dad9bc155863cfacfaf4b1245bc8030043ed7b1",
+        "sha512": "cc68eec03b3dd8553c089748b70a450b6f11cad6963469852df00e0f3d2def790a1e300a27681beb6d1a98a52f82ebc369b812081cae5ceb9243662f82269ec4"
+      },
+      "path": "resourcepacks/SodiumTranslations.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/mC2IML84/versions/dryiEeUH/ToolTips-Stylized_v1.1b6_1.20%2B-1.21%2B.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 623518,
+      "hashes": {
+        "sha1": "7822e3f4700bfb093d08fd945b8323146343ec9c",
+        "sha512": "92e817f1795f3b5b767f56691a0b81bca505a46ee0ee66c0edcd4c12af70dba68651d29a36d45bd57cec23abda336e1f9fcedb8ecf99d40b9bb421c6008c0d98"
+      },
+      "path": "resourcepacks/ToolTips-Stylized.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/VOBDhgp3/versions/CFsBL1QK/blinking-totem_1.21.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 15714,
+      "hashes": {
+        "sha1": "ef687aeab90b88b3e0a270a1b524fc698875c0de",
+        "sha512": "f5dae65e7460e85ddea919e6e8e4b960eba40768607cbbef681d26b4e33ab038eb4efc7a3d063ee0f14ae6c51acaef183ccfe6f2dc8cce3bc947899fe6d19d4e"
+      },
+      "path": "resourcepacks/blinking-totem.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/xERacUfv/versions/uY600uWm/lower_shield_1.14-1.20.4.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 5320,
+      "hashes": {
+        "sha1": "15e0de79c58ca5c40a45cdfa1c5e7b599770c3b1",
+        "sha512": "9b2da8bef2caf70ae50a5c33af0757246883780113f4da93bfe6148c577289b3f484a8e6b6dee9db2eda6b88dea397b7f26946c28879fc2afd3fe6f4cd69c3d3"
+      },
+      "path": "resourcepacks/lower_shield.zip"
+    }
+  ],
+  "formatVersion": 1,
+  "game": "minecraft",
+  "name": "OptimumFuse - Fabric",
+  "summary": "[1.21.3] [Fabric📜] An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.",
+  "versionId": "1.14.0-beta.1+fabric.1.21.3"
+}

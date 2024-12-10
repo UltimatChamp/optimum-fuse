@@ -1,0 +1,17 @@
+{
+  "global": {
+    "cullParticles": true
+  },
+  "terrain": {
+    "sizeMultiplier": 0.45
+  },
+  "rain": {
+    "enabled": false
+  },
+  "snow": {
+    "enabled": false
+  },
+  "animations": {
+    "enabled": false
+  }
+}
