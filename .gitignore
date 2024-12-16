@@ -3,3 +3,6 @@
 *.sublime-project
 *.sublime-workspace
 .vscode
+
+# Temporary Files
+*~
