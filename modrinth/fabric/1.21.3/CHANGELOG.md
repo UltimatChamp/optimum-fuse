@@ -1,15 +1,11 @@
-## OptimumFuse [`1.14.0-beta.2+fabric.1.21.3`]
+## OptimumFuse [`1.14.0-beta.3+fabric.1.21.3`]
 
-🗃️**Detailed Changelog:** [**1.14.0-beta.1 --> 1.14.0-beta.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.1...1.14.0-beta.2)
+🗃️**Detailed Changelog:** [**1.14.0-beta.2 --> 1.14.0-beta.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.2...1.14.0-beta.3)
 
-<hr>
+---
 
 ### ⛔Unavailable Mods
 
-- **Controlify** _<small>(Incompatible with **Reese's Sodium Options** |
-  See [**isXander/Controlify#419**](https://github.com/isXander/Controlify/issues/419))</small>_
-- **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** |
-  See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
 - **Adaptive Tooltips**
 - **Animatica**
 - **Better Recipe Book**
@@ -25,6 +21,7 @@
 - **Flow**
 - **JJElytraSwap**
 - **No Hotbar Looping**
+- **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
 - **Particle Rain**
 - **Satisfying Buttons**
 - **Sodium Options API** + **Sodium Options Mod Compat** + **TxniLib**
@@ -33,32 +30,55 @@
 - **Tips** + **Bookshelf**
 - **Wakes**
 
-<hr>
+---
 
 ### 🛠️Notes/Changes
 
 - This release has been marked as a **beta**, as a lot of mods _(about 30+)_ are unavailable.
+- Found any bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
+  - Alternatively, you can report it on our [**Discord Server**](https://discord.gg/kfKjjhv3pn).
 
-<hr>
+---
+
+- Enabled **dark mode** by default. _<small>(Looking for your opinions!)</small>_
+  - Added a still panorama to supplement dark mode.
+- Seeking feedback on the new **Advancement Plaques**. _<small>(Adjusted for dark mode)</small>_
+
+---
+
+- Fixed several bugs related to **Fresh Animations**.
+- Fixed **duplicate durabilities** displayed in **Held Item Tooltips**.
+- Fixed issues in **SkinShuffle** previews.
+
+---
+
+### 💡Added
+
+- **Advancement Plaques** + **Iceberg**
+- **Cherry Background**
+- **Dark Embellished Stone (Advancement Plaques)**
+
+---
 
 ### 🔁Re-Added
 
-- **Eating Animation**
-- **Particular ✨**
+- **Controlify**
 
-<hr>
+---
+
+### 🗑️Removed
+
+- **MidnightControls** _<small>(Replaced back with **Controlify** | Seems to be stable now)</small>_
+
+---
 
 ### 🔄️Updated
 
-- **Cloth Config API**
-- **Concurrent Chunk Management Engine (Fabric)**
-- **[ETF] Entity Texture Features**
+- **Chat Patches**
+- **[EMF] Entity Model Features**
 - **Fabric API**
-- **FireHud**
-- **Forge Config API Port**
+- **Fresh Animations**
 - **M.R.U**
-- **Polytone**
-- **Puzzles Lib**
-- **Resourcify**
-- **Sounds**
-- **Translations for Sodium**
+- **Skin Shuffle**
+- **Sodium**
+- **Sodium Extra Information**

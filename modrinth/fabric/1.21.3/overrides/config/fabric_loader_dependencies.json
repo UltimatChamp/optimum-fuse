@@ -20,11 +20,6 @@
       "-depends": {
         "minecraft": "*"
       }
-    },
-    "fancyhealthbar": {
-      "-depends": {
-        "minecraft": "*"
-      }
     }
   }
 }
