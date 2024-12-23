@@ -351,18 +351,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/DUpB8IQV/ScalableLux-0.1.1%2Bfabric.452731d-all.jar"
+        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/otxwJ9w3/ScalableLux-0.1.2%2Bbeta.1%2Bfabric.6d46f24-all.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 139068,
+      "fileSize": 139650,
       "hashes": {
-        "sha1": "ad82869ee5ea17289289d321f0b2ce562a116b63",
-        "sha512": "2f985e3bcca07eea0771ab5a88eca433460510f11af0efdfa01d2ffeb5f8628b3a12100ec50db2d2aa9567dd11684e027d9442be16f7e658ce5946706d9e4f6b"
+        "sha1": "eb8c871d57e786b65ba4c462cd34940700e4d3a9",
+        "sha512": "c830a166205b5238bf9409fe4e7c975a33077401d125bfbf5b5b966a2345c456f858142db12b8c85bb20f298a7970a3a82a9d15bd2b83990179fb6ba0f014aa2"
       },
-      "path": "mods/ScalableLux-0.1.1+fabric.452731d-all.jar"
+      "path": "mods/ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar"
     },
     {
       "downloads": [
@@ -411,18 +411,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3s19I5jr/versions/B1PA98A5/SkinShuffle-2.5.0%2B1.21.3.jar"
+        "https://cdn.modrinth.com/data/3s19I5jr/versions/PEPrIzWc/SkinShuffle-2.6.0%2B1.21.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 8353362,
+      "fileSize": 8358071,
       "hashes": {
-        "sha1": "6f30077655e2205855eb160298ef15540636d0e4",
-        "sha512": "e70d354e9a65037f433e8ec686b8edf256e729555bdc46d265188d84f9f28b2a7384eaea7a33d7fa0ca187aec9c8305ffb60ae44a24d7f160b13561d7a593a7b"
+        "sha1": "776f6560713567fbc7c770c45468f313ae7ecf71",
+        "sha512": "771d5dbc1e6fac32ce736ff2c3ddf9377770a3c6a006407246380733ac85a8f04ff67b18e1d37030595b68d41fa97a089b32d2d79e428c7dca96076f6098acf8"
       },
-      "path": "mods/SkinShuffle-2.5.0+1.21.3.jar"
+      "path": "mods/SkinShuffle-2.6.0+1.21.3.jar"
     },
     {
       "downloads": [
@@ -591,18 +591,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/b8NuvpXJ/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.37.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/2usuGC4L/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.38.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 4655280,
+      "fileSize": 4656379,
       "hashes": {
-        "sha1": "5a4d9caa4b60031617cb1ba132c6ac910b123387",
-        "sha512": "c8573b6964e0cf1b5148be9127a98417dd0ff174de41ae906c293ad738753a8c1eae73725f87268497bd1aca847bc5783cf9f54b1487ae731d71fda4b26865fe"
+        "sha1": "2640b9482f9e603a9cb708d5036fb0045510c3be",
+        "sha512": "ddfa5278bd128b28fb4092192151f500418113dd25c0c178d1709a3160d64cce1507938059f33442ced5b078ab3fae3bcc4cd065040d945852a1865f0d32ac49"
       },
-      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.37.jar"
+      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.38.jar"
     },
     {
       "downloads": [
@@ -903,6 +903,21 @@
         "sha512": "fdf476926cb7974cb39e87a5d1ac5a84f232c8e556b92eb2766697ec419abbf73df1edb24eb6579a97cd4884f4ea54e16cb94b00e0789ac08b7a9f60c5155bb8"
       },
       "path": "mods/entityculling-fabric-1.7.2-mc1.21.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/OSQ8mw2r/versions/s42by1MP/explosive-enhancement-1.3.0-1.21.2-3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 119819,
+      "hashes": {
+        "sha1": "7cd97b3a6ad32737a3a7062e593480ccc9745131",
+        "sha512": "82b7b37d7c4476b6e4a619812979f857a838359cb414e7e2a131b964493eecbd1c69a4f1f249167a645bbdb5c70e0d94dcdc32fef7cd302d54751f943b9b034f"
+      },
+      "path": "mods/explosive-enhancement-1.3.0-1.21.2-3.jar"
     },
     {
       "downloads": [
@@ -1746,6 +1761,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/FZXGlTiU/versions/EYLBDOAn/Blobs_Ench_Icons_1.1.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 114641,
+      "hashes": {
+        "sha1": "27665044cf12cfecdaf86122b728ad4f44ff5e79",
+        "sha512": "1fe4657cf0e8e46a2743153b7c1aa7102d4f0df25e294eef24015ea06d7242502c9e520690ba49acc3ca4ca7e50c5e34c3bd7deed7eb932efef7d3411283d22d"
+      },
+      "path": "resourcepacks/Blobs_Ench_Icons.zip"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/lpWmvxi5/versions/Rwn5n35C/%C2%A7d%C2%A7lCherry%20Background%C2%A7r%C2%A70.zip"
       ],
       "env": {
@@ -1773,6 +1803,21 @@
         "sha512": "10abc51681309bb3637c8d819623d7bef11f3197acf8f7c79c89093528c69038b4322eb5e01403db5502a02604ad7dddd50cb41162713487bf0ce40f1f5ed090"
       },
       "path": "resourcepacks/DarkEmbellishedStone.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9pR04wDX/versions/YayEPgfC/DetailedAnimationsReworkedXJustExpressions%20-%20V1.15%20PATCH.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 166385,
+      "hashes": {
+        "sha1": "05227b1366428af662aaea116749e92f9a4420c1",
+        "sha512": "daa5e83cf597a51c6088550a37ef354997dfee5938738fba68e533e045952c9644bfea76cccec6e27b707e759e7c997e96c18cef28d3dbbe9173995cbc6aa215"
+      },
+      "path": "resourcepacks/DetailedAnimationsReworkedXJustExpressions.zip"
     },
     {
       "downloads": [
@@ -1806,33 +1851,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/IhmUucgL/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/KcFncwDe/SodiumTranslations.zip"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 216620,
+      "fileSize": 217628,
       "hashes": {
-        "sha1": "379b696a049e66683650f188239c1718773a9af5",
-        "sha512": "fdb37ba5d12f0f55f72fe7d2e892855ed85e1a1b8aefdd49e55663be385d2ad348dfb4ae28c2a8e6907bcc646b340d3e1bfe6a087efb93ee5ed04aefd875a3bd"
+        "sha1": "c82a63c7764c00b918876aed2bb1eb1c83ff56db",
+        "sha512": "a444cc63befa94cdfed24bac4fc604a9b0241829808bf9b081d65c6d0c55a25de96875817b2dbf75fb1a12e0913f66dfbceedfcad995c60f2af90563a0a39ff1"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/mC2IML84/versions/dryiEeUH/ToolTips-Stylized_v1.1b6_1.20%2B-1.21%2B.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 623518,
-      "hashes": {
-        "sha1": "7822e3f4700bfb093d08fd945b8323146343ec9c",
-        "sha512": "92e817f1795f3b5b767f56691a0b81bca505a46ee0ee66c0edcd4c12af70dba68651d29a36d45bd57cec23abda336e1f9fcedb8ecf99d40b9bb421c6008c0d98"
-      },
-      "path": "resourcepacks/ToolTips-Stylized.zip"
     },
     {
       "downloads": [
@@ -1848,26 +1878,11 @@
         "sha512": "f5dae65e7460e85ddea919e6e8e4b960eba40768607cbbef681d26b4e33ab038eb4efc7a3d063ee0f14ae6c51acaef183ccfe6f2dc8cce3bc947899fe6d19d4e"
       },
       "path": "resourcepacks/blinking-totem.zip"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/xERacUfv/versions/uY600uWm/lower_shield_1.14-1.20.4.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 5320,
-      "hashes": {
-        "sha1": "15e0de79c58ca5c40a45cdfa1c5e7b599770c3b1",
-        "sha512": "9b2da8bef2caf70ae50a5c33af0757246883780113f4da93bfe6148c577289b3f484a8e6b6dee9db2eda6b88dea397b7f26946c28879fc2afd3fe6f4cd69c3d3"
-      },
-      "path": "resourcepacks/lower_shield.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "OptimumFuse - Fabric",
   "summary": "[1.21.3] [Fabric📜] An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.14.0-beta.3+fabric.1.21.3"
+  "versionId": "1.14.0-beta.4+fabric.1.21.3"
 }

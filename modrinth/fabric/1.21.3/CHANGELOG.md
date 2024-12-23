@@ -1,6 +1,6 @@
-## OptimumFuse [`1.14.0-beta.3+fabric.1.21.3`]
+## OptimumFuse [`1.14.0-beta.4+fabric.1.21.3`]
 
-🗃️**Detailed Changelog:** [**1.14.0-beta.2 --> 1.14.0-beta.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.2...1.14.0-beta.3)
+🗃️**Detailed Changelog:** [**1.14.0-beta.3 --> 1.14.0-beta.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.3...1.14.0-beta.4)
 
 ---
 
@@ -11,15 +11,11 @@
 - **Better Recipe Book**
 - **Cherished Worlds**
 - **CIT Resewn** + **RPRenames**
-- **Colorful Subtitles**
-- **Detailed Animations**
 - **Elytra Physics** + **PrickleMC**
 - **Enhanced Attack Indicator**
-- **Explosive Enhancement**
 - **FabricSkyBoxes** + **FabricSkyBoxes Interop**
 - **FancyHealthBar**
 - **Flow**
-- **JJElytraSwap**
 - **No Hotbar Looping**
 - **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
 - **Particle Rain**
@@ -40,45 +36,29 @@
 
 ---
 
-- Enabled **dark mode** by default. _<small>(Looking for your opinions!)</small>_
-  - Added a still panorama to supplement dark mode.
-- Seeking feedback on the new **Advancement Plaques**. _<small>(Adjusted for dark mode)</small>_
-
----
-
-- Fixed several bugs related to **Fresh Animations**.
-- Fixed **duplicate durabilities** displayed in **Held Item Tooltips**.
-- Fixed issues in **SkinShuffle** previews.
-
----
-
 ### 💡Added
 
-- **Advancement Plaques** + **Iceberg**
-- **Cherry Background**
-- **Dark Embellished Stone (Advancement Plaques)**
+- **blob's Enchant Icons**
 
 ---
 
 ### 🔁Re-Added
 
-- **Controlify**
+- **Detailed Animations**
+- **Explosive Enhancement**
 
 ---
 
 ### 🗑️Removed
 
-- **MidnightControls** _<small>(Replaced back with **Controlify** | Seems to be stable now)</small>_
+- **Lower Shield**
+- **ToolTips Stylized** _<small>(Due to many inconsistencies)</small>_
 
 ---
 
 ### 🔄️Updated
 
-- **Chat Patches**
-- **[EMF] Entity Model Features**
-- **Fabric API**
-- **Fresh Animations**
-- **M.R.U**
+- **Concurrent Chunk Management Engine (Fabric)**
+- **ScalableLux**
 - **Skin Shuffle**
-- **Sodium**
-- **Sodium Extra Information**
+- **Translations for Sodium**

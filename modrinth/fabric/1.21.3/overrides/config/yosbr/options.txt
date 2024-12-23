@@ -4,7 +4,7 @@ renderDistance:12
 simulationDistance:8
 guiScale:4
 maxFps:260
-resourcePacks:["fabric","subtle_effects:biome_color_water_particles","minecraft:supporteatinganimation","file/lower_shield.zip","file/blinking-totem.zip","file/DetailedAnimationsReworkedXJustExpressions.zip","file/FreshAnimations.zip","continuity:default","continuity:glass_pane_culling_fix","file/ToolTips-Stylized.zip","file/GUI-SimpleStylized.zip","file/DarkEmbellishedStone.zip","file/Cherry Background.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
+resourcePacks:["fabric","subtle_effects:biome_color_water_particles","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/blinking-totem.zip","file/DetailedAnimationsReworkedXJustExpressions.zip","file/FreshAnimations.zip","file/GUI-SimpleStylized.zip","file/Blobs_Ench_Icons.zip","file/DarkEmbellishedStone.zip","file/Cherry Background.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
