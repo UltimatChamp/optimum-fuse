@@ -7,8 +7,7 @@
 ### ⛔Unavailable Mods
 
 - **Adaptive Tooltips**
-- **Animatica**
-- **Better Recipe Book**
+- ~~**Better Recipe Book**~~ _<small>(Archived)</small>_
 - **Cherished Worlds**
 - **CIT Resewn** + **RPRenames**
 - **Elytra Physics** + **PrickleMC**
@@ -18,7 +17,6 @@
 - **Flow**
 - **No Hotbar Looping**
 - **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
-- **Particle Rain**
 - **Satisfying Buttons**
 - **Sodium Options API** + **Sodium Options Mod Compat** + **TxniLib**
 - **Talk Bubbles**
@@ -30,7 +28,7 @@
 
 ### 🛠️Notes/Changes
 
-- This release has been marked as a **beta**, as a lot of mods _(about 30+)_ are unavailable.
+- This release has been marked as a **beta**, as some important mods are unavailable.
 - Found any bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
   - Alternatively, you can report it on our [**Discord Server**](https://discord.gg/kfKjjhv3pn).
 
@@ -38,27 +36,26 @@
 
 ### 💡Added
 
-- **blob's Enchant Icons**
+- **Better Clouds**
+- **View Bobbing Options** _<small>(Disabled **hand bobbing**)</small>_
 
 ---
 
 ### 🔁Re-Added
 
-- **Detailed Animations**
-- **Explosive Enhancement**
-
----
-
-### 🗑️Removed
-
-- **Lower Shield**
-- **ToolTips Stylized** _<small>(Due to many inconsistencies)</small>_
+- **Animatica**
+- **Particle Rain**
 
 ---
 
 ### 🔄️Updated
 
+- **AdvancementsSearch**
+- **BetterGrassify**
+- **Blinking Totem**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **ScalableLux**
-- **Skin Shuffle**
+- **DeathView**
+- **Not Enough Animations**
+- **Puzzles Lib**
+- **Tab Tweaks**
 - **Translations for Sodium**
