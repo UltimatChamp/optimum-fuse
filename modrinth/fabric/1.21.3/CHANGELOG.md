@@ -1,6 +1,6 @@
-## OptimumFuse [`1.14.0-beta.4+fabric.1.21.3`]
+## OptimumFuse [`1.14.0-beta.5+fabric.1.21.3`]
 
-🗃️**Detailed Changelog:** [**1.14.0-beta.3 --> 1.14.0-beta.4**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.3...1.14.0-beta.4)
+🗃️**Detailed Changelog:** [**1.14.0-beta.4 --> 1.14.0-beta.5**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.4...1.14.0-beta.5)
 
 ---
 
