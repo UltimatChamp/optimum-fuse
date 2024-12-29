@@ -1,0 +1,11 @@
+plugins {
+    id "org.moddedmc.wiki.toolkit" version "0.2.4"
+}
+
+wiki {
+    docs {
+        mutils {
+            root = file("docs")
+        }
+    }
+}
