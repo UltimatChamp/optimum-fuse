@@ -13,7 +13,6 @@ modrinth:
 [![Wiki](https://img.shields.io/badge/OF-Wiki-%2300AF5C?style=for-the-badge&logo=gitbook&logoColor=%23fff&color=blue)](https://moddedmc.org/en/project/optimum-fuse/docs)
 [![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn)
 [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/optimum-fuse)
-[![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)
 
 </center>
 
