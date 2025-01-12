@@ -1,0 +1,12 @@
+version = 0
+
+[sparks]
+removeVanillaCampfireSparks = false
+candleSparks = false
+furnaceSparks = false
+fireSparks = false
+campfireSparks = false
+torchSparks = false
+lanternSparksDensity = 0
+lavaCauldronSparks = false
+lavaSparks = "OFF"

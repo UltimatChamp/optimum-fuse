@@ -7,16 +7,12 @@ on:
         description: 'Version'
         required: true
         type: string
-      fabric-1-21-1:
-        description: '1.21.1 Fabric'
-        required: true
-        type: boolean
       neo-1-21-1:
         description: '1.21.1 NeoForge'
         required: true
         type: boolean
-      fabric-1-21-3:
-        description: '1.21.3 Fabric'
+      fabric-1-21-4:
+        description: '1.21.4 Fabric'
         required: true
         type: boolean
 
@@ -35,17 +31,11 @@ jobs:
           files: modrinth/neo/1.21.1
           dest: OptimumFuse ${{ inputs.version }}+neo.1.21.1.mrpack
 
-      - name: Zip fabric/1.21.1
+      - name: Zip fabric/1.21.4
         uses: vimtor/action-zip@v1.2
         with:
-          files: modrinth/fabric/1.21.1
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.mrpack
-
-      - name: Zip fabric/1.21.3
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: modrinth/fabric/1.21.3
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.3.mrpack
+          files: modrinth/fabric/1.21.4
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.4.mrpack
 
       - name: Upload to Github
         uses: actions/upload-artifact@v4
@@ -79,8 +69,8 @@ jobs:
           retry-delay: 10000
           fail-mode: fail
 
-      - if: ${{ inputs.fabric-1-21-1 }}
-        name: Publish fabric/1.21.1
+      - if: ${{ inputs.fabric-1-21-4 }}
+        name: Publish fabric/1.21.4
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: nQYjpo27
@@ -88,43 +78,17 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
 
           files: |
-            ${{ github.workspace }}/*fabric.1.21.1.mrpack
+            ${{ github.workspace }}/*fabric.1.21.4.mrpack
 
-          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.1
-          version: ${{ inputs.version }}+fabric.1.21.1
+          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.4
+          version: ${{ inputs.version }}+fabric.1.21.4
           version-type: release
-          changelog-file: modrinth/fabric/1.21.1/CHANGELOG.md
+          changelog-file: modrinth/fabric/1.21.4/CHANGELOG.md
 
           loaders: |
             fabric
           game-versions: |
-            1.21.1
-          game-version-filter: releases
-
-          retry-attempts: 2
-          retry-delay: 10000
-          fail-mode: fail
-
-      - if: ${{ inputs.fabric-1-21-3 }}
-        name: Publish fabric/1.21.3
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          modrinth-id: nQYjpo27
-          modrinth-featured: true
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-
-          files: |
-            ${{ github.workspace }}/*fabric.1.21.3.mrpack
-
-          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.3
-          version: ${{ inputs.version }}+fabric.1.21.3
-          version-type: release
-          changelog-file: modrinth/fabric/1.21.3/CHANGELOG.md
-
-          loaders: |
-            fabric
-          game-versions: |
-            1.21.3
+            1.21.4
           game-version-filter: releases
 
           retry-attempts: 2
@@ -191,19 +155,12 @@ jobs:
           files: modrinth/neo/1.21.1
           dest: OptimumFuse ${{ inputs.version }}+neo.1.21.1.mrpack
 
-      - if: ${{ inputs.fabric-1-21-1 }}
-        name: Mrpack fabric/1.21.1
+      - if: ${{ inputs.fabric-1-21-4 }}
+        name: Mrpack fabric/1.21.4
         uses: vimtor/action-zip@v1.2
         with:
-          files: modrinth/fabric/1.21.1
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.1.mrpack
-
-      - if: ${{ inputs.fabric-1-21-3 }}
-        name: Mrpack fabric/1.21.3
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: modrinth/fabric/1.21.3
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.3.mrpack
+          files: modrinth/fabric/1.21.4
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.4.mrpack
 
 #      - if: ${{ inputs.fabric-1-21-1 }}
 #        name: Zip fabric/1.21.1

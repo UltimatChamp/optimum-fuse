@@ -1,0 +1,5 @@
+offset_y = 65
+background = "NONE"
+
+	[components.durability]
+		include = false
