@@ -1,15 +1,15 @@
-## OptimumFuse [`1.14.0-beta.6+fabric.1.21.4`]
+## OptimumFuse [`1.14.0-beta.7+fabric.1.21.4`]
 
-🗃️**Detailed Changelog:** [**1.14.0-beta.5 --> 1.14.0-beta.6**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.5...1.14.0-beta.6)
+🗃️**Detailed Changelog:** [**1.14.0-beta.6 --> 1.14.0-beta.7**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.6...1.14.0-beta.7)
 
 ---
 
 ### ⛔Unavailable Mods
 
-An mod removed here, is not planned to be added back, currently. 
+Any mod removed here, is not planned to be added back, currently.
 
 - ~~**Adaptive Tooltips**~~
-- **Advancement Plaques + Iceberg** 
+- **Advancement Plaques + Iceberg**
 - ~~**Cherished Worlds**~~
 - **CIT Resewn** + **RPRenames**
 - **Elytra Physics** + **PrickleMC**
@@ -32,7 +32,7 @@ An mod removed here, is not planned to be added back, currently.
 
 ### 🛠️Notes/Changes
 
-- I've added the **Crash Assistant** mod to the modpack. This will open a window listing the respective crash reports and logs. Additionally, it will also instruct you to report the crash on our **Discord server**. The mod is also useful in identifying which mod(s) were added/removed/updated by the user, on top of the modpack.
+- I've added the **Crash Assistant** mod to the modpack. This will open a new window listing the respective crash reports and logs, on the game crashing. Additionally, it will also instruct you to report the crash on our **Discord server**. The mod is also useful in identifying which mod(s) were added/removed/updated by the user, on top of the modpack.
 - What are your thoughts about the new **HUD** mod?
 
 ---
