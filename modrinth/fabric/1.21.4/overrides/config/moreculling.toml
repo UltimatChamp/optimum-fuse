@@ -1,5 +1,0 @@
-version = 1
-leavesCullingMode = "CHECK"
-includeMangroveRoots = true
-entityModelCulling = true
-endGatewayCulling = true

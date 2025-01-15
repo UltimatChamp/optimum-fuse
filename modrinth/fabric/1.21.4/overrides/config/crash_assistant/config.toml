@@ -1,0 +1,10 @@
+[general]
+	help_link = "https://discord.gg/kfKjjhv3pn"
+
+[text]
+	support_name = "OptimumFuse Discord server"
+	support_place = "#optimum-fuse channel"
+	modpack_name = "OptimumFuse"
+
+[modpack_modlist]
+	modpack_creators = ["UltimatChamp"]
