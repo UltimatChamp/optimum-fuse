@@ -8,3 +8,6 @@
 
 [modpack_modlist]
 	modpack_creators = ["UltimatChamp"]
+
+[debug]
+	shown_greeting = true
