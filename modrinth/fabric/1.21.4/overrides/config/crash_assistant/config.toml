@@ -1,5 +1,6 @@
 [general]
 	help_link = "https://discord.gg/kfKjjhv3pn"
+	upload_to = "mclo.gs"
 
 [text]
 	support_name = "OptimumFuse Discord server"
@@ -9,5 +10,5 @@
 [modpack_modlist]
 	modpack_creators = ["UltimatChamp"]
 
-[debug]
+[greeting]
 	shown_greeting = true

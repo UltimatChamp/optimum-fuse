@@ -1,5 +1,6 @@
 {
   "id": "optimum-fuse",
-  "platform": "modrinth",
-  "slug": "optimum-fuse"
+  "platforms": {
+    "modrinth": "optimum-fuse"
+  }
 }

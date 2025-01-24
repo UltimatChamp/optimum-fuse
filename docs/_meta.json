@@ -1,6 +1,18 @@
 {
-  "getting_started.mdx": "Getting Started",
-  "post_installation": "Post Installation",
-  "info": "Info",
-  "contributing": "Contributing"
+  "getting_started.mdx": {
+    "name": "Getting Started",
+    "icon": "CirclePlay"
+  },
+  "post_installation": {
+    "name": "Post Installation",
+    "icon": "CircleCheck"
+  },
+  "info": {
+    "name": "Info",
+    "icon": "Info"
+  },
+  "contributing": {
+    "name": "Contributing",
+    "icon": "HeartHandshake"
+  }
 }
