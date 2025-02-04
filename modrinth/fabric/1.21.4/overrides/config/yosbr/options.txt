@@ -1,14 +1,23 @@
+version:4189
 enableVsync:false
 gamma:1.0
 renderDistance:12
 simulationDistance:8
 guiScale:4
 maxFps:260
-resourcePacks:["fabric","subtle_effects:biome_color_water_particles","file/Eating Animation.zip","continuity:default","continuity:glass_pane_culling_fix","file/blinking-totem.zip","file/DetailedAnimationsReworkedXJustExpressions.zip","file/FreshAnimations.zip","file/GUI-SimpleStylized.zip","file/ColorCraft.zip","file/Blobs_Ench_Icons.zip","file/DarkEmbellishedStone.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
+onboardAccessibility:false
+operatorItemsTab:true
+realmsNotifications:false
+directionalAudio:true
+narratorHotkey:false
+resourcePacks:["vanilla","fabric","subtle_effects:biome_color_water_particles","file/Eating Animation.zip","continuity:default","continuity:glass_pane_culling_fix","file/blinking-totem.zip","file/DetailedAnimationsReworkedXJustExpressions.zip","file/FreshAnimations.zip","file/GUI-SimpleStylized.zip","file/ColorCraft.zip","file/Blobs_Ench_Icons.zip","file/DarkEmbellishedStone.zip","file/SodiumTranslations.zip","file/OptimumFuse_Resources.zip"]
+advancedItemTooltips:true
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
+telemetryOptInExtra:false
 joinedFirstServer:true
+hideBundleTutorial:true
 syncChunkWrites:false
 soundCategory_master:0.4
 soundCategory_music:0.4

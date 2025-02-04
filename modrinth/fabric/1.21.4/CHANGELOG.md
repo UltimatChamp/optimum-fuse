@@ -1,10 +1,10 @@
-## OptimumFuse [`1.14.0-beta.10+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.0-beta.11+fabric.1.21.4`]
 
-🗃️**Detailed Changelog:** [**1.14.0-beta.9 --> 1.14.0-beta.10**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.9...1.14.0-beta.10)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.10 --> 1.14.0-beta.11**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.10...1.14.0-beta.11)
 
 ---
 
-### ⛔Unavailable Mods
+### ⛔<font color="orange">Unavailable Mods</font>
 
 - **Advancement Plaques + Iceberg**
 - **CIT Resewn** + **RPRenames**
@@ -19,44 +19,38 @@
 
 ### 🛠️Notes/Changes
 
-- Reduced the _snore volume_ from **Subtle Effects**. 
+- The scoreboard is now permanently shown.
+- Some changes were made in `options.txt`.
+  - ⚠️<font color="red">Make sure to back up your important keybinds and options, as they will be reset!</font>  
 
 ---
 
-- This release has been marked as a **beta**, as some important mods are unavailable.
+- This release has been marked as a <font color="#ffa347">**beta**</font>, as some important mods are unavailable.
 - Found any bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
   - Alternatively, you can report it on our [**Discord Server**](https://discord.gg/kfKjjhv3pn).
 
 ---
 
-### 💡Added
+### 💡<font color="lime">Added</font>
 
-- **ColorCraft** _<small>(Works well with **EnhancedTooltips**' `Item Name`-based border color | Might make my own resource-pack in the future)</small>_
-- **Server Country Flags**
-- **Sorted Enchantments**
-- **World Play Time**
-- **YDM's Weapon Master**
+- [**OptiBoxes**](https://github.com/lowercasebtw/optiboxes) _<small>(Support for **OptiFine sky packs** | temp<sup>.</sup>?)</small>_
 
 ---
 
-### 🗑️Removed
+### 🔁<font color="green">Re-Added</font>
 
-- **Nuit** _<small>(FabricSkyBoxes)</small>_ + **Nuit Interop** _<small>(Due to a memoryleak and rotation issues)</small>_
+- **Satin Free Wakes**
 
 ---
 
-### 🔄️Updated
+### 🔄️<font color="yellow">Updated</font>
 
 - **Chat Heads**
-- **Concurrent Chunk Management Engine (Fabric)**
-- **Controlify**
+- **Controlling**
 - **Crash Assistant**
 - **EnhancedTooltips**
-- **Fabric API**
-- **Fabric Language Kotlin**
 - **Fzzy Config**
-- **ImmediatelyFast**
-- **ModernFix**
-- **Ok Zoomer**
 - **Polytone**
-- **Shulker Box Tooltip**
+- **Scribble**
+- **Searchables**
+- **Translations for Sodium**
