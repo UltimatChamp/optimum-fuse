@@ -7,9 +7,17 @@
     "modId": "fastquit",
     "version": "3.0.0+1.21.4"
   },
-  "[GitHub] optiboxes-1.0+mc1.21.4-c5f3e88.jar": {
+  "[GitHub] optiboxes-1.0+mc1.21.4-26346da.jar": {
     "modId": "optiboxes",
-    "version": "1.0+mc1.21.4-c5f3e88"
+    "version": "1.0+mc1.21.4-26346da"
+  },
+  "[OptimumFuse Mod Resources] optimumfuse-1.0.0.jar": {
+    "modId": "optimumfuse",
+    "version": "1.0.0"
+  },
+  "AdvancementPlaques-1.21.4-fabric-1.6.8.jar": {
+    "modId": "advancementplaques",
+    "version": "1.6.8"
   },
   "advancementsfullscreen-mc1.21.2+1.2.jar": {
     "modId": "advancementsfullscreen",
@@ -59,17 +67,17 @@
     "modId": "betterthirdperson",
     "version": "1.9.0"
   },
-  "c2me-fabric-mc1.21.4-0.3.2+alpha.0.33.jar": {
+  "c2me-fabric-mc1.21.4-0.3.2+alpha.0.34.jar": {
     "modId": "c2me",
-    "version": "0.3.2+alpha.0.33+1.21.4"
+    "version": "0.3.2+alpha.0.34+1.21.4"
   },
   "capes-1.5.4+1.21.4-fabric.jar": {
     "modId": "capes",
     "version": "1.5.4+1.21.4"
   },
-  "chat_heads-0.13.12-fabric-1.21.4.jar": {
+  "chat_heads-0.13.13-fabric-1.21.4.jar": {
     "modId": "chat_heads",
-    "version": "0.13.12"
+    "version": "0.13.13"
   },
   "chatanimation-1.0.6.jar": {
     "modId": "chatanimation",
@@ -102,6 +110,10 @@
   "Controlling-fabric-1.21.4-22.0.4.jar": {
     "modId": "controlling",
     "version": "22.0.4"
+  },
+  "CraftPresence-2.5.3+1.21.4-fabric.jar": {
+    "modId": "craftpresence",
+    "version": "2.5.3"
   },
   "crash_assistant-fabric-1.3.4.jar": {
     "modId": "crash_assistant",
@@ -175,9 +187,9 @@
     "modId": "explosiveenhancement",
     "version": "1.3.0-1.21.4"
   },
-  "fabric-api-0.115.1+1.21.4.jar": {
+  "fabric-api-0.116.0+1.21.4.jar": {
     "modId": "fabric-api",
-    "version": "0.115.1+1.21.4"
+    "version": "0.116.0+1.21.4"
   },
   "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar": {
     "modId": "fabric-language-kotlin",
@@ -211,13 +223,17 @@
     "modId": "fzzy_config",
     "version": "0.6.4+1.21.3"
   },
-  "held-item-info-1.7.1.jar": {
-    "modId": "held-item-info",
-    "version": "1.7.1"
+  "HeldItemTooltips-v21.4.0-1.21.4-Fabric.jar": {
+    "modId": "helditemtooltips",
+    "version": "21.4.0"
   },
   "i-see-you-over-there-1.0.3+1.21.3.jar": {
     "modId": "i-see-you-over-there",
     "version": "1.0.3+1.21.3"
+  },
+  "Iceberg-1.21.4-fabric-1.2.11.jar": {
+    "modId": "iceberg",
+    "version": "1.2.11"
   },
   "ImmediatelyFast-Fabric-1.3.4+1.21.4.jar": {
     "modId": "immediatelyfast",
@@ -271,9 +287,9 @@
     "modId": "modelfix",
     "version": "1.21.3-1.10"
   },
-  "modernfix-fabric-5.20.2+mc1.21.4.jar": {
+  "modernfix-fabric-5.20.3+mc1.21.4.jar": {
     "modId": "modernfix",
-    "version": "5.20.2+mc1.21.4"
+    "version": "5.20.3+mc1.21.4"
   },
   "modmenu-13.0.1.jar": {
     "modId": "modmenu",
@@ -283,17 +299,17 @@
     "modId": "mutils",
     "version": "1.1.0+fabric.1.21.3"
   },
-  "moreculling-fabric-1.21.4-1.2.3.jar": {
+  "moreculling-fabric-1.21.4-1.2.4.jar": {
     "modId": "moreculling",
-    "version": "1.2.3"
+    "version": "1.2.4"
   },
   "MoreCursors-1.0.3.jar": {
     "modId": "morecursors",
     "version": "1.0.3"
   },
-  "MRU-1.0.7+1.21.4+fabric.jar": {
+  "MRU-1.0.8+1.21.4+fabric.jar": {
     "modId": "mru",
-    "version": "1.0.7+1.21.4+fabric"
+    "version": "1.0.8+1.21.4+fabric"
   },
   "no-resource-pack-warnings-1.3.0.jar": {
     "modId": "no-resource-pack-warnings",
@@ -347,13 +363,21 @@
     "modId": "particular",
     "version": "1.1.1+1.21.4"
   },
-  "polytone-1.21.4-3.2.9-fabric.jar": {
+  "PickUpNotifier-v21.4.0-1.21.4-Fabric.jar": {
+    "modId": "pickupnotifier",
+    "version": "21.4.0"
+  },
+  "polytone-1.21.4-3.2.10-fabric.jar": {
     "modId": "polytone",
-    "version": "1.21.4-3.2.9"
+    "version": "1.21.4-3.2.10"
   },
   "preferred-gamerules-1.2.0+1.21.3.jar": {
     "modId": "preferred-gamerules",
     "version": "1.2.0+1.21.3"
+  },
+  "PuzzlesLib-v21.4.5-1.21.4-Fabric.jar": {
+    "modId": "puzzleslib",
+    "version": "21.4.5"
   },
   "raised-fabric-1.21.3-4.0.1.jar": {
     "modId": "raised",
@@ -435,9 +459,9 @@
     "modId": "sodium-extra",
     "version": "0.6.1+mc1.21.4"
   },
-  "sodium-fabric-0.6.6+mc1.21.4.jar": {
+  "sodium-fabric-0.6.7+mc1.21.4.jar": {
     "modId": "sodium",
-    "version": "0.6.6+mc1.21.4"
+    "version": "0.6.7+mc1.21.4"
   },
   "sodium-shadowy-path-blocks-fabric-4.0.0.jar": {
     "modId": "sspb",
@@ -447,17 +471,13 @@
     "modId": "sodiumoptionsapi",
     "version": "1.0.10"
   },
-  "sodiumoptionsmodcompat-fabric-1.0.0-1.21.4.jar": {
-    "modId": "sodiumoptionsmodcompat",
-    "version": "1.0.0"
-  },
   "sorted_enchantments-2.0.0+1.21+fabric.jar": {
     "modId": "sortedenchantments",
     "version": "2.0.0+1.21+fabric"
   },
-  "Sounds-2.3.2+1.21.4+fabric.jar": {
+  "sounds-2.4.4+1.21.4+fabric.jar": {
     "modId": "sounds",
-    "version": "2.3.2+1.21.4+fabric"
+    "version": "2.4.4+1.21.4+fabric"
   },
   "StackDeobfuscatorFabric-1.4.3+08e71cc.jar": {
     "modId": "stackdeobfuscator",
@@ -498,6 +518,10 @@
   "txnilib-fabric-1.0.22-1.21.4.jar": {
     "modId": "txnilib",
     "version": "1.0.21"
+  },
+  "UniLib-1.0.5+1.21.4-fabric.jar": {
+    "modId": "unilib",
+    "version": "1.0.5"
   },
   "vanillaconfig-1.2.12+1.21.2.jar": {
     "modId": "vanillaconfig",

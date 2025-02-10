@@ -1,27 +1,28 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.0-beta.11+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.0-beta.12+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.10 --> 1.14.0-beta.11**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.10...1.14.0-beta.11)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.11 --> 1.14.0-beta.12**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.11...1.14.0-beta.12)
 
 ---
 
 ### ⛔<font color="orange">Unavailable Mods</font>
 
-- **Advancement Plaques + Iceberg**
+- ~~**Advancement Plaques** + **Iceberg**~~ ✅
 - **CIT Resewn** + **RPRenames**
 - **Flow**
 - **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
 - **Pick Block Pro**
-- **Pick Up Notifier**
+- ~~**Pick Up Notifier** + **Puzzles Lib**~~ ✅
 - **Tips** + **Bookshelf**
-- **Wakes**
 
 ---
 
 ### 🛠️Notes/Changes
 
-- The scoreboard is now permanently shown.
-- Some changes were made in `options.txt`.
-  - ⚠️<font color="red">Make sure to back up your important keybinds and options, as they will be reset!</font>  
+- Added a custom **Discord RPC** implementation.
+  - You can disable this feature by disabling the **CraftPresence** mod.
+
+  <img alt="Preview" width="250px" src="https://github.com/user-attachments/assets/baa39452-8af9-4a0e-bba1-5b69e1a062fd" />
+- Fixed an empty **LambDynamicLights** category in **Sodium**'s _Video Settings_ menu.
 
 ---
 
@@ -33,24 +34,28 @@
 
 ### 💡<font color="lime">Added</font>
 
-- [**OptiBoxes**](https://github.com/lowercasebtw/optiboxes) _<small>(Support for **OptiFine sky packs** | temp<sup>.</sup>?)</small>_
+- **CraftPresence** + **UniLib**
+- **Held Item Tooltips**
 
 ---
 
-### 🔁<font color="green">Re-Added</font>
+### 🗑️<font color="red">Removed</font>
 
-- **Satin Free Wakes**
+- **Held Item Info** _<small>(Replaced by **Held Item Tooltips**)</small>_
+- **Sodium Options Mod Compat**
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
 - **Chat Heads**
-- **Controlling**
-- **Crash Assistant**
-- **EnhancedTooltips**
-- **Fzzy Config**
+- **ColorCraft**
+- **Concurrent Chunk Management Engine (Fabric)**
+- **Fabric API**
+- **M.R.U**
+- **ModernFix**
+- **More Culling**
 - **Polytone**
-- **Scribble**
-- **Searchables**
+- **Sodium**
+- **Sounds**
 - **Translations for Sodium**
