@@ -1,0 +1,42 @@
+{
+  "_schemaVersion": 6,
+  "_lastMCVersionId": 769,
+  "generalSettings": {
+    "detectATLauncherInstance": false,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": false,
+    "clientId": "1336957645868896317",
+    "defaultIcon": "optimumfuse",
+    "enableJoinRequests": true,
+    "preferredClientLevel": 2
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "Idling"
+    }
+  },
+  "displaySettings": {
+    "presenceData": {
+      "details": "{getFirst(menu.message, dimension.message)}",
+      "gameState": "{getOrDefault(server.message)}",
+      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "smallImageKey": "{pack.icon}",
+      "smallImageText": "{getOrDefault(server.message)}",
+      "startTimestamp": "{data.general.time}",
+      "buttons": {
+        "modpack": {
+          "label": "Modpack",
+          "url": "https://modrinth.com/modpack/optimum-fuse"
+        },
+        "discord": {
+          "label": "Discord Server",
+          "url": "https://discord.gg/kfKjjhv3pn"
+        }
+      }
+    }
+  }
+}

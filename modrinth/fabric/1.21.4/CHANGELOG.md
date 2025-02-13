@@ -1,28 +1,19 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.0-beta.12+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.0-beta.13+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.11 --> 1.14.0-beta.12**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.11...1.14.0-beta.12)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.12 --> 1.14.0-beta.13**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.12...1.14.0-beta.13)
 
 ---
 
 ### ⛔<font color="orange">Unavailable Mods</font>
 
-- ~~**Advancement Plaques** + **Iceberg**~~ ✅
 - **CIT Resewn** + **RPRenames**
-- **Flow**
 - **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
-- **Pick Block Pro**
-- ~~**Pick Up Notifier** + **Puzzles Lib**~~ ✅
-- **Tips** + **Bookshelf**
 
 ---
 
 ### 🛠️Notes/Changes
 
-- Added a custom **Discord RPC** implementation.
-  - You can disable this feature by disabling the **CraftPresence** mod.
-
-  <img alt="Preview" width="250px" src="https://github.com/user-attachments/assets/baa39452-8af9-4a0e-bba1-5b69e1a062fd" />
-- Fixed an empty **LambDynamicLights** category in **Sodium**'s _Video Settings_ menu.
+- We're back on [**CurseForge**](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)!
 
 ---
 
@@ -32,30 +23,31 @@
 
 ---
 
-### 💡<font color="lime">Added</font>
+### 🔁<font color="green">Re-Added</font>
 
-- **CraftPresence** + **UniLib**
-- **Held Item Tooltips**
-
----
-
-### 🗑️<font color="red">Removed</font>
-
-- **Held Item Info** _<small>(Replaced by **Held Item Tooltips**)</small>_
-- **Sodium Options Mod Compat**
+- **Fancy Health Bar**
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
-- **Chat Heads**
-- **ColorCraft**
+- **Advancement Plaques**
 - **Concurrent Chunk Management Engine (Fabric)**
+- **Delete Worlds To Trash**
 - **Fabric API**
-- **M.R.U**
-- **ModernFix**
+- **FastQuit**
+- **Iceberg**
+- **Mod Menu**
 - **More Culling**
+- **Not Enough Animations**
 - **Polytone**
-- **Sodium**
-- **Sounds**
-- **Translations for Sodium**
+- **Puzzles Lib**
+
+---
+
+<details>
+<summary>Mods not on Modrinth</summary>
+
+- [**Animatica**](https://github.com/FoundationGames/Animatica/pull/64)
+- [**OptiBoxes**](https://github.com/lowercasebtw/optiboxes)
+</details>

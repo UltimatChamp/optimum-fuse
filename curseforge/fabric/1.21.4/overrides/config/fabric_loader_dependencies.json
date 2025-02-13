@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "overrides": {
+    "chatpatches": {
+      "recommends": {}
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "nohotbarlooping": {
+      "recommends": {}
+    },
+    "wakes": {
+      "recommends": {}
+    },
+    "deleteworldstotrash": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    }
+  }
+}
