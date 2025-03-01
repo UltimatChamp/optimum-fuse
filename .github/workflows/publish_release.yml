@@ -59,51 +59,6 @@ jobs:
           retry-delay: 10000
           fail-mode: fail
 
-  publish-to-curseforge:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout sources
-        uses: actions/checkout@v4
-
-      - name: Zip fabric/1.21.4
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: curseforge/fabric/1.21.4
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.4.zip
-
-      - name: Upload to Github
-        uses: actions/upload-artifact@v4
-        with:
-          name: Curseforge Releases
-          path: ${{ github.workspace }}/*.zip
-
-      - if: ${{ inputs.fabric-1-21-4 }}
-        name: Publish fabric/1.21.4
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          curseforge-id: 887237
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-
-          files: |
-            ${{ github.workspace }}/*fabric.1.21.4.zip
-
-          name: OptimumFuse ${{ inputs.version }}+fabric.1.21.4
-          version: ${{ inputs.version }}+fabric.1.21.4
-          version-type: release
-          changelog-file: curseforge/fabric/1.21.4/CHANGELOG.md
-
-          loaders: |
-            fabric
-          game-versions: |
-            1.21.4
-          game-version-filter: releases
-
-          retry-attempts: 2
-          retry-delay: 10000
-          fail-mode: fail
-
   publish-to-github:
     permissions:
       contents: write
@@ -119,13 +74,6 @@ jobs:
           files: modrinth/fabric/1.21.4
           dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.4.mrpack
 
-      - if: ${{ inputs.fabric-1-21-4 }}
-        name: Zip fabric/1.21.4
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: curseforge/fabric/1.21.4
-          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.4.zip
-
       - name: Publish Packs
         uses: Kir-Antipov/mc-publish@v3.3
         with:
@@ -135,11 +83,10 @@ jobs:
 
           files: |
             ${{ github.workspace }}/*.mrpack
-            ${{ github.workspace }}/*.zip
           name: OptimumFuse ${{ inputs.version }}
           version: ${{ inputs.version }}
           version-type: release
-          changelog: Check out the changelog for the respective version [**here**](https://modrinth.com/modpack/optimum-fuse/changelog).
+          changelog-file: modrinth/fabric/1.21.4/CHANGELOG.md
 
           retry-attempts: 2
           retry-delay: 10000

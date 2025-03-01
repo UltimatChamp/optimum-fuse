@@ -1,6 +1,6 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.0-beta.13+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.0+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.12 --> 1.14.0-beta.13**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.12...1.14.0-beta.13)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.13 --> 1.14.0**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.13...1.14.0)
 
 ---
 
@@ -13,35 +13,51 @@
 
 ### 🛠️Notes/Changes
 
-- We're back on [**CurseForge**](https://www.curseforge.com/minecraft/modpacks/optimum-fuse)!
+- We're out of **beta**!
 
 ---
 
-- This release has been marked as a <font color="#ffa347">**beta**</font>, as some important mods are unavailable.
-- Found any bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
-  - Alternatively, you can report it on our [**Discord Server**](https://discord.gg/kfKjjhv3pn).
+- Added a _modpack-exclusive_ **auto-jump on stairs** feature. Auto-jump makes you move faster on stairs.
+- Added a _modpack-exclusive_ overhaul to the **screenshot** feature.<br />
+  <img width="500px" alt="Preview" src="https://github.com/user-attachments/assets/90dfb601-2df5-4a5a-b5e1-8b377e2f93d1">
 
 ---
 
-### 🔁<font color="green">Re-Added</font>
+### 💡<font color="lime">Added</font>
 
-- **Fancy Health Bar**
+- **BadOptimizations**
+- **GenshinThirdPerson** _<small>(Replaces **Better Third Person** | Much cooler and practical)</small>_
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
-- **Advancement Plaques**
+- **Architectury API**
+- **BetterGrassify**
+- **Chat Heads**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Delete Worlds To Trash**
+- **Crash Assistant**
+- **Dynamic FPS**
+- **e4mc**
 - **Fabric API**
-- **FastQuit**
-- **Iceberg**
-- **Mod Menu**
+- **FixMCStats**
+- **ImmediatelyFast**
+- **Iris Shaders**
+- **Lithium**
 - **More Culling**
-- **Not Enough Animations**
-- **Polytone**
+- **Ok Zoomer**
+- **Particle Effects**
+- **Particle Rain**
 - **Puzzles Lib**
+- **Remove Reloading Screen**
+- **Scribble**
+- **Shulker Box Tooltip**
+- **Skin Shuffle**
+- **Sodium**
+- **Subtle Effects**
+- **Translations for Sodium**
+- **Very Many Players (Fabric)**
+- **YetAnotherConfigLib (YACL)**
 
 ---
 

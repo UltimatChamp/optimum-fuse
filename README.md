@@ -20,7 +20,7 @@ modrinth:
 
 ***
 
-## For Fabric📜 and Neoforge🦊
+## For Fabric📜
 
 An open-source modpack that improves the game's performance and visuals, inspired by OptiFine, while staying true to the vanilla Minecraft experience.
 
@@ -47,7 +47,7 @@ This project uses **semantic versioning**.
 
 (b) _Build Metadata_
 
-1. **`<loader>`:** **Values:** `fabric` or `neo`.
+1. **`<loader>`:** **Values:** `fabric`
 2. **`<mc-version>`:** **Examples:** `1.16.5`, `1.19.2`, `1.20.1` and so on...
 
 ***

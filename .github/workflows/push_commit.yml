@@ -24,23 +24,11 @@ jobs:
           files: modrinth/fabric/1.21.4
           dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.4.mrpack
 
-      - name: Zip fabric/1.21.4
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: curseforge/fabric/1.21.4
-          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.4.zip
-
       - name: Upload Mrpacks to Github
         uses: actions/upload-artifact@v4
         with:
           name: Modrinth Releases
           path: ${{ github.workspace }}/*.mrpack
-
-      - name: Upload Zips to Github
-        uses: actions/upload-artifact@v4
-        with:
-          name: Curseforge Releases
-          path: ${{ github.workspace }}/*.zip
 
   modrinth-desc:
     runs-on: ubuntu-latest
