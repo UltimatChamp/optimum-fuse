@@ -1,6 +1,6 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.0+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.1+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0-beta.13 --> 1.14.0**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0-beta.13...1.14.0)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0 --> 1.14.1**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0...1.14.1)
 
 ---
 
@@ -13,51 +13,34 @@
 
 ### 🛠️Notes/Changes
 
-- We're out of **beta**!
+- Updated logo.
+- Cleaned up _conflicting_ and _unnecessary_ **keybinds**. _<small>(⚠️<font color="red">**Your options in `options.txt` will be overridden**</font>)</small>_
 
 ---
 
-- Added a _modpack-exclusive_ **auto-jump on stairs** feature. Auto-jump makes you move faster on stairs.
-- Added a _modpack-exclusive_ overhaul to the **screenshot** feature.<br />
-  <img width="500px" alt="Preview" src="https://github.com/user-attachments/assets/90dfb601-2df5-4a5a-b5e1-8b377e2f93d1">
+### 🗑️<font color="red">Removed</font>
 
----
-
-### 💡<font color="lime">Added</font>
-
-- **BadOptimizations**
-- **GenshinThirdPerson** _<small>(Replaces **Better Third Person** | Much cooler and practical)</small>_
+- **Controlify** _<small>(Still recommended, but not everyone uses controllers...)</small>_
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
-- **Architectury API**
-- **BetterGrassify**
-- **Chat Heads**
+- **ClickThrough Plus**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Crash Assistant**
 - **Dynamic FPS**
-- **e4mc**
 - **Fabric API**
-- **FixMCStats**
+- **Fancy Block Particles - Renewed**
+- **Fzzy Config**
+- **GUI SimpleStylized**
+- **GenshinThirdPerson**
 - **ImmediatelyFast**
-- **Iris Shaders**
-- **Lithium**
-- **More Culling**
-- **Ok Zoomer**
-- **Particle Effects**
-- **Particle Rain**
+- **Polytone**
 - **Puzzles Lib**
-- **Remove Reloading Screen**
-- **Scribble**
-- **Shulker Box Tooltip**
-- **Skin Shuffle**
-- **Sodium**
+- **Resourcify**
+- **Sounds**
 - **Subtle Effects**
 - **Translations for Sodium**
-- **Very Many Players (Fabric)**
-- **YetAnotherConfigLib (YACL)**
 
 ---
 
