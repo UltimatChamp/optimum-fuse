@@ -3,9 +3,9 @@
     "modId": "animatica",
     "version": "0.6.2+1.21.4"
   },
-  "[GitHub] optiboxes-1.0+mc1.21.4-26346da.jar": {
-    "modId": "optiboxes",
-    "version": "1.0+mc1.21.4-26346da"
+  "[GitHub-PR] nvidium-0.4.0-beta7.jar": {
+    "modId": "nvidium",
+    "version": "0.4.0-beta7"
   },
   "[OptimumFuse Mod Resources] optimumfuse-1.1.0.jar": {
     "modId": "optimumfuse",
@@ -31,9 +31,9 @@
     "modId": "badoptimizations",
     "version": "2.2.1"
   },
-  "better-clouds-1.8.4+1.21.4-fabric.jar": {
+  "better-clouds-1.8.7+1.21.4-fabric.jar": {
     "modId": "betterclouds",
-    "version": "1.8.4+1.21.4-fabric"
+    "version": "1.8.7+1.21.4-fabric"
   },
   "better-highlighting-1.21.4-0.1.4.jar": {
     "modId": "better-highlighting",
@@ -55,21 +55,25 @@
     "modId": "bettercommandblockui",
     "version": "0.5.2a"
   },
-  "BetterGrassify-1.5.0+fabric.1.21.4.jar": {
+  "BetterGrassify-1.5.2+fabric.1.21.4.jar": {
     "modId": "bettergrass",
-    "version": "1.5.0+fabric.1.21.4"
+    "version": "1.5.2+fabric.1.21.4"
   },
   "bettermounthud-1.2.5.jar": {
     "modId": "bettermounthud",
     "version": "1.2.5"
   },
-  "c2me-fabric-mc1.21.4-0.3.2+alpha.0.40.jar": {
-    "modId": "c2me",
-    "version": "0.3.2+alpha.0.40+1.21.4"
+  "boatiview-fabric-0.0.6-1.21.4.jar": {
+    "modId": "boatiview",
+    "version": "0.0.6"
   },
-  "capes-1.5.4+1.21.4-fabric.jar": {
-    "modId": "capes",
-    "version": "1.5.4+1.21.4"
+  "c2me-fabric-mc1.21.4-0.3.2+alpha.0.41.jar": {
+    "modId": "c2me",
+    "version": "0.3.2+alpha.0.41+1.21.4"
+  },
+  "cape-provider-1.0.2.jar": {
+    "modId": "cape-provider",
+    "version": "1.0.2"
   },
   "chat_heads-0.13.14-fabric-1.21.4.jar": {
     "modId": "chat_heads",
@@ -147,9 +151,17 @@
     "modId": "e4mc_minecraft",
     "version": "5.3.0"
   },
+  "EffectDescriptions-v21.4.0-1.21.4-Fabric.jar": {
+    "modId": "effectdescriptions",
+    "version": "21.4.0"
+  },
   "elytra_physics-fabric-2.2_mc1.21.2+.jar": {
     "modId": "elytra_physics",
     "version": "2.2_mc1.21.2+"
+  },
+  "emotecraft-fabric-for-MC1.21.4-2.5.5-b.build.82.jar": {
+    "modId": "emotecraft",
+    "version": "2.5.5-b.build.82"
   },
   "enchantment-lore-1.5.1+MC1.21.2-1.21.4.jar": {
     "modId": "enchantment_lore",
@@ -159,17 +171,13 @@
     "modId": "enhancedblockentities",
     "version": "0.11.3+1.21.4"
   },
-  "EnhancedTooltips-1.4.0+fabric.1.21.4.jar": {
+  "EnhancedTooltips-1.5.2+fabric.1.21.4.jar": {
     "modId": "enhancedtooltips",
-    "version": "1.4.0+fabric.1.21.4"
+    "version": "1.5.2+fabric.1.21.4"
   },
   "entity_model_features_fabric_1.21.4-2.4.1.jar": {
     "modId": "entity_model_features",
     "version": "2.4.1"
-  },
-  "entity_sound_features_fabric_1.21.3-0.5.jar": {
-    "modId": "entity_sound_features",
-    "version": "0.5"
   },
   "entity_texture_features_fabric_1.21.4-6.2.10.jar": {
     "modId": "entity_texture_features",
@@ -179,17 +187,17 @@
     "modId": "explosiveenhancement",
     "version": "1.3.0-1.21.4"
   },
-  "fabric-api-0.118.5+1.21.4.jar": {
+  "fabric-api-0.119.2+1.21.4.jar": {
     "modId": "fabric-api",
-    "version": "0.118.5+1.21.4"
+    "version": "0.119.2+1.21.4"
   },
   "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar": {
     "modId": "fabric-language-kotlin",
     "version": "1.13.1+kotlin.2.1.10"
   },
-  "FancyBlockParticles-1.21.4-fabric-21.4.1.0.jar": {
+  "FancyBlockParticles-1.21.4-fabric-21.4.2.1.jar": {
     "modId": "fbp",
-    "version": "21.4.1.0"
+    "version": "21.4.2.1"
   },
   "FancyHealthBar-1.1.1-1.21.4.jar": {
     "modId": "fancyhealthbar",
@@ -203,9 +211,9 @@
     "modId": "ferritecore",
     "version": "7.1.1"
   },
-  "firehud-1.3.3-1.21.4.jar": {
+  "firehud-1.3.4-1.21.4.jar": {
     "modId": "firehud",
-    "version": "1.3.3-1.21.4"
+    "version": "1.3.4-1.21.4"
   },
   "fix-mc-stats-1.3.2.jar": {
     "modId": "fix-mc-stats",
@@ -219,13 +227,13 @@
     "modId": "freecam",
     "version": "1.3.2+mc1.21.4"
   },
-  "fzzy_config-0.6.5+1.21.3.jar": {
+  "fzzy_config-0.6.6+1.21.3.jar": {
     "modId": "fzzy_config",
-    "version": "0.6.5+1.21.3"
+    "version": "0.6.6+1.21.3"
   },
-  "GenshinThirdPerson-b1.7+1.21.4.jar": {
+  "GenshinThirdPerson-b1.8+1.21.4.jar": {
     "modId": "genshinthirdperson",
-    "version": "b1.7+1.21.4"
+    "version": "b1.8+1.21.4"
   },
   "HeldItemTooltips-v21.4.0-1.21.4-Fabric.jar": {
     "modId": "helditemtooltips",
@@ -239,9 +247,9 @@
     "modId": "iceberg",
     "version": "1.2.13"
   },
-  "ImmediatelyFast-Fabric-1.3.6+1.21.4.jar": {
+  "ImmediatelyFast-Fabric-1.8.0+1.21.4.jar": {
     "modId": "immediatelyfast",
-    "version": "1.3.6+1.21.4"
+    "version": "1.8.0+1.21.4"
   },
   "ImmersiveUI-FABRIC-0.3.0+1.21.2.jar": {
     "modId": "immersiveui",
@@ -259,25 +267,21 @@
     "modId": "keybind_fix",
     "version": "1.0.0"
   },
-  "lambdynamiclights-4.0.1+1.21.4.jar": {
+  "lambdynamiclights-4.1.0+1.21.4.jar": {
     "modId": "lambdynlights",
-    "version": "4.0.1+1.21.4"
+    "version": "4.1.0+1.21.4"
   },
   "language-reload-1.7.2+1.21.4.jar": {
     "modId": "languagereload",
     "version": "1.7.2+1.21.4"
   },
-  "lithium-fabric-0.14.8+mc1.21.4.jar": {
+  "lithium-fabric-0.15.0+mc1.21.4.jar": {
     "modId": "lithium",
-    "version": "0.14.8+mc1.21.4"
+    "version": "0.15.0+mc1.21.4"
   },
   "main-menu-credits-1.2.0.jar": {
     "modId": "isxander-main-menu-credits",
     "version": "1.2.0"
-  },
-  "maptooltip-fabric-1.21.4-4.1.jar": {
-    "modId": "maptooltip",
-    "version": "4.1"
   },
   "mica-mc1.21.2-fabric-1.0.2.jar": {
     "modId": "mica",
@@ -295,17 +299,17 @@
     "modId": "modernfix",
     "version": "5.20.3+mc1.21.4"
   },
-  "modmenu-13.0.2.jar": {
+  "modmenu-13.0.3.jar": {
     "modId": "modmenu",
-    "version": "13.0.2"
+    "version": "13.0.3"
   },
   "ModpackUtils-1.1.0+fabric.1.21.3.jar": {
     "modId": "mutils",
     "version": "1.1.0+fabric.1.21.3"
   },
-  "moreculling-fabric-1.21.4-1.2.7.jar": {
+  "moreculling-fabric-1.21.4-1.2.10.jar": {
     "modId": "moreculling",
-    "version": "1.2.7"
+    "version": "1.2.10"
   },
   "MoreCursors-1.0.3.jar": {
     "modId": "morecursors",
@@ -343,6 +347,10 @@
     "modId": "ok_zoomer",
     "version": "12.0.0-beta.5"
   },
+  "online-emotes-3.3.3.1+mc1.21.4-fabric.jar": {
+    "modId": "online_emotes",
+    "version": "3.3.3.1+mc1.21.4-fabric"
+  },
   "optigui-2.3.0-beta.7+1.21.2.jar": {
     "modId": "optigui",
     "version": "2.3.0-beta.7+1.21.2"
@@ -359,9 +367,9 @@
     "modId": "particle-effects",
     "version": "1.0.2+1.21.4"
   },
-  "particle-rain-3.2.0.jar": {
+  "particle-rain-3.3.2.jar": {
     "modId": "particlerain",
-    "version": "3.2.0"
+    "version": "3.3.2"
   },
   "particle_core-0.2.5+1.21.4.jar": {
     "modId": "particle_core",
@@ -375,17 +383,17 @@
     "modId": "pickupnotifier",
     "version": "21.4.0"
   },
-  "polytone-1.21.4-3.2.17-fabric.jar": {
+  "polytone-1.21.4-3.3.5-fabric.jar": {
     "modId": "polytone",
-    "version": "1.21.4-3.2.17"
+    "version": "1.21.4-3.3.5"
   },
   "preferred-gamerules-1.2.0+1.21.3.jar": {
     "modId": "preferred-gamerules",
     "version": "1.2.0+1.21.3"
   },
-  "PuzzlesLib-v21.4.10-1.21.4-Fabric.jar": {
+  "PuzzlesLib-v21.4.12-1.21.4-Fabric.jar": {
     "modId": "puzzleslib",
-    "version": "21.4.10"
+    "version": "21.4.12"
   },
   "raised-fabric-1.21.3-4.0.1.jar": {
     "modId": "raised",
@@ -406,6 +414,10 @@
   "rrls-5.1.1+mc1.21.4-fabric.jar": {
     "modId": "rrls",
     "version": "5.1.1+mc1.21.4-fabric"
+  },
+  "rsls-1.1.8.jar": {
+    "modId": "rsls",
+    "version": "1.1.8"
   },
   "ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar": {
     "modId": "scalablelux",
@@ -455,9 +467,9 @@
     "modId": "smoothscroll",
     "version": "2.2.2.1"
   },
-  "smoothskies-2.0.8+1.21.4-fabric.jar": {
+  "smoothskies-2.10.1+1.21.4-fabric.jar": {
     "modId": "smoothskies",
-    "version": "2.0.8"
+    "version": "2.10.1"
   },
   "smoothswapping-0.9.4-1.21.2-fabric.jar": {
     "modId": "smoothswapping",
@@ -483,9 +495,9 @@
     "modId": "sortedenchantments",
     "version": "2.0.0+1.21+fabric"
   },
-  "sounds-2.4.5+1.21.4+fabric.jar": {
+  "sounds-2.4.8+1.21.4+fabric.jar": {
     "modId": "sounds",
-    "version": "2.4.5+1.21.4+fabric"
+    "version": "2.4.8+1.21.4+fabric"
   },
   "StackDeobfuscatorFabric-1.4.3+08e71cc.jar": {
     "modId": "stackdeobfuscator",
@@ -499,9 +511,9 @@
     "modId": "status-effect-bars",
     "version": "1.0.7"
   },
-  "SubtleEffects-fabric-1.21.4-1.9.1.jar": {
+  "SubtleEffects-fabric-1.21.4-1.9.3.jar": {
     "modId": "subtle_effects",
-    "version": "1.9.1"
+    "version": "1.9.3"
   },
   "suppressopengl1280-1.2.4.jar": {
     "modId": "suppressopengl1280",
@@ -514,10 +526,6 @@
   "tabtweaks-1.5.3+1.21.3-fabric.jar": {
     "modId": "tabtweaks",
     "version": "1.5.3"
-  },
-  "threatengl-fabric-1.3.3-release.1.jar": {
-    "modId": "threatengl",
-    "version": "1.3.3-release.1"
   },
   "txnilib-fabric-1.0.22-1.21.4.jar": {
     "modId": "txnilib",
@@ -543,9 +551,9 @@
     "modId": "vmp",
     "version": "0.2.0+beta.7.191+1.21.4"
   },
-  "wakes-0.2.2-1.21.4.jar": {
+  "wakes-0.4.1+1.21.4.jar": {
     "modId": "wakes",
-    "version": "0.2.2-1.21.4"
+    "version": "0.4.1+1.21.4"
   },
   "waveycapes-fabric-1.5.1-mc1.21.4.jar": {
     "modId": "waveycapes",
@@ -559,9 +567,9 @@
     "modId": "worldplaytime",
     "version": "1.2.4"
   },
-  "yet_another_config_lib_v3-3.6.3+1.21.4-fabric.jar": {
+  "yet_another_config_lib_v3-3.6.5+1.21.4-fabric.jar": {
     "modId": "yet_another_config_lib_v3",
-    "version": "3.6.3+1.21.4-fabric"
+    "version": "3.6.5+1.21.4-fabric"
   },
   "yosbr-0.1.2.jar": {
     "modId": "yosbr",

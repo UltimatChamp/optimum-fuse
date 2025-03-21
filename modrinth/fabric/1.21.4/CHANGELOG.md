@@ -1,52 +1,74 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.1+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.2+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.0 --> 1.14.1**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.0...1.14.1)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.1 --> 1.14.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.1...1.14.2)
 
 ---
 
 ### ⛔<font color="orange">Unavailable Mods</font>
 
 - **CIT Resewn** + **RPRenames**
-- **Nvidium** _<small>(Incompatible with **Sodium 0.6.0** | See [**MCRcortex/nvidium#241**](https://github.com/MCRcortex/nvidium/issues/241))</small>_
 
 ---
 
 ### 🛠️Notes/Changes
 
-- Updated logo.
-- Cleaned up _conflicting_ and _unnecessary_ **keybinds**. _<small>(⚠️<font color="red">**Your options in `options.txt` will be overridden**</font>)</small>_
+- Tooltips are now animated!
+- You can access the _emote wheel_ with the `B` keybind.
+
+---
+
+### 💡<font color="lime">Added</font>
+
+- **Boat Item View**
+- **Cape Provider** _<small>(Allows cape provider priority and some bug fixes over the original mod)</small>_
+- **Effect Descriptions**
+- **Emotecraft** + **Online Emotes**
+- **Nvidium** _<small>(Unofficial 1.21.4 Port by @drouarb | [**Nividium#282**](https://github.com/MCRcortex/nvidium/pull/282))</small>_
+- **Raise Sound Limit Simplified**
+- **Wakes**
 
 ---
 
 ### 🗑️<font color="red">Removed</font>
 
-- **Controlify** _<small>(Still recommended, but not everyone uses controllers...)</small>_
+- **Capes** _<small>(Replaced with **Cape Provider**)</small>_
+- **[ESF] Entity Sound Features** _<small>(Don't think any resource-pack even uses this format, even now)</small>_
+- **Map Tooltip** _<small>(**EnhancedTooltips** now has this feature)</small>_
+- **Satin Free Wakes** _<small>(Replaced with the official **Wakes** mod | Finally updated, optimized and bug-free)</small>_
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
-- **ClickThrough Plus**
+- **Better Clouds**
+- **BetterGrassify**
+- **blob's Enchant Icons**
 - **Concurrent Chunk Management Engine (Fabric)**
-- **Dynamic FPS**
+- **EnhancedTooltips**
 - **Fabric API**
 - **Fancy Block Particles - Renewed**
+- **FireHud**
 - **Fzzy Config**
-- **GUI SimpleStylized**
 - **GenshinThirdPerson**
 - **ImmediatelyFast**
+- **LambDynamicLights**
+- **Lithium**
+- **Mod Menu**
+- **More Culling**
+- **Particle Rain**
 - **Polytone**
 - **Puzzles Lib**
-- **Resourcify**
+- **Smooth Skies**
 - **Sounds**
 - **Subtle Effects**
 - **Translations for Sodium**
+- **YetAnotherConfigLib (YACL)**
 
 ---
 
 <details>
 <summary>Mods not on Modrinth</summary>
 
-- [**Animatica**](https://github.com/FoundationGames/Animatica/pull/64)
-- [**OptiBoxes**](https://github.com/lowercasebtw/optiboxes)
+- [**Animatica#64**](https://github.com/FoundationGames/Animatica/pull/64)
+- [**Nvidium#282**](https://github.com/MCRcortex/nvidium/pull/282)
 </details>

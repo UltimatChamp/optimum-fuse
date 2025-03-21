@@ -9,14 +9,6 @@
     },
     "nohotbarlooping": {
       "recommends": {}
-    },
-    "wakes": {
-      "recommends": {}
-    },
-    "deleteworldstotrash": {
-      "-depends": {
-        "minecraft": "*"
-      }
     }
   }
 }
