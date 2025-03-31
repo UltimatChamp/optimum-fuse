@@ -1,6 +1,6 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.2+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.3+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.1 --> 1.14.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.1...1.14.2)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.2 --> 1.14.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.2...1.14.3)
 
 ---
 
@@ -12,62 +12,66 @@
 
 ### 🛠️Notes/Changes
 
-- Tooltips are now animated!
-- You can access the _emote wheel_ with the `B` keybind.
+- Now using the _dev/alpha_ build of **Detailed Animations**.
+- Tooltips are now _styled_ to match with the **Dark theme**.
+  - Can be reverted back from **EnhancedTooltips**' config screen by:
+    - Changing the **Border Color Mode** to `Item Name`.
+    - Resetting the **Background Color** option to the default.
+- Fixed issues with riding animals and flying in third person.
+- <font color="red">⚠️ Your options in `options.txt` will get reset.</font>
 
 ---
 
 ### 💡<font color="lime">Added</font>
 
-- **Boat Item View**
-- **Cape Provider** _<small>(Allows cape provider priority and some bug fixes over the original mod)</small>_
-- **Effect Descriptions**
-- **Emotecraft** + **Online Emotes**
-- **Nvidium** _<small>(Unofficial 1.21.4 Port by @drouarb | [**Nividium#282**](https://github.com/MCRcortex/nvidium/pull/282))</small>_
-- **Raise Sound Limit Simplified**
-- **Wakes**
+- **Handful**
+- **Hardcover**
+- **Modern World Creation** + **Konkrete**
+- **Talk Balloons**
 
 ---
 
 ### 🗑️<font color="red">Removed</font>
 
-- **Capes** _<small>(Replaced with **Cape Provider**)</small>_
-- **[ESF] Entity Sound Features** _<small>(Don't think any resource-pack even uses this format, even now)</small>_
-- **Map Tooltip** _<small>(**EnhancedTooltips** now has this feature)</small>_
-- **Satin Free Wakes** _<small>(Replaced with the official **Wakes** mod | Finally updated, optimized and bug-free)</small>_
+- **Not Enough Animations** _<small>(Incompatible with **Detailed Animations**)</small>_
+- **Wavey Capes** _<small>(Issues with **Detailed Animations**)</small>_
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
+- **3D Skin Layers**
+- **Better Biome Reblend**
 - **Better Clouds**
+- **Better Command Block UI**
 - **BetterGrassify**
-- **blob's Enchant Icons**
+- **Chat Patches**
 - **Concurrent Chunk Management Engine (Fabric)**
+- **Controlling**
+- **CraftPresence**
+- **Crash Assistant**
+- **Dark Loading Screen**
+- **Dynamic FPS**
+- **Emotecraft**
 - **EnhancedTooltips**
-- **Fabric API**
-- **Fancy Block Particles - Renewed**
-- **FireHud**
+- **Fabric Language Kotlin**
 - **Fzzy Config**
-- **GenshinThirdPerson**
-- **ImmediatelyFast**
-- **LambDynamicLights**
+- **Language Reload**
 - **Lithium**
-- **Mod Menu**
 - **More Culling**
+- **Particle Effects**
 - **Particle Rain**
 - **Polytone**
 - **Puzzles Lib**
-- **Smooth Skies**
-- **Sounds**
-- **Subtle Effects**
+- **Remove Reloading Screen**
 - **Translations for Sodium**
+- **Very Many Players (Fabric)**
 - **YetAnotherConfigLib (YACL)**
 
 ---
 
 <details>
-<summary>Mods not on Modrinth</summary>
+<summary><b>Mods not on Modrinth</b></summary>
 
 - [**Animatica#64**](https://github.com/FoundationGames/Animatica/pull/64)
 - [**Nvidium#282**](https://github.com/MCRcortex/nvidium/pull/282)

@@ -1,7 +1,21 @@
 {
-	"borderColor": "ITEM_NAME",
-	"horseArmorTooltip": false,
-	"wolfArmorTooltip": false,
-	"bucketTooltip": false,
-	"spawnEggTooltip": false
+	"popUpAnimation": {
+		"magnitude": 0.5
+	},
+	"border": {
+		"borderColor": "CUSTOM",
+		"customBorderColors": {
+			"common": "#3F3F3F50",
+			"endColor": "#3F3F3F50"
+		}
+	},
+	"background": {
+		"backgroundColor": "#1C1C1CF0"
+	},
+	"mobs": {
+		"horseArmorTooltip": false,
+		"wolfArmorTooltip": false,
+		"bucketTooltip": false,
+		"spawnEggTooltip": false
+	}
 }
