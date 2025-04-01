@@ -1,9 +1,5 @@
 {
 	"alwaysShowCrosshair": {
 		"status": false
-	},
-	"cameraBasedMovement": {
-		"disableWhenElytra": false,
-		"disableWhenRiding": false
 	}
 }

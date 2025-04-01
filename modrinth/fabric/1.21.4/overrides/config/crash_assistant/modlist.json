@@ -71,9 +71,9 @@
     "modId": "boatiview",
     "version": "0.0.6"
   },
-  "c2me-fabric-mc1.21.4-0.3.2+alpha.0.43.jar": {
+  "c2me-fabric-mc1.21.4-0.3.1.3.0.jar": {
     "modId": "c2me",
-    "version": "0.3.2+alpha.0.43+1.21.4"
+    "version": "0.3.1.3.0+1.21.4"
   },
   "cape-provider-1.0.2.jar": {
     "modId": "cape-provider",
@@ -527,9 +527,9 @@
     "modId": "status-effect-bars",
     "version": "1.0.7"
   },
-  "SubtleEffects-fabric-1.21.4-1.9.3.jar": {
+  "SubtleEffects-fabric-1.21.4-1.9.4.jar": {
     "modId": "subtle_effects",
-    "version": "1.9.3"
+    "version": "1.9.4"
   },
   "suppressopengl1280-1.2.4.jar": {
     "modId": "suppressopengl1280",
