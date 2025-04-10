@@ -1,15 +1,15 @@
 {
-  "fabric-loader-0.16.10.jar (modloader)": {
+  "fabric-loader-0.16.13.jar (modloader)": {
     "modId": "fabric",
-    "version": "fabric-loader-0.16.10.jar"
+    "version": "fabric-loader-0.16.13.jar"
   },
   "[GitHub-PR] animatica-0.6.2+1.21.4.jar": {
     "modId": "animatica",
     "version": "0.6.2+1.21.4"
   },
-  "[GitHub-PR] nvidium-0.4.0-beta7.jar": {
+  "[GitHub-PR] nvidium-0.4.1-beta3-1.21.4.jar": {
     "modId": "nvidium",
-    "version": "0.4.0-beta7"
+    "version": "0.4.1-beta3-1.21.4"
   },
   "[OptimumFuse Mod Resources] optimumfuse-1.1.0.jar": {
     "modId": "optimumfuse",
@@ -35,9 +35,9 @@
     "modId": "badoptimizations",
     "version": "2.2.1"
   },
-  "better-clouds-1.8.9+1.21.4-fabric.jar": {
+  "better-clouds-1.8.11+1.21.4-fabric.jar": {
     "modId": "betterclouds",
-    "version": "1.8.9+1.21.4-fabric"
+    "version": "1.8.11+1.21.4-fabric"
   },
   "better-highlighting-1.21.4-0.1.4.jar": {
     "modId": "better-highlighting",
@@ -51,7 +51,7 @@
     "modId": "betteraddserver",
     "version": "1.2.5"
   },
-  "betterbiomereblend-1.5.2.jar": {
+  "betterbiomeblend-1.5.2.jar": {
     "modId": "betterbiomeblend",
     "version": "1.5.2"
   },
@@ -87,9 +87,9 @@
     "modId": "chatanimation",
     "version": "1.0.6"
   },
-  "chatpatches-214.6.12.jar": {
+  "chatpatches-214.6.14.jar": {
     "modId": "chatpatches",
-    "version": "214.6.12"
+    "version": "214.6.14"
   },
   "clickthrough-plus-3.3+1.21.3.jar": {
     "modId": "clickthrough",
@@ -115,9 +115,9 @@
     "modId": "craftpresence",
     "version": "2.5.4"
   },
-  "crash_assistant-fabric-1.5.0.jar": {
+  "crash_assistant-fabric-1.6.4.jar": {
     "modId": "crash_assistant",
-    "version": "1.5.0"
+    "version": "1.6.4"
   },
   "cwb-fabric-3.0.0+mc1.21.3.jar": {
     "modId": "cubes-without-borders",
@@ -126,10 +126,6 @@
   "dark-loading-screen-1.6.16.jar": {
     "modId": "dark-loading-screen",
     "version": "1.6.16"
-  },
-  "datapack-reload-helper-1.5.jar": {
-    "modId": "mr_datapack_reloadhelper",
-    "version": "1.5"
   },
   "deathview-1.1.1+1.21.4.jar": {
     "modId": "deathview",
@@ -231,13 +227,13 @@
     "modId": "freecam",
     "version": "1.3.2+mc1.21.4"
   },
-  "fzzy_config-0.6.8+1.21.3.jar": {
+  "fzzy_config-0.6.9+1.21.3.jar": {
     "modId": "fzzy_config",
-    "version": "0.6.8+1.21.3"
+    "version": "0.6.9+1.21.3"
   },
-  "GenshinThirdPerson-b1.8+1.21.4.jar": {
+  "GenshinThirdPerson-b1.9+1.21.4.jar": {
     "modId": "genshinthirdperson",
-    "version": "b1.8+1.21.4"
+    "version": "b1.9+1.21.4"
   },
   "Handful-1.0.0-fabric+mc1.21.4.jar": {
     "modId": "handful",
@@ -250,6 +246,10 @@
   "HeldItemTooltips-v21.4.0-1.21.4-Fabric.jar": {
     "modId": "helditemtooltips",
     "version": "21.4.0"
+  },
+  "HMI 4.3 - 1.21.4.jar": {
+    "modId": "hold-my-items",
+    "version": "4.3"
   },
   "i-see-you-over-there-1.0.3+1.21.3.jar": {
     "modId": "i-see-you-over-there",
@@ -291,9 +291,9 @@
     "modId": "languagereload",
     "version": "1.7.3+1.21.4"
   },
-  "lithium-fabric-0.15.1+mc1.21.4.jar": {
+  "lithium-fabric-0.15.3+mc1.21.4.jar": {
     "modId": "lithium",
-    "version": "0.15.1+mc1.21.4"
+    "version": "0.15.3+mc1.21.4"
   },
   "main-menu-credits-1.2.0.jar": {
     "modId": "isxander-main-menu-credits",
@@ -335,9 +335,9 @@
     "modId": "morecursors",
     "version": "1.0.3"
   },
-  "MRU-1.0.8+1.21.4+fabric.jar": {
+  "mru-1.0.16+1.21.5+fabric.jar": {
     "modId": "mru",
-    "version": "1.0.8+1.21.4+fabric"
+    "version": "1.0.16+1.21.5+fabric"
   },
   "no-resource-pack-warnings-1.3.0.jar": {
     "modId": "no-resource-pack-warnings",
@@ -399,9 +399,9 @@
     "modId": "pickupnotifier",
     "version": "21.4.0"
   },
-  "polytone-1.21.4-3.3.7-fabric.jar": {
+  "polytone-1.21.4-3.3.8-fabric.jar": {
     "modId": "polytone",
-    "version": "1.21.4-3.3.7"
+    "version": "1.21.4-3.3.8"
   },
   "preferred-gamerules-1.2.0+1.21.3.jar": {
     "modId": "preferred-gamerules",
@@ -439,9 +439,9 @@
     "modId": "scalablelux",
     "version": "0.1.2+beta.1+fabric.6d46f24"
   },
-  "scoreboardoverhaul-1.2.2-mc1.21.2.jar": {
+  "scoreboardoverhaul-1.3.0-mc1.21.2.jar": {
     "modId": "scoreboard-overhaul",
-    "version": "1.2.2-mc1.21.2"
+    "version": "1.3.0+mc1.21.2"
   },
   "Scribble-1.5.1+mc1.21.4-fabric.jar": {
     "modId": "scribble",
@@ -475,9 +475,9 @@
     "modId": "skinlayers3d",
     "version": "1.7.5"
   },
-  "SkinShuffle-2.7.0+1.21.4.jar": {
+  "SkinShuffle-2.8.2+1.21.4.jar": {
     "modId": "skinshuffle",
-    "version": "2.7.0+1.21.4"
+    "version": "2.8.2+1.21.4"
   },
   "smoothscroll-2.2.2.1.jar": {
     "modId": "smoothscroll",
@@ -495,9 +495,9 @@
     "modId": "sodium-extra",
     "version": "0.6.1+mc1.21.4"
   },
-  "sodium-fabric-0.6.10+mc1.21.4.jar": {
+  "sodium-fabric-0.6.13+mc1.21.4.jar": {
     "modId": "sodium",
-    "version": "0.6.10+mc1.21.4"
+    "version": "0.6.13+mc1.21.4"
   },
   "sodium-shadowy-path-blocks-fabric-4.0.0.jar": {
     "modId": "sspb",
@@ -511,9 +511,9 @@
     "modId": "sortedenchantments",
     "version": "2.0.0+1.21+fabric"
   },
-  "sounds-2.4.8+1.21.4+fabric.jar": {
+  "sounds-2.4.11+1.21.4+fabric.jar": {
     "modId": "sounds",
-    "version": "2.4.8+1.21.4+fabric"
+    "version": "2.4.11+1.21.4+fabric"
   },
   "StackDeobfuscatorFabric-1.4.3+08e71cc.jar": {
     "modId": "stackdeobfuscator",
@@ -527,17 +527,17 @@
     "modId": "status-effect-bars",
     "version": "1.0.7"
   },
-  "SubtleEffects-fabric-1.21.4-1.9.4.jar": {
+  "SubtleEffects-fabric-1.21.4-1.9.4-hotfix.1.jar": {
     "modId": "subtle_effects",
-    "version": "1.9.4"
+    "version": "1.9.4-hotfix.1"
   },
   "suppressopengl1280-1.2.4.jar": {
     "modId": "suppressopengl1280",
     "version": "1.2.4"
   },
-  "symbol-chat-1.21.4-1.2.11.jar": {
+  "symbol-chat-1.21.4-1.3.0.jar": {
     "modId": "symbol-chat",
-    "version": "1.21.4-1.2.11"
+    "version": "1.21.4-1.3.0"
   },
   "tabtweaks-1.5.3+1.21.3-fabric.jar": {
     "modId": "tabtweaks",
