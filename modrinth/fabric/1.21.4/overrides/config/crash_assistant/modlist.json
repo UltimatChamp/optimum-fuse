@@ -1,7 +1,7 @@
 {
-  "fabric-loader-0.16.13.jar (modloader)": {
+  "fabric-loader-0.16.14.jar (modloader)": {
     "modId": "fabric",
-    "version": "fabric-loader-0.16.13.jar"
+    "version": "fabric-loader-0.16.14.jar"
   },
   "[GitHub-PR] animatica-0.6.2+1.21.4.jar": {
     "modId": "animatica",
@@ -31,9 +31,9 @@
     "modId": "architectury",
     "version": "15.0.3"
   },
-  "BadOptimizations-2.2.1-1.21.2-21.4.jar": {
+  "BadOptimizations-2.2.2-1.21.2-21.5.jar": {
     "modId": "badoptimizations",
-    "version": "2.2.1"
+    "version": "2.2.2"
   },
   "better-clouds-1.8.11+1.21.4-fabric.jar": {
     "modId": "betterclouds",
@@ -75,25 +75,25 @@
     "modId": "c2me",
     "version": "0.3.1.3.0+1.21.4"
   },
+  "CameraOverhaul-v2.0.3-fabric+mc[1.21.2-plus].jar": {
+    "modId": "cameraoverhaul",
+    "version": "2.0.3-fabric+mc.1.21.2-plus"
+  },
   "cape-provider-1.0.2.jar": {
     "modId": "cape-provider",
     "version": "1.0.2"
   },
-  "chat_heads-0.13.14-fabric-1.21.4.jar": {
+  "chat_heads-0.13.18-fabric-1.21.4.jar": {
     "modId": "chat_heads",
-    "version": "0.13.14"
+    "version": "0.13.18"
   },
   "chatanimation-1.0.6.jar": {
     "modId": "chatanimation",
     "version": "1.0.6"
   },
-  "chatpatches-214.6.14.jar": {
+  "chatpatches-214.6.14-secure.jar": {
     "modId": "chatpatches",
-    "version": "214.6.14"
-  },
-  "clickthrough-plus-3.3+1.21.3.jar": {
-    "modId": "clickthrough",
-    "version": "3.3+1.21.3"
+    "version": "214.6.14-secure"
   },
   "cloth-config-17.0.144-fabric.jar": {
     "modId": "cloth-config",
@@ -111,13 +111,13 @@
     "modId": "controlling",
     "version": "22.0.5"
   },
-  "CraftPresence-2.5.4+1.21.4-fabric.jar": {
+  "CraftPresence-2.5.5+1.21.4-fabric.jar": {
     "modId": "craftpresence",
-    "version": "2.5.4"
+    "version": "2.5.5"
   },
-  "crash_assistant-fabric-1.6.4.jar": {
+  "CrashAssistant-fabric-1.19.2-1.21.4-1.7.23.jar": {
     "modId": "crash_assistant",
-    "version": "1.6.4"
+    "version": "1.7.23"
   },
   "cwb-fabric-3.0.0+mc1.21.3.jar": {
     "modId": "cubes-without-borders",
@@ -127,29 +127,21 @@
     "modId": "dark-loading-screen",
     "version": "1.6.16"
   },
-  "deathview-1.1.1+1.21.4.jar": {
-    "modId": "deathview",
-    "version": "1.1.1"
-  },
   "Debugify-1.21.4+1.1.jar": {
     "modId": "debugify",
     "version": "1.21.4+1.1"
-  },
-  "DeleteWorldsToTrash-v21.4.0-1.21.4-Fabric.jar": {
-    "modId": "deleteworldstotrash",
-    "version": "21.4.0"
   },
   "DetailArmorBar-2.6.3+1.21.3-fabric.jar": {
     "modId": "detailab",
     "version": "2.6.3+1.21.3-fabric"
   },
-  "dynamic-fps-3.9.2+minecraft-1.21.2-fabric.jar": {
+  "dynamic-fps-3.9.4+minecraft-1.21.2-fabric.jar": {
     "modId": "dynamic_fps",
-    "version": "3.9.2"
+    "version": "3.9.4"
   },
-  "e4mc_minecraft-fabric-5.3.0.jar": {
+  "e4mc_minecraft-fabric-5.3.1.jar": {
     "modId": "e4mc_minecraft",
-    "version": "5.3.0"
+    "version": "5.3.1"
   },
   "EffectDescriptions-v21.4.0-1.21.4-Fabric.jar": {
     "modId": "effectdescriptions",
@@ -159,21 +151,25 @@
     "modId": "elytra_physics",
     "version": "2.2_mc1.21.2+"
   },
-  "emotecraft-fabric-for-MC1.21.4-2.5.5.jar": {
+  "emotecraft-fabric-for-MC1.21.4-2.5.7.jar": {
     "modId": "emotecraft",
-    "version": "2.5.5"
+    "version": "2.5.7"
   },
   "enchantment-lore-1.5.1+MC1.21.2-1.21.4.jar": {
     "modId": "enchantment_lore",
     "version": "1.5.1"
   },
+  "enhanced_attack_indicator-1.1.1+1.21.2.jar": {
+    "modId": "enhanced_attack_indicator",
+    "version": "1.1.1+1.21.2"
+  },
   "enhancedblockentities-0.11.3+1.21.4.jar": {
     "modId": "enhancedblockentities",
     "version": "0.11.3+1.21.4"
   },
-  "EnhancedTooltips-1.6.0+fabric.1.21.4.jar": {
+  "EnhancedTooltips-1.7.1+fabric.1.21.4.jar": {
     "modId": "enhancedtooltips",
-    "version": "1.6.0+fabric.1.21.4"
+    "version": "1.7.1+fabric.1.21.4"
   },
   "entity_model_features_fabric_1.21.4-2.4.1.jar": {
     "modId": "entity_model_features",
@@ -194,10 +190,6 @@
   "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar": {
     "modId": "fabric-language-kotlin",
     "version": "1.13.2+kotlin.2.1.20"
-  },
-  "FancyBlockParticles-1.21.4-fabric-21.4.2.1.jar": {
-    "modId": "fbp",
-    "version": "21.4.2.1"
   },
   "FancyHealthBar-1.1.1-1.21.4.jar": {
     "modId": "fancyhealthbar",
@@ -243,10 +235,6 @@
     "modId": "hardcover",
     "version": "5.0.1+1.21.4"
   },
-  "HeldItemTooltips-v21.4.0-1.21.4-Fabric.jar": {
-    "modId": "helditemtooltips",
-    "version": "21.4.0"
-  },
   "HMI 4.3 - 1.21.4.jar": {
     "modId": "hold-my-items",
     "version": "4.3"
@@ -263,17 +251,25 @@
     "modId": "immediatelyfast",
     "version": "1.8.0+1.21.4"
   },
+  "immersive-hotbar-1.0.2-1.21.2-1.21.4.jar": {
+    "modId": "immersive-hotbar",
+    "version": "1.0.2-1.21.2-1.21.4"
+  },
   "ImmersiveUI-FABRIC-0.3.0+1.21.2.jar": {
     "modId": "immersiveui",
     "version": "0.3.0"
   },
-  "inventive_inventory-1.1.5.jar": {
+  "inventive-inventory-1.2.jar": {
     "modId": "inventive_inventory",
-    "version": "1.1.5"
+    "version": "1.2"
   },
   "iris-fabric-1.8.8+mc1.21.4.jar": {
     "modId": "iris",
     "version": "1.8.8+mc1.21.4"
+  },
+  "ismah-fabric-2.0.0-1.21.(4).jar": {
+    "modId": "ismah",
+    "version": "2.0.0-1.21.(4)"
   },
   "keybind_fix-1.0.0.jar": {
     "modId": "keybind_fix",
@@ -283,9 +279,9 @@
     "modId": "konkrete",
     "version": "1.9.9"
   },
-  "lambdynamiclights-4.1.0+1.21.4.jar": {
+  "lambdynamiclights-4.1.2+1.21.4.jar": {
     "modId": "lambdynlights",
-    "version": "4.1.0+1.21.4"
+    "version": "4.1.2+1.21.4"
   },
   "language-reload-1.7.3+1.21.4.jar": {
     "modId": "languagereload",
@@ -335,9 +331,9 @@
     "modId": "morecursors",
     "version": "1.0.3"
   },
-  "mru-1.0.16+1.21.5+fabric.jar": {
+  "mru-1.0.17+1.21.5+fabric.jar": {
     "modId": "mru",
-    "version": "1.0.16+1.21.5+fabric"
+    "version": "1.0.17+1.21.5+fabric"
   },
   "no-resource-pack-warnings-1.3.0.jar": {
     "modId": "no-resource-pack-warnings",
@@ -383,9 +379,9 @@
     "modId": "particlerain",
     "version": "3.3.3"
   },
-  "particle_core-0.2.5+1.21.4.jar": {
+  "particle_core-0.2.6+1.21.4.jar": {
     "modId": "particle_core",
-    "version": "0.2.5+1.21.4"
+    "version": "0.2.6+1.21.4"
   },
   "ParticleEffects-1.0.3+1.21.4.jar": {
     "modId": "particle-effects",
@@ -399,9 +395,9 @@
     "modId": "pickupnotifier",
     "version": "21.4.0"
   },
-  "polytone-1.21.4-3.3.8-fabric.jar": {
+  "polytone-1.21.4-3.3.11-fabric.jar": {
     "modId": "polytone",
-    "version": "1.21.4-3.3.8"
+    "version": "1.21.4-3.3.11"
   },
   "preferred-gamerules-1.2.0+1.21.3.jar": {
     "modId": "preferred-gamerules",
@@ -459,10 +455,6 @@
     "modId": "twd-sasf",
     "version": "0.2.1"
   },
-  "servercountryflags-1.10.4-1.21.4-FABRIC.jar": {
-    "modId": "servercountryflags",
-    "version": "1.10.4"
-  },
   "serverpingerfixer-1.0.5.jar": {
     "modId": "serverpingerfixer",
     "version": "1.0.5"
@@ -475,9 +467,9 @@
     "modId": "skinlayers3d",
     "version": "1.7.5"
   },
-  "SkinShuffle-2.8.2+1.21.4.jar": {
+  "SkinShuffle-2.9.1+1.21.4.jar": {
     "modId": "skinshuffle",
-    "version": "2.8.2+1.21.4"
+    "version": "2.9.1+1.21.4"
   },
   "smoothscroll-2.2.2.1.jar": {
     "modId": "smoothscroll",
@@ -535,13 +527,13 @@
     "modId": "suppressopengl1280",
     "version": "1.2.4"
   },
-  "symbol-chat-1.21.4-1.3.0.jar": {
+  "symbol-chat-1.21.4-1.3.0.1.jar": {
     "modId": "symbol-chat",
-    "version": "1.21.4-1.3.0"
+    "version": "1.21.4-1.3.0.1"
   },
-  "tabtweaks-1.5.3+1.21.3-fabric.jar": {
+  "tabtweaks-1.5.5+1.21.3-fabric.jar": {
     "modId": "tabtweaks",
-    "version": "1.5.3"
+    "version": "1.5.5"
   },
   "TalkBalloons-Fabric-1.21.3-1.1.6.jar": {
     "modId": "talk_balloons",
@@ -551,9 +543,9 @@
     "modId": "txnilib",
     "version": "1.0.21"
   },
-  "UniLib-1.0.5+1.21.4-fabric.jar": {
+  "UniLib-1.0.6+1.21.4-fabric.jar": {
     "modId": "unilib",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "vanillaconfig-1.2.12+1.21.2.jar": {
     "modId": "vanillaconfig",

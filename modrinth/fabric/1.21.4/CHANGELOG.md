@@ -1,6 +1,6 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.14.5+fabric.1.21.4`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.14.6+fabric.1.21.4`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.4 --> 1.14.5**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.4...1.14.5)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.5 --> 1.14.6**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.5...1.14.6)
 
 ---
 
@@ -12,38 +12,54 @@
 
 ### 🛠️Notes/Changes
 
-- Updated **Fabric Loader** to `0.16.13`.
-- The inventory is now always centered even if the recipe book is toggled.
-- Adjustments to the tooltip color _<small>(again!)</small>_.
-- Back to using the _stable_ version of **Detailed Animations** as the _alpha_ version has been made _private_.
+- Might be the _last release_ for `1.21.4`; will work on **`1.21.5` beta** next!
+- Updated **Fabric Loader** to `0.16.14`.
 
 ---
 
 ### 💡<font color="lime">Added</font>
 
-- **Hold My Items** _<small>(1<sup>st</sup> person animations!)</small>_
+- **Camera Overhaul** _<small>(Thoughts...?)</small>_
+- **Cubic Leaves** _<small>(Thoughts...?)</small>_
+- **Enhanced Attack Indicator**
+- **I See My Armored Hand**
+- **Immersive Hotbar**
+
+---
+
+### 🗑️<font color="red">Removed</font>
+- **ClickThrough Plus***
+- **DeathView***
+- **Delete Worlds To Trash***
+- **Fancy Block Particles - Renewed***
+- **Held Item Tooltips** _<small>(Replaced with a much better implementation from **EnhancedTooltips**)</small>_
+- **Server Country Flags***
+
+_<small>*Following a poll on the [Discord server](https://discord.gg/kfKjjhv3pn).</small>_
 
 ---
 
 ### 🔄️<font color="yellow">Updated</font>
 
-- **Better Biome Reblend**
-- **Better Clouds**
+- **BadOptimizations**
+- **Chat Heads**
 - **Chat Patches**
+- **CraftPresence**
 - **Crash Assistant**
-- **Fzzy Config**
-- **GenshinThirdPerson**
-- **Lithium**
+- **Dynamic FPS**
+- **e4mc**
+- **Emotecraft**
+- **EnhancedTooltips**
+- **Inventive Inventory**
+- **LambDynamicLights**
 - **M.R.U**
-- **Nvidium**
+- **Particle Core**
 - **Polytone**
-- **Scoreboard Overhaul**
 - **Skin Shuffle**
-- **Sodium**
-- **Sounds**
-- **Subtle Effects**
 - **Symbol Chat**
+- **Tab Tweaks**
 - **Translations for Sodium**
+- **UniLib**
 
 ---
 
