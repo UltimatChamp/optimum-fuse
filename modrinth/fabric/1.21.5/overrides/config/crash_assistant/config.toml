@@ -1,0 +1,14 @@
+[general]
+	help_link = "https://discord.gg/kfKjjhv3pn"
+	upload_to = "mclo.gs"
+
+[text]
+	support_name = "OptimumFuse Discord server"
+	support_place = "#optimum-fuse channel"
+	modpack_name = "OptimumFuse"
+
+[modpack_modlist]
+	modpack_creators = ["UltimatChamp"]
+
+[greeting]
+	shown_greeting = true

@@ -1,0 +1,14 @@
+{
+  "armorSettings": {
+    "originX": "LEFT",
+    "originY": "MIDDLE"
+  },
+  "handSettings": {
+    "leftHandSettings": {
+      "shouldRender": false
+    },
+    "rightHandSettings": {
+      "shouldRender": false
+    }
+  }
+}

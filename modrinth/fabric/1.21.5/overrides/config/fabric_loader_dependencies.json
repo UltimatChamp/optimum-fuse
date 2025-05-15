@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "overrides": {
+    "chatpatches": {
+      "recommends": {}
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "fancyhealthbar": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    }
+  }
+}
