@@ -47,9 +47,13 @@
     "modId": "bettercommandblockui",
     "version": "0.5.3"
   },
-  "BetterGrassify-1.6.0+fabric.1.21.5.jar": {
+  "BetterEnchantmentGlint-1.21.5-2.2.jar": {
+    "modId": "better-enchants",
+    "version": "2.2"
+  },
+  "BetterGrassify-1.6.1+fabric.1.21.5.jar": {
     "modId": "bettergrass",
-    "version": "1.6.0+fabric.1.21.5"
+    "version": "1.6.1+fabric.1.21.5"
   },
   "bettermounthud-1.2.5.jar": {
     "modId": "bettermounthud",
@@ -63,9 +67,9 @@
     "modId": "boatiview",
     "version": "0.0.6"
   },
-  "c2me-fabric-mc1.21.5-0.3.4+alpha.0.1.jar": {
+  "c2me-fabric-mc1.21.5-0.3.4+alpha.0.17.jar": {
     "modId": "c2me",
-    "version": "0.3.4+alpha.0.1+1.21.5"
+    "version": "0.3.4+alpha.0.17+1.21.5"
   },
   "CameraOverhaul-v2.0.4-fabric+mc[1.21.5-plus].jar": {
     "modId": "cameraoverhaul",
@@ -107,9 +111,9 @@
     "modId": "craftpresence",
     "version": "2.6.1"
   },
-  "CrashAssistant-fabric-1.21.5-1.7.28.jar": {
+  "CrashAssistant-fabric-1.21.5-1.8.1.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.28"
+    "version": "1.8.1"
   },
   "cwb-fabric-3.0.0+mc1.21.5.jar": {
     "modId": "cubes-without-borders",
@@ -167,9 +171,9 @@
     "modId": "explosiveenhancement",
     "version": "1.3.0-1.21.4"
   },
-  "fabric-api-0.124.0+1.21.5.jar": {
+  "fabric-api-0.124.2+1.21.5.jar": {
     "modId": "fabric-api",
-    "version": "0.124.0+1.21.5"
+    "version": "0.124.2+1.21.5"
   },
   "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar": {
     "modId": "fabric-language-kotlin",
@@ -223,13 +227,13 @@
     "modId": "i-see-you-over-there",
     "version": "1.0.3+1.21.3"
   },
-  "ImmediatelyFast-Fabric-1.9.3+1.21.5.jar": {
+  "ImmediatelyFast-Fabric-1.9.4+1.21.5.jar": {
     "modId": "immediatelyfast",
-    "version": "1.9.3+1.21.5"
+    "version": "1.9.4+1.21.5"
   },
-  "immersive-hotbar-1.0.2-1.21.5.jar": {
+  "immersive-hotbar-1.0.3-1.21.5.jar": {
     "modId": "immersive-hotbar",
-    "version": "1.0.2-1.21.5"
+    "version": "1.0.3-1.21.5"
   },
   "inventive-inventory-1.2.1.jar": {
     "modId": "inventive_inventory",
@@ -243,9 +247,9 @@
     "modId": "ismah",
     "version": "2.0.0-1.21.(5)"
   },
-  "Item-interactions-mod-fabric-2.1.0.jar": {
+  "item-interactions-mod-fabric+1.21.5-2.1.2.jar": {
     "modId": "item_interactions_mod",
-    "version": "2.1.0"
+    "version": "2.1.2+1.21.5"
   },
   "keybind_fix-1.0.0.jar": {
     "modId": "keybind_fix",
@@ -267,9 +271,17 @@
     "modId": "isxander-main-menu-credits",
     "version": "1.2.0"
   },
+  "maseffects-1.21.5.jar": {
+    "modId": "maseffects",
+    "version": "1.0.0"
+  },
   "mica-mc1.21.2-fabric-1.0.2.jar": {
     "modId": "mica",
     "version": "1.0.2"
+  },
+  "minecraft-cursor-fabric-3.8.0+1.21.4.jar": {
+    "modId": "minecraft-cursor",
+    "version": "3.8.0+1.21.4"
   },
   "mixintrace-1.1.1+1.17.jar": {
     "modId": "mixintrace",
@@ -294,10 +306,6 @@
   "moreculling-fabric-1.21.5-1.3.1.jar": {
     "modId": "moreculling",
     "version": "1.3.1"
-  },
-  "MoreCursors-1.0.3.jar": {
-    "modId": "morecursors",
-    "version": "1.0.3"
   },
   "mru-1.0.17+1.21.5+fabric.jar": {
     "modId": "mru",
@@ -339,6 +347,10 @@
     "modId": "owo",
     "version": "0.12.21+1.21.5"
   },
+  "packed_packs-1.0.0+1.21.5.jar": {
+    "modId": "packed_packs",
+    "version": "1.0.0+1.21.5"
+  },
   "packrule-menus-2.1.0+1.21.3.jar": {
     "modId": "packrule-menus",
     "version": "2.1.0+1.21.3"
@@ -363,9 +375,13 @@
     "modId": "pickupnotifier",
     "version": "21.5.1"
   },
-  "polytone-1.21.5-3.4.1-fabric.jar": {
+  "PlaneAdvancements-Fabric-1.21.5-1.2.jar": {
+    "modId": "planeadvancements",
+    "version": "Fabric-1.21.5-1.2"
+  },
+  "polytone-1.21.5-3.4.2-fabric.jar": {
     "modId": "polytone",
-    "version": "1.21.5-3.4.1"
+    "version": "1.21.5-3.4.2"
   },
   "preferred-gamerules-1.2.0+1.21.3.jar": {
     "modId": "preferred-gamerules",
@@ -439,9 +455,9 @@
     "modId": "skinshuffle",
     "version": "2.9.1+1.21.5"
   },
-  "smoothscroll-2.2.2.2.jar": {
+  "smoothscroll-2.2.3.1+1.21.5.jar": {
     "modId": "smoothscroll",
-    "version": "2.2.2.2"
+    "version": "2.2.3.1"
   },
   "smoothskies-2.10.1+1.21.4-fabric.jar": {
     "modId": "smoothskies",
@@ -503,9 +519,9 @@
     "modId": "throwabletoasts",
     "version": "1.0"
   },
-  "txnilib-fabric-1.0.23-1.21.5.jar": {
+  "txnilib-fabric-1.0.24-1.21.5.jar": {
     "modId": "txnilib",
-    "version": "1.0.23"
+    "version": "1.0.24"
   },
   "UniLib-1.1.0+1.21.5-fabric.jar": {
     "modId": "unilib",

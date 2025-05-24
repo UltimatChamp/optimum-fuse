@@ -1,0 +1,9 @@
+{
+  "resourcepacks": {
+    "applyOnClose": true,
+    "replaceOriginal": true
+  },
+  "datapacks": {
+    "replaceOriginal": true
+  }
+}

@@ -1,6 +1,6 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.15.0-beta.1+fabric.1.21.5`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.15.0-beta.2+fabric.1.21.5`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.14.6 --> 1.15.0-beta.1**](https://github.com/UltimatChamp/optimum-fuse/compare/1.14.6...1.15.0-beta.1)
+🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.15.0-beta.1 --> 1.15.0-beta.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.15.0-beta.1...1.15.0-beta.2)
 
 ---
 
@@ -12,7 +12,7 @@
 - **Elytra Physics**
 - **Enhanced Block Entities**
 - **FireHud**
-- **Fresh Animations** + **Whimscape X Fresh Animations**
+- ~~**Fresh Animations** + **Whimscape x Fresh Animations** + **Whimscape Variated Villagers x Fresh Animations**~~ ✅
 - **Immersive UI**
 - **Modern World Creation**
 - **Online Emotes**
@@ -23,40 +23,45 @@
 
 ### 🛠️Notes/Changes
 
-- Updated to **1.21.5**.
-- This release has been marked as a <font color="#ffa347">**beta**</font>, as some important mods/resource-packs are unavailable.
-- Found any bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
+- This release has been marked as a <font color="#ffa347">**beta**</font>, as some important mods are unavailable.
+- Found a bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
   - Alternatively, you can report it on our [**Discord Server**](https://discord.gg/kfKjjhv3pn).
 
 ---
 
 ### 💡<font color="lime">Added</font>
 
-- **Better Third Person** _<small>(Replaces **Genshin Third Person**)</small>_
-- **DisableHotbarWrap** _<small>(Replaces **No Hotbar Looping**)</small>_
-- **Fishing Indicators**
-- **Item interactions mod** _<small>(Replaces **Immersive UI** | temporarily?)</small>_
-- **Throwable Toasts**
-
----
-
-I've decided to add **Whimscape** to the pack. Would be really helpful if you shared your thoughts!
-
-- **Whimscape**
-- **Whimscape 1.21.4 Panorama**
-- **Whimscape Leaves**
-- **Whimscape Variated Villagers**
+- **Bedrock-Style Cursors**
+- **Enchantment Glint Outline**
+- **Fresh Food**
+- **Mas Effects**
+- **Minecraft Cursor**
+- **Packed Packs**
+- **Plane Advancements**
 
 ---
 
 ### 🗑️<font color="red">Removed</font>
 
-- **Blinking Totem**
-- **ColorCraft**
-- **GUI SimpleStylized**
-- **GenshinThirdPerson**
-- **No Hotbar Looping**
-- **Sorted Enchantments**
+- **Eating Animation Resource Pack** _<small>(Replaced with **Fresh Food**)</small>_
+- **More Cursors** _<small>(Replaced with **Minecraft Cursor**)</small>_
+
+---
+
+### 🔄️<font color="yellow">Updated</font>
+
+- **BetterGrassify**
+- **Concurrent Chunk Management Engine (Fabric)**
+- **Crash Assistant**
+- **Fabric API**
+- **ImmediatelyFast**
+- **Immersive Hotbar**
+- **Item interactions mod**
+- **Polytone**
+- **Smooth Scrolling**
+- **Translations for Sodium**
+- **TxniLib**
+- **Whimscape**
 
 ---
 

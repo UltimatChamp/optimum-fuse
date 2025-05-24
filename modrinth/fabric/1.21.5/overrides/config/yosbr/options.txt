@@ -10,7 +10,7 @@ operatorItemsTab:true
 realmsNotifications:false
 directionalAudio:true
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","subtle_effects:biome_color_water_particles","item_interactions_mod:example_gui_particles","hardcover:vanilla_tweaks","file/DarkEmbellishedStone.zip","file/Blobs_Ench_Icons.zip","file/Eating Animation.zip","file/Whimscape.zip","file/Whimscape Panorama.zip","file/Whimscape Variated Villagers.zip","file/Whimscape_Leaves.zip","file/Cubic Leaves.zip","file/DetailedAnimations.zip","hold-my-items:hmi_3d_buckets","file/OptimumFuse_Resources.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/BedrockStyleCursors.zip","continuity:glass_pane_culling_fix","subtle_effects:biome_color_water_particles","item_interactions_mod:example_gui_particles","hardcover:vanilla_tweaks","file/DarkEmbellishedStone.zip","file/Blobs_Ench_Icons.zip","file/Whimscape.zip","file/Whimscape Panorama.zip","file/Whimscape Variated Villagers.zip","file/FreshAnimations.zip","file/Whimscape_x_FreshAnimations.zip","file/Whimscape Variated Villagers [FA].zip","file/Whimscape_Leaves.zip","file/Cubic Leaves.zip","file/Fresh Food.zip","file/DetailedAnimations.zip","hold-my-items:hmi_3d_buckets","file/OptimumFuse_Resources.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
