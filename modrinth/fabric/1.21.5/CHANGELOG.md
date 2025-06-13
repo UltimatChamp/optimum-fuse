@@ -1,10 +1,10 @@
-## Optimum<font color="#ff6600">Fuse</font> [`1.15.0-beta.2+fabric.1.21.5`]
+## Optimum<font color="#ff6600">Fuse</font> [`1.15.0-beta.3+fabric.1.21.5`]
 
-🗃️<font color="magenta">**Detailed Changelog:**</font> [**1.15.0-beta.1 --> 1.15.0-beta.2**](https://github.com/UltimatChamp/optimum-fuse/compare/1.15.0-beta.1...1.15.0-beta.2)
+🗃️**Detailed Changelog:** [**1.15.0-beta.2 --> 1.15.0-beta.3**](https://github.com/UltimatChamp/optimum-fuse/compare/1.15.0-beta.2...1.15.0-beta.3)
 
 ---
 
-### ⛔<font color="orange">Unavailable Mods</font>
+### ⛔Unavailable Mods
 
 - **Advancement Plaques** + **Iceberg**
 - **CIT Resewn** + **RPRenames**
@@ -12,16 +12,20 @@
 - **Elytra Physics**
 - **Enhanced Block Entities**
 - **FireHud**
-- ~~**Fresh Animations** + **Whimscape x Fresh Animations** + **Whimscape Variated Villagers x Fresh Animations**~~ ✅
 - **Immersive UI**
 - **Modern World Creation**
-- **Online Emotes**
-- **Talk Balloons**
+- ~~**Online Emotes**~~ ✅
+- ~~**Talk Balloons**+**Modern Networking**~~ ✅
 - **Wakes**
 
 ---
 
 ### 🛠️Notes/Changes
+
+- Added **Resource-pack Profiles**. You can now switch between **Bare Bones** <small>[NEW!]</small>, **Whimscape** <small>[DEFAULT]</small> and **Vanilla+ (Light/Dark)** textures, from the **Profiles** option in the **Resource Packs** screen.
+- Optimizations are based on **ExceptionallyOptimized** `1.2.0`.
+
+---
 
 - This release has been marked as a <font color="#ffa347">**beta**</font>, as some important mods are unavailable.
 - Found a bug? Report it [**here**](https://github.com/UltimatChamp/optimum-fuse/issues/new?assignees=&labels=%F0%9F%AA%B2bug&projects=&template=bug-report.yml).
@@ -29,39 +33,42 @@
 
 ---
 
-### 💡<font color="lime">Added</font>
+### 💡Added
 
-- **Bedrock-Style Cursors**
-- **Enchantment Glint Outline**
-- **Fresh Food**
-- **Mas Effects**
-- **Minecraft Cursor**
-- **Packed Packs**
-- **Plane Advancements**
-
----
-
-### 🗑️<font color="red">Removed</font>
-
-- **Eating Animation Resource Pack** _<small>(Replaced with **Fresh Food**)</small>_
-- **More Cursors** _<small>(Replaced with **Minecraft Cursor**)</small>_
+- **AsyncParticles** _<small>(Replaces **Particle Core**)</small>_
+- **Bare Bones**
+  - Bare Bones - Better Leaves
+  - Bare Bones - Connected Textures
+  - Bare Bones x Fresh Animations
+  - Bare Bones x Particle Effects
+  - Bare Bones: Compatibility plus
+- **Bedrodium**
+- **GUI SimpleStylized**
 
 ---
 
-### 🔄️<font color="yellow">Updated</font>
+### 🔄️Updated
 
-- **BetterGrassify**
+- **Cape Provider**
 - **Concurrent Chunk Management Engine (Fabric)**
 - **Crash Assistant**
+- **Emotecraft**
+- **Enchantment Glint Outline**
 - **Fabric API**
+- **FixMCStats**
+- **Fzzy Config**
+- **I See My Armored Hand**
 - **ImmediatelyFast**
-- **Immersive Hotbar**
 - **Item interactions mod**
-- **Polytone**
-- **Smooth Scrolling**
+- **LambDynamicLights**
+- **Minecraft Cursor**
+- **No Resource Pack Warnings**
+- **Puzzles Lib**
+- **Resourcify**
+- **Smooth Skies**
+- **Subtle Effects**
+- **Tab Tweaks**
 - **Translations for Sodium**
-- **TxniLib**
-- **Whimscape**
 
 ---
 
