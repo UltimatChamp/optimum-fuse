@@ -7,16 +7,7 @@
     "dynamic_fps": {
       "recommends": {}
     },
-    "jjelytraswap": {
-      "recommends": {}
-    },
-    "make_bubbles_pop": {
-      "recommends": {}
-    },
-    "nohotbarlooping": {
-      "recommends": {}
-    },
-    "wakes": {
+    "suppressopengl1280": {
       "recommends": {}
     }
   }

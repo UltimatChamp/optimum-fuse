@@ -1,8 +1,0 @@
-version = 0
-
-[dustClouds]
-scale = 0.75
-
-[itemRarity]
-particlesDisplayType = "NOT_COMMON"
-particleColor = "RARITY_COLOR"

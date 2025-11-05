@@ -1,0 +1,5 @@
+[client]
+
+	[client.visual_options]
+		title_color = "#FF54FB54"
+		name_color = "#FFFFFFFF"

@@ -1,7 +1,5 @@
 version = 1
-enableSodiumMenu = false
-leavesCullingMode = "DEPTH"
-leavesCullingAmount = 3
+leavesCullingMode = "CHECK"
 includeMangroveRoots = true
 entityModelCulling = true
 endGatewayCulling = true

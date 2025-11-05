@@ -1,0 +1,6 @@
+{
+  "ingame": {
+    "redirect_screenshot_chat_links": true,
+    "show_button_on_title_screen": false
+  }
+}

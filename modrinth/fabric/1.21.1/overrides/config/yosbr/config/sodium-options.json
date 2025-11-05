@@ -2,8 +2,5 @@
   "quality": {
     "enable_vignette": false,
     "weather_quality": "FAST"
-  },
-  "performance": {
-    "use_entity_culling": false
   }
 }

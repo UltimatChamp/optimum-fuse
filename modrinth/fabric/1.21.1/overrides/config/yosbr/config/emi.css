@@ -1,0 +1,7 @@
+#ui {
+	center-search-bar: false;
+	emi-config-button-visibility: hidden;
+	recipe-tree-button-visibility: hidden;
+	left-sidebar-header: invisible;
+	right-sidebar-size: 9, 100;
+}

@@ -1,0 +1,8 @@
+{
+  "options": {
+    "playSoundSort": true,
+    "playSoundOther": true,
+    "allowSoundOverlap": false,
+    "showButtons": true
+  }
+}

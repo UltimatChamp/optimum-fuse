@@ -1,0 +1,123 @@
+{
+  "resourcepacks": {
+    "applyOnClose": true,
+    "replaceOriginal": true,
+    "lastViewed": 1,
+    "autoIncrement": 4,
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Whimscape",
+        "packIds": [
+          "file/OptimumFuse_Resources.zip",
+          "file/Fresh Buckets.zip",
+          "a_good_place:default_animations",
+          "clientsort:clientsort-dark-mode",
+          "file/DetailedAnimations.zip",
+          "file/Redstone Tweaks.zip",
+          "file/Fresh Food.zip",
+          "file/Cubic Leaves.zip",
+          "file/Whimscape_Leaves.zip",
+          "file/Whimscape Variated Villagers [FA].zip",
+          "file/Whimscape_x_FreshAnimations.zip",
+          "file/FreshAnimations.zip",
+          "file/Whimscape Variated Villagers.zip",
+          "file/Hardware Reforged.zip",
+          "file/Armored Legacy.zip",
+          "file/Whimscape.zip",
+          "file/Blob's Ench Icons.zip",
+          "file/DarkEmbellishedStone.zip",
+          "hardcover:vanilla_tweaks",
+          "item_interactions_mod:example_gui_particles",
+          "continuity:glass_pane_culling_fix",
+          "file/BedrockStyleCursors.zip",
+          "file/SodiumTranslations.zip",
+          "fabric",
+          "vanilla"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bare Bones",
+        "packIds": [
+          "file/OptimumFuse_Resources.zip",
+          "a_good_place:default_animations",
+          "file/DetailedAnimations.zip",
+          "file/Bare Bones - Better Leaves.zip",
+          "file/Bare Bones x Fresh Animations.zip",
+          "file/FreshAnimations.zip",
+          "file/Bare Bones - Connected Textures.zip",
+          "file/Bare Bones x Particle Effects.zip",
+          "file/Bare Bones compatibility plus.zip",
+          "file/Bare Bones.zip",
+          "file/Blob's Ench Icons.zip",
+          "file/DarkEmbellishedStone.zip",
+          "hardcover:vanilla_tweaks",
+          "item_interactions_mod:example_gui_particles",
+          "continuity:glass_pane_culling_fix",
+          "file/BedrockStyleCursors.zip",
+          "file/SodiumTranslations.zip",
+          "fabric",
+          "vanilla"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Vanilla+ [Light Mode]",
+        "packIds": [
+          "file/OptimumFuse_Resources.zip",
+          "file/Fresh Buckets.zip",
+          "a_good_place:default_animations",
+          "file/DetailedAnimations.zip",
+          "file/Redstone Tweaks.zip",
+          "file/Fresh Food.zip",
+          "file/Cubic Leaves.zip",
+          "file/Hardware Reforged.zip",
+          "file/Armored Legacy.zip",
+          "file/FreshAnimations.zip",
+          "file/Blob's Ench Icons.zip",
+          "file/DarkEmbellishedStone.zip",
+          "hardcover:vanilla_tweaks",
+          "item_interactions_mod:example_gui_particles",
+          "continuity:default",
+          "continuity:glass_pane_culling_fix",
+          "file/BedrockStyleCursors.zip",
+          "file/SodiumTranslations.zip",
+          "fabric",
+          "vanilla"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vanilla+ [Dark Mode]",
+        "packIds": [
+          "file/OptimumFuse_Resources.zip",
+          "file/Fresh Buckets.zip",
+          "a_good_place:default_animations",
+          "clientsort:clientsort-dark-mode",
+          "file/DetailedAnimations.zip",
+          "file/Redstone Tweaks.zip",
+          "file/Fresh Food.zip",
+          "file/Hardware Reforged.zip",
+          "file/Armored Legacy.zip",
+          "file/Cubic Leaves.zip",
+          "file/FreshAnimations.zip",
+          "file/Blob's Ench Icons.zip",
+          "hardcover:vanilla_tweaks",
+          "file/DarkEmbellishedStone.zip",
+          "file/GUI-SimpleStylized.zip",
+          "item_interactions_mod:example_gui_particles",
+          "continuity:default",
+          "continuity:glass_pane_culling_fix",
+          "file/BedrockStyleCursors.zip",
+          "file/SodiumTranslations.zip",
+          "fabric",
+          "vanilla"
+        ]
+      }
+    ]
+  },
+  "datapacks": {
+    "replaceOriginal": true
+  }
+}

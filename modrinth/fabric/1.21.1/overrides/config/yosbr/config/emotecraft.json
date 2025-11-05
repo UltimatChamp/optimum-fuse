@@ -1,0 +1,17 @@
+{
+  "config_version": 4,
+  "dark": true,
+  "debug": false,
+  "fastmenu": {
+    "0": {
+      "0": "0de63fbe-2f20-44e0-8969-479b76ceeb6b",
+      "1": "a2969c42-520f-4c5c-a024-a7d0a2b7b4d1",
+      "2": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a",
+      "3": "ebfb1e69-330a-4970-8bca-f5625c90681a",
+      "4": "96506a5e-a69c-4a18-9add-d43dfd272fa6",
+      "5": "33b912f8-0aa0-45e6-a2d4-9b5677e6f35c",
+      "6": "931b2bda-a25e-4e55-957a-88c46f5e9a7b",
+      "7": "3045b335-12ca-4ddb-aca5-0aef450a5e4c"
+    }
+  }
+}

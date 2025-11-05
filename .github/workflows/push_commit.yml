@@ -18,11 +18,11 @@ jobs:
           calculatedSha=$(git rev-parse --short ${{ github.sha }})
           echo "COMMIT_SHORT_SHA=$calculatedSha" >> $GITHUB_ENV
 
-      - name: Mrpack fabric/1.21.5
+      - name: Mrpack fabric/1.21.1
         uses: vimtor/action-zip@v1.2
         with:
-          files: modrinth/fabric/1.21.5
-          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.5.mrpack
+          files: modrinth/fabric/1.21.1
+          dest: OptimumFuse ${{ env.COMMIT_SHORT_SHA }}+fabric.1.21.1.mrpack
 
       - name: Upload Mrpacks to Github
         uses: actions/upload-artifact@v4
